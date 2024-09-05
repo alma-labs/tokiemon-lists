@@ -2,7 +2,7 @@ import { CommunityToken } from "../types";
 
 export const communityTokens: CommunityToken[] = [
   {
-    id: "AAVE",
+    communityId: "AAVE",
     name: "Aave",
     symbol: "AAVE",
     logoURI:
@@ -10,7 +10,7 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
   },
   {
-    id: "USDC",
+    communityId: "USDC",
     name: "USDC",
     symbol: "USDC",
     logoURI:
