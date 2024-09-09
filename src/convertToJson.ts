@@ -1,6 +1,6 @@
 import { writeFileSync, readdirSync, mkdirSync, existsSync } from "fs";
 import { resolve } from "path";
-import { communityTokens } from "./communityTokens"; // Directly import community tokens
+import { communityTokens } from "./communityTokens";
 
 const outputDir = resolve(__dirname, "../tokens");
 
