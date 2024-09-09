@@ -1,0 +1,13 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+npx ts-node src/convertToJson.ts
+
+# If successful, stage the files and commit the changes
+if [ $? -eq 0 ]; then
+  git add tokens
+  git commit -m "Auto-generate JSON files before push"
+else
+  echo "❌ JSON generation failed. Aborting push."
+  exit 1
+fi
