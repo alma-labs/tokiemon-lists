@@ -17,4 +17,12 @@ export const communityTokens: CommunityToken[] = [
       "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547034163",
     extraPaymentTokens: [],
   },
+  {
+    communityId: "WIF",
+    name: "dogwifhat",
+    symbol: "WIF",
+    logoURI:
+      "https://assets.coingecko.com/coins/images/33566/standard/dogwifhat.jpg?1702499428",
+    extraPaymentTokens: [],
+  },
 ];

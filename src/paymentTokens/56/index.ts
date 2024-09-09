@@ -1,6 +1,6 @@
 import { PaymentToken } from "../../types";
 
-const defaultPaymentTokens: PaymentToken[] = [
+const paymentTokens: PaymentToken[] = [
   {
     name: "USDC",
     symbol: "USDC",
@@ -11,3 +11,5 @@ const defaultPaymentTokens: PaymentToken[] = [
       "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547034163",
   },
 ];
+
+export default paymentTokens;
