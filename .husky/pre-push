@@ -1,13 +1,27 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
+# Run the TypeScript JSON conversion script
 npx ts-node src/convertToJson.ts
 
-# If successful, stage the files and commit the changes
-if [ $? -eq 0 ]; then
+# Capture the exit status
+STATUS=$?
+
+# If the script succeeded
+if [ $STATUS -eq 0 ]; then
+  # Add any modified or newly generated files (e.g., tokens/*.json)
   git add tokens
-  git commit -m "Auto-generate JSON files before push"
+
+  # Check if there are any changes to commit
+  if ! git diff --cached --quiet; then
+    # Commit the changes
+    git commit -m "Auto-generate JSON files before push"
+  fi
+
+  # Proceed with the push
+  exit 0
 else
+  # If the script failed, abort the push
   echo "❌ JSON generation failed. Aborting push."
   exit 1
 fi
