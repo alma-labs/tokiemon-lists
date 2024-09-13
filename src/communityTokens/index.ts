@@ -33,4 +33,12 @@ export const communityTokens: CommunityToken[] = [
       "https://assets.coingecko.com/coins/images/12504/standard/uniswap-logo.png?1720676669",
     extraPaymentTokens: [],
   },
+  {
+    communityId: "BRETT",
+    name: "Brett",
+    symbol: "BRETT",
+    logoURI:
+      "https://assets.coingecko.com/coins/images/35529/large/1000050750.png?1709031995",
+    extraPaymentTokens: [],
+  },
 ];
