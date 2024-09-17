@@ -1,6 +1,7 @@
 import { writeFileSync, readdirSync, mkdirSync, existsSync } from "fs";
 import { resolve } from "path";
 import { communityTokens } from "./communityTokens";
+import { CommunityToken } from "./types";
 
 const outputDir = resolve(__dirname, "../tokens");
 
@@ -24,10 +25,33 @@ function writeJsonFile(filename: string, jsonData: any) {
   console.log(`✅ JSON file created: ${outputPath}`);
 }
 
+function checkForDuplicateCommunityIds(tokens: CommunityToken[]) {
+  const communityIds = new Set<string>();
+  const duplicates: string[] = [];
+
+  tokens.forEach((token) => {
+    if (communityIds.has(token.communityId)) {
+      duplicates.push(token.communityId);
+    } else {
+      communityIds.add(token.communityId);
+    }
+  });
+
+  if (duplicates.length > 0) {
+    throw new Error(`Duplicate communityIds found: ${duplicates.join(", ")}`);
+  }
+}
+
 ensureDirectoryExists(outputDir);
 
 // Process community tokens (convert to JSON)
-writeJsonFile("community", communityTokens);
+try {
+  checkForDuplicateCommunityIds(communityTokens);
+  writeJsonFile("community", communityTokens);
+} catch (error: any) {
+  console.error(`❌ Error processing community tokens: ${error.message}`);
+  process.exit(1);
+}
 
 // Process payment tokens (convert to JSON)
 function processPaymentTokens(chainId: string, tokens: any) {

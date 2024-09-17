@@ -22,7 +22,7 @@ export const communityTokens: CommunityToken[] = [
     name: "dogwifhat",
     symbol: "WIF",
     logoURI:
-      "https://assets.coingecko.com/coins/images/33566/standard/dogwifhat.jpg?1702499428",
+      "https://assets.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428",
     extraPaymentTokens: [],
   },
   {
@@ -30,7 +30,7 @@ export const communityTokens: CommunityToken[] = [
     name: "Uniswap",
     symbol: "UNI",
     logoURI:
-      "https://assets.coingecko.com/coins/images/12504/standard/uniswap-logo.png?1720676669",
+      "https://assets.coingecko.com/coins/images/12504/large/uniswap-logo.png?1720676669",
     extraPaymentTokens: [],
   },
   {
@@ -39,6 +39,14 @@ export const communityTokens: CommunityToken[] = [
     symbol: "BRETT",
     logoURI:
       "https://assets.coingecko.com/coins/images/35529/large/1000050750.png?1709031995",
+    extraPaymentTokens: [],
+  },
+  {
+    communityId: "OVN",
+    name: "Overnight Finance",
+    symbol: "OVN",
+    logoURI:
+      "https://assets.coingecko.com/coins/images/31970/large/OVN.png?1696959174",
     extraPaymentTokens: [],
   },
 ];
