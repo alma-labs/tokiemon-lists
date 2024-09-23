@@ -14,3 +14,14 @@ Community Tokens
 - Tokens that can be represented by communities and minters.
 - Should be able to have a pull request submitted by any project to be included.
 - Each should have a unique ID.
+
+## Addting A New Asset
+
+1. Find circular image logo with transparent background
+2. Resize to 768x768
+3. Drop into [Mosaic Tool](https://online.visual-paradigm.com/photo-effects-studio/mosaic-effect-tool/), Download
+4. Upload both images to `normal` and `pixel-logos` folders respectively
+5. Add details to `index.ts` file
+6. Run `npm run convert`
+
+Want your token listed? Sumbit a PR!

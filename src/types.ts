@@ -2,7 +2,8 @@ export interface CommunityToken {
   communityId: string; // Used in the smart contract to represent a community token, usually the symbol
   name: string;
   symbol: string;
-  logoURI: string;
+  logoURI: string; // This is the pixelated logo that is used in the UI
+  logoNormal: string; // This is the normal logo that is used in the backend for requests
   extraPaymentTokens?: PaymentToken[];
 }
 
