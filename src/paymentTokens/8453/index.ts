@@ -8,7 +8,7 @@ const paymentTokens: PaymentToken[] = [
     chainId: 8453,
     decimals: 6,
     logoURI:
-      "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547034163",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/pixel-logos/USDC.png",
   },
 ];
 
