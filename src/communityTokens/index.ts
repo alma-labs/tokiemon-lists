@@ -166,4 +166,11 @@ export const communityTokens: CommunityToken[] = [
       "https://assets.coingecko.com/coins/images/39126/large/Bamboo_Logo_800x800.png?1720656497",
     extraPaymentTokens: [],
   },
+  {
+    communityId: "BASED",
+    name: "Based",
+    symbol: "BASED",
+    logoURI: "https://basedevo.fun/images/based-blue.jpg",
+    extraPaymentTokens: [],
+  },
 ];
