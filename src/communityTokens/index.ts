@@ -39,7 +39,7 @@ export const communityTokens: CommunityToken[] = [
     name: "Uniswap",
     symbol: "UNI",
     logoURI:
-      "https://assets.coingecko.com/coins/images/12504/large/uniswap-logo.png?1720676669",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/pixel-logos/UNI.png",
     logoNormal:
       "https://assets.coingecko.com/coins/images/12504/large/uniswap-logo.png?1720676669",
     extraPaymentTokens: [],
