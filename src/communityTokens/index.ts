@@ -1,4 +1,15 @@
-import { CommunityToken } from "../types";
+import paymentTokens from "../paymentTokens/8453";
+import { CommunityToken, PaymentToken } from "../types";
+
+const findPaymentToken = (address: string): PaymentToken => {
+  const token = paymentTokens.find(
+    (token) => token.address === address
+  ) as PaymentToken;
+  if (!token) {
+    throw new Error(`Token not found: ${address}`);
+  }
+  return token;
+};
 
 export const communityTokens: CommunityToken[] = [
   // Bluechips & Stables
@@ -7,9 +18,7 @@ export const communityTokens: CommunityToken[] = [
     name: "USDC",
     symbol: "USDC",
     logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/pixel-logos/USDC.png",
-    logoNormal:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/normal/USDC.png",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/USDC.png",
     extraPaymentTokens: [],
   },
 
@@ -20,17 +29,23 @@ export const communityTokens: CommunityToken[] = [
     symbol: "AAVE",
     logoURI:
       "https://assets.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354",
-    logoNormal:
-      "https://assets.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354",
     extraPaymentTokens: [],
+  },
+  {
+    communityId: "BASED",
+    name: "Based",
+    symbol: "BASED",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BASED.png",
+    extraPaymentTokens: [
+      findPaymentToken("0x32E0f9d26D1e33625742A52620cC76C1130efde6"),
+    ],
   },
   {
     communityId: "WIF",
     name: "dogwifhat",
     symbol: "WIF",
     logoURI:
-      "https://assets.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428",
-    logoNormal:
       "https://assets.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428",
     extraPaymentTokens: [],
   },
@@ -39,9 +54,7 @@ export const communityTokens: CommunityToken[] = [
     name: "Uniswap",
     symbol: "UNI",
     logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/pixel-logos/UNI.png",
-    logoNormal:
-      "https://assets.coingecko.com/coins/images/12504/large/uniswap-logo.png?1720676669",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/UNI.png",
     extraPaymentTokens: [],
   },
 
@@ -52,8 +65,6 @@ export const communityTokens: CommunityToken[] = [
     symbol: "BRETT",
     logoURI:
       "https://assets.coingecko.com/coins/images/35529/large/1000050750.png?1709031995",
-    logoNormal:
-      "https://assets.coingecko.com/coins/images/35529/large/1000050750.png?1709031995",
     extraPaymentTokens: [],
   },
   {
@@ -61,8 +72,6 @@ export const communityTokens: CommunityToken[] = [
     name: "Overnight Finance",
     symbol: "OVN",
     logoURI:
-      "https://assets.coingecko.com/coins/images/31970/large/OVN.png?1696959174",
-    logoNormal:
       "https://assets.coingecko.com/coins/images/31970/large/OVN.png?1696959174",
     extraPaymentTokens: [],
   },
@@ -72,8 +81,6 @@ export const communityTokens: CommunityToken[] = [
     symbol: "PRIME",
     logoURI:
       "https://assets.coingecko.com/coins/images/29053/large/prime-logo-small-border_%282%29.png?1696528020",
-    logoNormal:
-      "https://assets.coingecko.com/coins/images/29053/large/prime-logo-small-border_%282%29.png?1696528020",
     extraPaymentTokens: [],
   },
   {
@@ -81,8 +88,6 @@ export const communityTokens: CommunityToken[] = [
     name: "Renzo",
     symbol: "REZ",
     logoURI:
-      "https://assets.coingecko.com/coins/images/37327/large/renzo_200x200.png?1714025012",
-    logoNormal:
       "https://assets.coingecko.com/coins/images/37327/large/renzo_200x200.png?1714025012",
     extraPaymentTokens: [],
   },
@@ -92,8 +97,6 @@ export const communityTokens: CommunityToken[] = [
     symbol: "AERO",
     logoURI:
       "https://assets.coingecko.com/coins/images/31745/large/token.png?1696530564",
-    logoNormal:
-      "https://assets.coingecko.com/coins/images/31745/large/token.png?1696530564",
     extraPaymentTokens: [],
   },
   {
@@ -101,8 +104,6 @@ export const communityTokens: CommunityToken[] = [
     name: "Degen",
     symbol: "DEGEN",
     logoURI:
-      "https://assets.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225",
-    logoNormal:
       "https://assets.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225",
     extraPaymentTokens: [],
   },
@@ -112,8 +113,6 @@ export const communityTokens: CommunityToken[] = [
     symbol: "TOSHI",
     logoURI:
       "https://assets.coingecko.com/coins/images/31126/large/Toshi_Logo_-_Circular.png?1721677476",
-    logoNormal:
-      "https://assets.coingecko.com/coins/images/31126/large/Toshi_Logo_-_Circular.png?1721677476",
     extraPaymentTokens: [],
   },
   {
@@ -121,8 +120,6 @@ export const communityTokens: CommunityToken[] = [
     name: "Mog Coin",
     symbol: "MOG",
     logoURI:
-      "https://assets.coingecko.com/coins/images/31059/large/MOG_LOGO_200x200.png?1696529893",
-    logoNormal:
       "https://assets.coingecko.com/coins/images/31059/large/MOG_LOGO_200x200.png?1696529893",
     extraPaymentTokens: [],
   },
@@ -132,8 +129,6 @@ export const communityTokens: CommunityToken[] = [
     symbol: "WUF",
     logoURI:
       "https://assets.coingecko.com/coins/images/36933/large/WUFFI.jpg?1720613603",
-    logoNormal:
-      "https://assets.coingecko.com/coins/images/36933/large/WUFFI.jpg?1720613603",
     extraPaymentTokens: [],
   },
   {
@@ -141,8 +136,6 @@ export const communityTokens: CommunityToken[] = [
     name: "Real Goat",
     symbol: "RGOAT",
     logoURI:
-      "https://assets.coingecko.com/coins/images/38923/large/IMG_20240625_033037_003.jpg?1719521003",
-    logoNormal:
       "https://assets.coingecko.com/coins/images/38923/large/IMG_20240625_033037_003.jpg?1719521003",
     extraPaymentTokens: [],
   },
@@ -152,8 +145,6 @@ export const communityTokens: CommunityToken[] = [
     symbol: "MOCHI",
     logoURI:
       "https://assets.coingecko.com/coins/images/33083/large/CIRCLE-200x200.png?1713297273",
-    logoNormal:
-      "https://assets.coingecko.com/coins/images/33083/large/CIRCLE-200x200.png?1713297273",
     extraPaymentTokens: [],
   },
   {
@@ -161,8 +152,6 @@ export const communityTokens: CommunityToken[] = [
     name: "SPX6900",
     symbol: "SPX",
     logoURI:
-      "https://assets.coingecko.com/coins/images/31401/large/sticker_%281%29.jpg?1702371083",
-    logoNormal:
       "https://assets.coingecko.com/coins/images/31401/large/sticker_%281%29.jpg?1702371083",
     extraPaymentTokens: [],
   },
@@ -172,8 +161,6 @@ export const communityTokens: CommunityToken[] = [
     symbol: "DOGINME",
     logoURI:
       "https://assets.coingecko.com/coins/images/35123/large/doginme-logo1-transparent200.png?1710856784",
-    logoNormal:
-      "https://assets.coingecko.com/coins/images/35123/large/doginme-logo1-transparent200.png?1710856784",
     extraPaymentTokens: [],
   },
   {
@@ -181,8 +168,6 @@ export const communityTokens: CommunityToken[] = [
     name: "BaseBearCute",
     symbol: "BBQ",
     logoURI:
-      "https://assets.coingecko.com/coins/images/40006/large/logo.jpg?1725221317",
-    logoNormal:
       "https://assets.coingecko.com/coins/images/40006/large/logo.jpg?1725221317",
     extraPaymentTokens: [],
   },
@@ -192,8 +177,6 @@ export const communityTokens: CommunityToken[] = [
     symbol: "MIGGLES",
     logoURI:
       "https://assets.coingecko.com/coins/images/39251/large/miggles.jpg?1721283044",
-    logoNormal:
-      "https://assets.coingecko.com/coins/images/39251/large/miggles.jpg?1721283044",
     extraPaymentTokens: [],
   },
   {
@@ -202,16 +185,6 @@ export const communityTokens: CommunityToken[] = [
     symbol: "BAMBOO",
     logoURI:
       "https://assets.coingecko.com/coins/images/39126/large/Bamboo_Logo_800x800.png?1720656497",
-    logoNormal:
-      "https://assets.coingecko.com/coins/images/39126/large/Bamboo_Logo_800x800.png?1720656497",
-    extraPaymentTokens: [],
-  },
-  {
-    communityId: "BASED",
-    name: "Based",
-    symbol: "BASED",
-    logoURI: "https://basedevo.fun/images/based-blue.jpg",
-    logoNormal: "https://basedevo.fun/images/based-blue.jpg",
     extraPaymentTokens: [],
   },
 ];

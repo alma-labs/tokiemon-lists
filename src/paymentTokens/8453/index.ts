@@ -8,7 +8,16 @@ const paymentTokens: PaymentToken[] = [
     chainId: 8453,
     decimals: 6,
     logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/pixel-logos/USDC.png",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/USDC.png",
+  },
+  {
+    name: "Based",
+    symbol: "BASED",
+    address: "0x32E0f9d26D1e33625742A52620cC76C1130efde6",
+    chainId: 8453,
+    decimals: 18,
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BASED.png",
   },
 ];
 
