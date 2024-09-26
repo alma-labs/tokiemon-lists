@@ -10,8 +10,22 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/USDC.png",
     extraPaymentTokens: [],
   },
-
-  // Major Tokens
+  {
+    communityId: "DAI",
+    name: "DAI",
+    symbol: "DAI",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DAI.png",
+    extraPaymentTokens: [],
+  },
+  {
+    communityId: "BTC",
+    name: "Bitcoin",
+    symbol: "BTC",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BTC.png",
+    extraPaymentTokens: [],
+  },
   {
     communityId: "AAVE",
     name: "Aave",
@@ -19,6 +33,42 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://assets.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354",
     extraPaymentTokens: [],
+  },
+  {
+    communityId: "WIF",
+    name: "dogwifhat",
+    symbol: "WIF",
+    logoURI:
+      "https://assets.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428",
+    extraPaymentTokens: [],
+  },
+  {
+    communityId: "UNI",
+    name: "Uniswap",
+    symbol: "UNI",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/UNI.png",
+    extraPaymentTokens: [],
+  },
+
+  // Partners
+  {
+    communityId: "MIGGLES",
+    name: "Mister Miggles",
+    symbol: "MIGGLES",
+    logoURI:
+      "https://assets.coingecko.com/coins/images/39251/large/miggles.jpg?1721283044",
+    extraPaymentTokens: [
+      {
+        name: "Mister Miggles",
+        symbol: "MIGGLES",
+        address: "0xB1a03EdA10342529bBF8EB700a06C60441fEf25d",
+        chainId: 8453,
+        decimals: 18,
+        logoURI:
+          "https://assets.coingecko.com/coins/images/39251/large/miggles.jpg?1721283044",
+      },
+    ],
   },
   {
     communityId: "BASED",
@@ -39,19 +89,19 @@ export const communityTokens: CommunityToken[] = [
     ],
   },
   {
-    communityId: "WIF",
-    name: "dogwifhat",
-    symbol: "WIF",
+    communityId: "GHOST",
+    name: "GHOST",
+    symbol: "GHOST",
     logoURI:
-      "https://assets.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/GHOST.png",
     extraPaymentTokens: [],
   },
   {
-    communityId: "UNI",
-    name: "Uniswap",
-    symbol: "UNI",
+    communityId: "ABOND",
+    name: "ApeBond",
+    symbol: "ABOND",
     logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/UNI.png",
+      "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ABOND.svg",
     extraPaymentTokens: [],
   },
 
@@ -157,7 +207,7 @@ export const communityTokens: CommunityToken[] = [
     name: "DogInMe",
     symbol: "DOGINME",
     logoURI:
-      "https://assets.coingecko.com/coins/images/35123/large/doginme-logo1-transparent200.png?1710856784",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DOGINME.png",
     extraPaymentTokens: [],
   },
   {
@@ -169,29 +219,11 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
   },
   {
-    communityId: "MIGGLES",
-    name: "Mister Miggles",
-    symbol: "MIGGLES",
-    logoURI:
-      "https://assets.coingecko.com/coins/images/39251/large/miggles.jpg?1721283044",
-    extraPaymentTokens: [],
-  },
-  {
     communityId: "BAMBOO",
     name: "Bamboo on Base",
     symbol: "BAMBOO",
     logoURI:
       "https://assets.coingecko.com/coins/images/39126/large/Bamboo_Logo_800x800.png?1720656497",
-    extraPaymentTokens: [],
-  },
-
-  // Non-Token Projects
-  {
-    communityId: "GHOST",
-    name: "GHOST",
-    symbol: "GHOST",
-    logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/GHOST.png",
     extraPaymentTokens: [],
   },
 ];

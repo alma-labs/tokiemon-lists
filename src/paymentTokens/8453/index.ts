@@ -11,6 +11,24 @@ const defaultPaymentTokens: PaymentToken[] = [
     logoURI:
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/USDC.png",
   },
+  {
+    name: "DAI",
+    symbol: "DAI",
+    address: "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+    chainId: 8453,
+    decimals: 18,
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DAI.png",
+  },
+  {
+    name: "Coinbase Wrapped BTC",
+    symbol: "CBBTC",
+    address: "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+    chainId: 8453,
+    decimals: 8,
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/CBBTC.png",
+  },
 ];
 
 export default defaultPaymentTokens;
