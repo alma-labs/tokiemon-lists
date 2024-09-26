@@ -1,15 +1,4 @@
-import paymentTokens from "../paymentTokens/8453";
 import { CommunityToken, PaymentToken } from "../types";
-
-const findPaymentToken = (address: string): PaymentToken => {
-  const token = paymentTokens.find(
-    (token) => token.address === address
-  ) as PaymentToken;
-  if (!token) {
-    throw new Error(`Token not found: ${address}`);
-  }
-  return token;
-};
 
 export const communityTokens: CommunityToken[] = [
   // Bluechips & Stables
@@ -38,7 +27,15 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BASED.png",
     extraPaymentTokens: [
-      findPaymentToken("0x32E0f9d26D1e33625742A52620cC76C1130efde6"),
+      {
+        name: "Based",
+        symbol: "BASED",
+        address: "0x32E0f9d26D1e33625742A52620cC76C1130efde6",
+        chainId: 8453,
+        decimals: 18,
+        logoURI:
+          "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BASED.png",
+      },
     ],
   },
   {

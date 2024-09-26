@@ -1,6 +1,7 @@
 import { PaymentToken } from "../../types";
 
-const paymentTokens: PaymentToken[] = [
+// These tokens will be used on every community choice
+const defaultPaymentTokens: PaymentToken[] = [
   {
     name: "USDC",
     symbol: "USDC",
@@ -10,15 +11,6 @@ const paymentTokens: PaymentToken[] = [
     logoURI:
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/USDC.png",
   },
-  {
-    name: "Based",
-    symbol: "BASED",
-    address: "0x32E0f9d26D1e33625742A52620cC76C1130efde6",
-    chainId: 8453,
-    decimals: 18,
-    logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BASED.png",
-  },
 ];
 
-export default paymentTokens;
+export default defaultPaymentTokens;
