@@ -226,4 +226,12 @@ export const communityTokens: CommunityToken[] = [
       "https://assets.coingecko.com/coins/images/39126/large/Bamboo_Logo_800x800.png?1720656497",
     extraPaymentTokens: [],
   },
+  {
+    communityId: "RECORD",
+    name: "Music Protocol",
+    symbol: "RECORD",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RECORD.png",
+    extraPaymentTokens: [],
+  },
 ];
