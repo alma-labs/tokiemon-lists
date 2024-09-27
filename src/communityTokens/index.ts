@@ -329,4 +329,31 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
     tags: ["SOLANA", "MEME"],
   },
+  {
+    communityId: "BONK",
+    name: "Bonk",
+    symbol: "BONK",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BONK.png",
+    extraPaymentTokens: [],
+    tags: ["SOLANA", "MEME"],
+  },
+  {
+    communityId: "POPCAT",
+    name: "Popcat",
+    symbol: "POPCAT",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/POPCAT.png",
+    extraPaymentTokens: [],
+    tags: ["SOLANA", "MEME"],
+  },
+  {
+    communityId: "MOODENG",
+    name: "Moodeng",
+    symbol: "MOODENG",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MOODENG.png",
+    extraPaymentTokens: [],
+    tags: ["SOLANA", "MEME"],
+  },
 ];
