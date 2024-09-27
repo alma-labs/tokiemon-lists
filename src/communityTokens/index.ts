@@ -1,35 +1,6 @@
 import { CommunityToken } from "../types";
 
 export const communityTokens: CommunityToken[] = [
-  // Bluechips & Stables
-  {
-    communityId: "BTC",
-    name: "Bitcoin",
-    symbol: "BTC",
-    logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BTC.png",
-    extraPaymentTokens: [],
-    tags: ["BLUECHIP"],
-  },
-  {
-    communityId: "USDC",
-    name: "USDC",
-    symbol: "USDC",
-    logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/USDC.png",
-    extraPaymentTokens: [],
-    tags: ["BLUECHIP"],
-  },
-  {
-    communityId: "DAI",
-    name: "DAI",
-    symbol: "DAI",
-    logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DAI.png",
-    extraPaymentTokens: [],
-    tags: ["BLUECHIP"],
-  },
-
   // DeFi
   {
     communityId: "AAVE",
@@ -48,17 +19,6 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/UNI.png",
     extraPaymentTokens: [],
     tags: ["DEFI"],
-  },
-
-  // Solana
-  {
-    communityId: "WIF",
-    name: "dogwifhat",
-    symbol: "WIF",
-    logoURI:
-      "https://assets.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428",
-    extraPaymentTokens: [],
-    tags: ["SOLANA"],
   },
 
   // Partners
@@ -126,6 +86,53 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RECORD.png",
     extraPaymentTokens: [],
     tags: ["PARTNER", "BASE"],
+  },
+
+  // Bluechips & Stables
+  {
+    communityId: "BTC",
+    name: "Bitcoin",
+    symbol: "BTC",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BTC.png",
+    extraPaymentTokens: [],
+    tags: ["BLUECHIP"],
+  },
+  {
+    communityId: "ETH",
+    name: "Ethereum",
+    symbol: "ETH",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ETH.png",
+    extraPaymentTokens: [],
+    tags: ["BLUECHIP"],
+  },
+  {
+    communityId: "USDC",
+    name: "USDC",
+    symbol: "USDC",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/USDC.png",
+    extraPaymentTokens: [],
+    tags: ["BLUECHIP"],
+  },
+  {
+    communityId: "DAI",
+    name: "DAI",
+    symbol: "DAI",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DAI.png",
+    extraPaymentTokens: [],
+    tags: ["BLUECHIP"],
+  },
+  {
+    communityId: "USDT",
+    name: "Tether",
+    symbol: "USDT",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/USDT.png",
+    extraPaymentTokens: [],
+    tags: ["BLUECHIP"],
   },
 
   // Base-Specific Tokens
@@ -227,5 +234,25 @@ export const communityTokens: CommunityToken[] = [
       "https://assets.coingecko.com/coins/images/31401/large/sticker_%281%29.jpg?1702371083",
     extraPaymentTokens: [],
     tags: ["BASE"],
+  },
+
+  // Solana
+  {
+    communityId: "SOL",
+    name: "Solana",
+    symbol: "SOL",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SOL.png",
+    extraPaymentTokens: [],
+    tags: ["SOLANA", "BLUECHIP"],
+  },
+  {
+    communityId: "WIF",
+    name: "dogwifhat",
+    symbol: "WIF",
+    logoURI:
+      "https://assets.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428",
+    extraPaymentTokens: [],
+    tags: ["SOLANA"],
   },
 ];

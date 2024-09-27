@@ -1,35 +1,5 @@
 [
   {
-    "communityId": "BTC",
-    "name": "Bitcoin",
-    "symbol": "BTC",
-    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BTC.png",
-    "extraPaymentTokens": [],
-    "tags": [
-      "BLUECHIP"
-    ]
-  },
-  {
-    "communityId": "USDC",
-    "name": "USDC",
-    "symbol": "USDC",
-    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/USDC.png",
-    "extraPaymentTokens": [],
-    "tags": [
-      "BLUECHIP"
-    ]
-  },
-  {
-    "communityId": "DAI",
-    "name": "DAI",
-    "symbol": "DAI",
-    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DAI.png",
-    "extraPaymentTokens": [],
-    "tags": [
-      "BLUECHIP"
-    ]
-  },
-  {
     "communityId": "AAVE",
     "name": "Aave",
     "symbol": "AAVE",
@@ -47,16 +17,6 @@
     "extraPaymentTokens": [],
     "tags": [
       "DEFI"
-    ]
-  },
-  {
-    "communityId": "WIF",
-    "name": "dogwifhat",
-    "symbol": "WIF",
-    "logoURI": "https://assets.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428",
-    "extraPaymentTokens": [],
-    "tags": [
-      "SOLANA"
     ]
   },
   {
@@ -127,6 +87,56 @@
     "tags": [
       "PARTNER",
       "BASE"
+    ]
+  },
+  {
+    "communityId": "BTC",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BTC.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BLUECHIP"
+    ]
+  },
+  {
+    "communityId": "ETH",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ETH.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BLUECHIP"
+    ]
+  },
+  {
+    "communityId": "USDC",
+    "name": "USDC",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/USDC.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BLUECHIP"
+    ]
+  },
+  {
+    "communityId": "DAI",
+    "name": "DAI",
+    "symbol": "DAI",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DAI.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BLUECHIP"
+    ]
+  },
+  {
+    "communityId": "USDT",
+    "name": "Tether",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/USDT.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BLUECHIP"
     ]
   },
   {
@@ -238,6 +248,27 @@
     "extraPaymentTokens": [],
     "tags": [
       "BASE"
+    ]
+  },
+  {
+    "communityId": "SOL",
+    "name": "Solana",
+    "symbol": "SOL",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SOL.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "SOLANA",
+      "BLUECHIP"
+    ]
+  },
+  {
+    "communityId": "WIF",
+    "name": "dogwifhat",
+    "symbol": "WIF",
+    "logoURI": "https://assets.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428",
+    "extraPaymentTokens": [],
+    "tags": [
+      "SOLANA"
     ]
   }
 ]
