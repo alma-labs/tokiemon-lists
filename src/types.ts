@@ -3,7 +3,7 @@ export interface CommunityToken {
   name: string;
   symbol: string;
   logoURI: string;
-  tags: Array<"BLUECHIP" | "DEFI" | "SOLANA" | "BASE" | "PARTNER">;
+  tags: Array<"BLUECHIP" | "DEFI" | "SOLANA" | "BASE" | "PARTNER" | "MEME">;
   extraPaymentTokens?: PaymentToken[];
 }
 

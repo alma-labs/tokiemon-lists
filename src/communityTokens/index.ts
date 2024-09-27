@@ -3,6 +3,15 @@ import { CommunityToken } from "../types";
 export const communityTokens: CommunityToken[] = [
   // DeFi
   {
+    communityId: "UNI",
+    name: "Uniswap",
+    symbol: "UNI",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/UNI.png",
+    extraPaymentTokens: [],
+    tags: ["DEFI"],
+  },
+  {
     communityId: "AAVE",
     name: "Aave",
     symbol: "AAVE",
@@ -12,11 +21,29 @@ export const communityTokens: CommunityToken[] = [
     tags: ["DEFI"],
   },
   {
-    communityId: "UNI",
-    name: "Uniswap",
-    symbol: "UNI",
+    communityId: "CRV",
+    name: "Curve",
+    symbol: "CRV",
     logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/UNI.png",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/CRV.png",
+    extraPaymentTokens: [],
+    tags: ["DEFI"],
+  },
+  {
+    communityId: "COMP",
+    name: "Compound",
+    symbol: "COMP",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/COMP.png",
+    extraPaymentTokens: [],
+    tags: ["DEFI"],
+  },
+  {
+    communityId: "LINK",
+    name: "Chainlink",
+    symbol: "LINK",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/LINK.png",
     extraPaymentTokens: [],
     tags: ["DEFI"],
   },
@@ -39,7 +66,7 @@ export const communityTokens: CommunityToken[] = [
           "https://assets.coingecko.com/coins/images/39251/large/miggles.jpg?1721283044",
       },
     ],
-    tags: ["PARTNER"],
+    tags: ["PARTNER", "MEME", "BASE"],
   },
   {
     communityId: "BASED",
@@ -70,15 +97,6 @@ export const communityTokens: CommunityToken[] = [
     tags: ["PARTNER"],
   },
   {
-    communityId: "ABOND",
-    name: "ApeBond",
-    symbol: "ABOND",
-    logoURI:
-      "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ABOND.png",
-    extraPaymentTokens: [],
-    tags: ["PARTNER"],
-  },
-  {
     communityId: "RECORD",
     name: "Music Protocol",
     symbol: "RECORD",
@@ -86,6 +104,15 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RECORD.png",
     extraPaymentTokens: [],
     tags: ["PARTNER", "BASE"],
+  },
+  {
+    communityId: "ABOND",
+    name: "ApeBond",
+    symbol: "ABOND",
+    logoURI:
+      "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ABOND.png",
+    extraPaymentTokens: [],
+    tags: ["PARTNER"],
   },
 
   // Bluechips & Stables
@@ -134,6 +161,53 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
     tags: ["BLUECHIP"],
   },
+  {
+    communityId: "BNB",
+    name: "BNB",
+    symbol: "BNB",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BNB.png",
+    extraPaymentTokens: [],
+    tags: ["BLUECHIP"],
+  },
+
+  // Meme
+  {
+    communityId: "DOGE",
+    name: "Dogecoin",
+    symbol: "DOGE",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DOGE.png",
+    extraPaymentTokens: [],
+    tags: ["BLUECHIP", "MEME"],
+  },
+  {
+    communityId: "SHIB",
+    name: "Shiba Inu",
+    symbol: "SHIB",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SHIB.png",
+    extraPaymentTokens: [],
+    tags: ["MEME"],
+  },
+  {
+    communityId: "PEPE",
+    name: "Pepe",
+    symbol: "PEPE",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/PEPE.png",
+    extraPaymentTokens: [],
+    tags: ["MEME"],
+  },
+  {
+    communityId: "FLOKI",
+    name: "Floki",
+    symbol: "FLOKI",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/FLOKI.png",
+    extraPaymentTokens: [],
+    tags: ["MEME"],
+  },
 
   // Base-Specific Tokens
   {
@@ -143,7 +217,7 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://assets.coingecko.com/coins/images/35529/large/1000050750.png?1709031995",
     extraPaymentTokens: [],
-    tags: ["BASE"],
+    tags: ["BASE", "MEME"],
   },
   {
     communityId: "OVN",
@@ -197,7 +271,7 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://assets.coingecko.com/coins/images/31126/large/Toshi_Logo_-_Circular.png?1721677476",
     extraPaymentTokens: [],
-    tags: ["BASE"],
+    tags: ["BASE", "MEME"],
   },
   {
     communityId: "MOG",
@@ -206,7 +280,7 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://assets.coingecko.com/coins/images/31059/large/MOG_LOGO_200x200.png?1696529893",
     extraPaymentTokens: [],
-    tags: ["BASE", "SOLANA"],
+    tags: ["BASE", "SOLANA", "MEME"],
   },
   {
     communityId: "WUF",
@@ -215,7 +289,7 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://assets.coingecko.com/coins/images/36933/large/WUFFI.jpg?1720613603",
     extraPaymentTokens: [],
-    tags: ["BASE"],
+    tags: ["BASE", "MEME"],
   },
   {
     communityId: "MOCHI",
@@ -224,7 +298,7 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://assets.coingecko.com/coins/images/33083/large/CIRCLE-200x200.png?1713297273",
     extraPaymentTokens: [],
-    tags: ["BASE"],
+    tags: ["BASE", "MEME"],
   },
   {
     communityId: "SPX",
@@ -233,7 +307,7 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://assets.coingecko.com/coins/images/31401/large/sticker_%281%29.jpg?1702371083",
     extraPaymentTokens: [],
-    tags: ["BASE"],
+    tags: ["BASE", "MEME"],
   },
 
   // Solana
@@ -253,6 +327,6 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://assets.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428",
     extraPaymentTokens: [],
-    tags: ["SOLANA"],
+    tags: ["SOLANA", "MEME"],
   },
 ];
