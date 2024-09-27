@@ -21,7 +21,7 @@ const defaultPaymentTokens: PaymentToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DAI.png",
   },
   {
-    name: "Coinbase Wrapped BTC",
+    name: "Coinbase BTC",
     symbol: "CBBTC",
     address: "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
     chainId: 8453,

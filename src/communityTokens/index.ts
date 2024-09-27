@@ -1,7 +1,16 @@
-import { CommunityToken, PaymentToken } from "../types";
+import { CommunityToken } from "../types";
 
 export const communityTokens: CommunityToken[] = [
   // Bluechips & Stables
+  {
+    communityId: "BTC",
+    name: "Bitcoin",
+    symbol: "BTC",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BTC.png",
+    extraPaymentTokens: [],
+    tags: ["BLUECHIP"],
+  },
   {
     communityId: "USDC",
     name: "USDC",
@@ -9,6 +18,7 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/USDC.png",
     extraPaymentTokens: [],
+    tags: ["BLUECHIP"],
   },
   {
     communityId: "DAI",
@@ -17,15 +27,10 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DAI.png",
     extraPaymentTokens: [],
+    tags: ["BLUECHIP"],
   },
-  {
-    communityId: "BTC",
-    name: "Bitcoin",
-    symbol: "BTC",
-    logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BTC.png",
-    extraPaymentTokens: [],
-  },
+
+  // DeFi
   {
     communityId: "AAVE",
     name: "Aave",
@@ -33,14 +38,7 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://assets.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354",
     extraPaymentTokens: [],
-  },
-  {
-    communityId: "WIF",
-    name: "dogwifhat",
-    symbol: "WIF",
-    logoURI:
-      "https://assets.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428",
-    extraPaymentTokens: [],
+    tags: ["DEFI"],
   },
   {
     communityId: "UNI",
@@ -49,6 +47,18 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/UNI.png",
     extraPaymentTokens: [],
+    tags: ["DEFI"],
+  },
+
+  // Solana
+  {
+    communityId: "WIF",
+    name: "dogwifhat",
+    symbol: "WIF",
+    logoURI:
+      "https://assets.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428",
+    extraPaymentTokens: [],
+    tags: ["SOLANA"],
   },
 
   // Partners
@@ -69,6 +79,7 @@ export const communityTokens: CommunityToken[] = [
           "https://assets.coingecko.com/coins/images/39251/large/miggles.jpg?1721283044",
       },
     ],
+    tags: ["PARTNER"],
   },
   {
     communityId: "BASED",
@@ -87,6 +98,7 @@ export const communityTokens: CommunityToken[] = [
           "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BASED.png",
       },
     ],
+    tags: ["PARTNER", "BASE"],
   },
   {
     communityId: "GHOST",
@@ -95,14 +107,25 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/GHOST.png",
     extraPaymentTokens: [],
+    tags: ["PARTNER"],
   },
   {
     communityId: "ABOND",
     name: "ApeBond",
     symbol: "ABOND",
     logoURI:
-      "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ABOND.svg",
+      "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ABOND.png",
     extraPaymentTokens: [],
+    tags: ["PARTNER"],
+  },
+  {
+    communityId: "RECORD",
+    name: "Music Protocol",
+    symbol: "RECORD",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RECORD.png",
+    extraPaymentTokens: [],
+    tags: ["PARTNER", "BASE"],
   },
 
   // Base-Specific Tokens
@@ -113,6 +136,7 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://assets.coingecko.com/coins/images/35529/large/1000050750.png?1709031995",
     extraPaymentTokens: [],
+    tags: ["BASE"],
   },
   {
     communityId: "OVN",
@@ -121,6 +145,7 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://assets.coingecko.com/coins/images/31970/large/OVN.png?1696959174",
     extraPaymentTokens: [],
+    tags: ["BASE"],
   },
   {
     communityId: "PRIME",
@@ -129,6 +154,7 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://assets.coingecko.com/coins/images/29053/large/prime-logo-small-border_%282%29.png?1696528020",
     extraPaymentTokens: [],
+    tags: ["BASE"],
   },
   {
     communityId: "REZ",
@@ -137,6 +163,7 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://assets.coingecko.com/coins/images/37327/large/renzo_200x200.png?1714025012",
     extraPaymentTokens: [],
+    tags: ["BASE"],
   },
   {
     communityId: "AERO",
@@ -145,6 +172,7 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://assets.coingecko.com/coins/images/31745/large/token.png?1696530564",
     extraPaymentTokens: [],
+    tags: ["BASE"],
   },
   {
     communityId: "DEGEN",
@@ -153,6 +181,7 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://assets.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225",
     extraPaymentTokens: [],
+    tags: ["BASE"],
   },
   {
     communityId: "TOSHI",
@@ -161,6 +190,7 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://assets.coingecko.com/coins/images/31126/large/Toshi_Logo_-_Circular.png?1721677476",
     extraPaymentTokens: [],
+    tags: ["BASE"],
   },
   {
     communityId: "MOG",
@@ -169,6 +199,7 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://assets.coingecko.com/coins/images/31059/large/MOG_LOGO_200x200.png?1696529893",
     extraPaymentTokens: [],
+    tags: ["BASE", "SOLANA"],
   },
   {
     communityId: "WUF",
@@ -177,14 +208,7 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://assets.coingecko.com/coins/images/36933/large/WUFFI.jpg?1720613603",
     extraPaymentTokens: [],
-  },
-  {
-    communityId: "RGOAT",
-    name: "Real Goat",
-    symbol: "RGOAT",
-    logoURI:
-      "https://assets.coingecko.com/coins/images/38923/large/IMG_20240625_033037_003.jpg?1719521003",
-    extraPaymentTokens: [],
+    tags: ["BASE"],
   },
   {
     communityId: "MOCHI",
@@ -193,6 +217,7 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://assets.coingecko.com/coins/images/33083/large/CIRCLE-200x200.png?1713297273",
     extraPaymentTokens: [],
+    tags: ["BASE"],
   },
   {
     communityId: "SPX",
@@ -201,37 +226,6 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://assets.coingecko.com/coins/images/31401/large/sticker_%281%29.jpg?1702371083",
     extraPaymentTokens: [],
-  },
-  {
-    communityId: "DOGINME",
-    name: "DogInMe",
-    symbol: "DOGINME",
-    logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DOGINME.png",
-    extraPaymentTokens: [],
-  },
-  {
-    communityId: "BBQ",
-    name: "BaseBearCute",
-    symbol: "BBQ",
-    logoURI:
-      "https://assets.coingecko.com/coins/images/40006/large/logo.jpg?1725221317",
-    extraPaymentTokens: [],
-  },
-  {
-    communityId: "BAMBOO",
-    name: "Bamboo on Base",
-    symbol: "BAMBOO",
-    logoURI:
-      "https://assets.coingecko.com/coins/images/39126/large/Bamboo_Logo_800x800.png?1720656497",
-    extraPaymentTokens: [],
-  },
-  {
-    communityId: "RECORD",
-    name: "Music Protocol",
-    symbol: "RECORD",
-    logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RECORD.png",
-    extraPaymentTokens: [],
+    tags: ["BASE"],
   },
 ];
