@@ -47,6 +47,15 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
     tags: ["DEFI"],
   },
+  {
+    communityId: "CAKE",
+    name: "PancakeSwap",
+    symbol: "CAKE",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/CAKE.png",
+    extraPaymentTokens: [],
+    tags: ["DEFI"],
+  },
 
   // Partners
   {
