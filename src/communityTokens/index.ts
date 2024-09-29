@@ -123,6 +123,15 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
     tags: ["PARTNER"],
   },
+  {
+    communityId: "SDEX",
+    name: "SmarDex",
+    symbol: "SDEX",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SDEX.png",
+    extraPaymentTokens: [],
+    tags: ["PARTNER"],
+  },
 
   // Bluechips & Stables
   {
