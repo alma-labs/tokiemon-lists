@@ -5,6 +5,7 @@ export interface CommunityToken {
   logoURI: string;
   tags: Array<"BLUECHIP" | "DEFI" | "SOLANA" | "BASE" | "PARTNER" | "MEME">;
   extraPaymentTokens?: PaymentToken[];
+  inactive?: boolean;
 }
 
 export interface PaymentToken {

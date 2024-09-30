@@ -123,33 +123,6 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
     tags: ["PARTNER"],
   },
-  {
-    communityId: "SDEX",
-    name: "SmarDex",
-    symbol: "SDEX",
-    logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SDEX.png",
-    extraPaymentTokens: [],
-    tags: ["PARTNER"],
-  },
-  {
-    communityId: "RSR",
-    name: "Reserve Rights",
-    symbol: "RSR",
-    logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RSR.png",
-    extraPaymentTokens: [],
-    tags: ["PARTNER"],
-  },
-  {
-    communityId: "COPI",
-    name: "Cornucopias",
-    symbol: "COPI",
-    logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/COPI.png",
-    extraPaymentTokens: [],
-    tags: ["PARTNER"],
-  },
 
   // Bluechips & Stables
   {
@@ -391,5 +364,37 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MOODENG.png",
     extraPaymentTokens: [],
     tags: ["SOLANA", "MEME"],
+  },
+
+  // Inactive
+  {
+    communityId: "RSR",
+    name: "Reserve Rights",
+    symbol: "RSR",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RSR.png",
+    extraPaymentTokens: [],
+    tags: ["PARTNER"],
+    inactive: true,
+  },
+  {
+    communityId: "COPI",
+    name: "Cornucopias",
+    symbol: "COPI",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/COPI.png",
+    extraPaymentTokens: [],
+    tags: ["PARTNER"],
+    inactive: true,
+  },
+  {
+    communityId: "SDEX",
+    name: "SmarDex",
+    symbol: "SDEX",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SDEX.png",
+    extraPaymentTokens: [],
+    tags: ["PARTNER"],
+    inactive: true,
   },
 ];
