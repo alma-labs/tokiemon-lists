@@ -141,6 +141,15 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
     tags: ["PARTNER"],
   },
+  {
+    communityId: "COPI",
+    name: "Cornucopias",
+    symbol: "COPI",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/COPI.png",
+    extraPaymentTokens: [],
+    tags: ["PARTNER"],
+  },
 
   // Bluechips & Stables
   {
