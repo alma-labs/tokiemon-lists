@@ -47,7 +47,13 @@ ensureDirectoryExists(outputDir);
 // Process community tokens (convert to JSON)
 try {
   checkForDuplicateCommunityIds(communityTokens);
-  writeJsonFile("community", communityTokens);
+
+  // Write all community tokens to allCommunity.json
+  writeJsonFile("allCommunity", communityTokens);
+
+  // Filter out inactive tokens and write to community.json
+  const activeTokens = communityTokens.filter((token) => !token.inactive);
+  writeJsonFile("community", activeTokens);
 } catch (error: any) {
   console.error(`❌ Error processing community tokens: ${error.message}`);
   process.exit(1);
