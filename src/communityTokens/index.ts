@@ -106,15 +106,6 @@ export const communityTokens: CommunityToken[] = [
     tags: ["PARTNER"],
   },
   {
-    communityId: "RECORD",
-    name: "Music Protocol",
-    symbol: "RECORD",
-    logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RECORD.png",
-    extraPaymentTokens: [],
-    tags: ["PARTNER", "BASE"],
-  },
-  {
     communityId: "ABOND",
     name: "ApeBond",
     symbol: "ABOND",
@@ -395,6 +386,16 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SDEX.png",
     extraPaymentTokens: [],
     tags: ["PARTNER"],
+    inactive: true,
+  },
+  {
+    communityId: "RECORD",
+    name: "Music Protocol",
+    symbol: "RECORD",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RECORD.png",
+    extraPaymentTokens: [],
+    tags: ["PARTNER", "BASE"],
     inactive: true,
   },
 ];
