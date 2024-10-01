@@ -1,6 +1,15 @@
 import { CommunityToken } from "../types";
 
 export const communityTokens: CommunityToken[] = [
+  {
+    communityId: "TOKIEMON",
+    name: "Random Tokiemon",
+    symbol: "TOKIEMON",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/TOKIEMON.png",
+    extraPaymentTokens: [],
+    tags: [],
+  },
   // DeFi
   {
     communityId: "UNI",

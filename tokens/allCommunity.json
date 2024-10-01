@@ -1,5 +1,13 @@
 [
   {
+    "communityId": "TOKIEMON",
+    "name": "Random Tokiemon",
+    "symbol": "TOKIEMON",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/TOKIEMON.png",
+    "extraPaymentTokens": [],
+    "tags": []
+  },
+  {
     "communityId": "UNI",
     "name": "Uniswap",
     "symbol": "UNI",
