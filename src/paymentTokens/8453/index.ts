@@ -14,7 +14,7 @@ const defaultPaymentTokens: PaymentToken[] = [
   {
     name: "GOLD",
     symbol: "Tokiemon Gold",
-    address: "0xF3105616aE4B17d4Cd053Da449F38d23c647D15F",
+    address: "0xaEECB2c3c0A1cd15b7CDE0e1c5ACB1Cb246Afa99",
     chainId: 8453,
     decimals: 18,
     logoURI:
