@@ -270,7 +270,17 @@ export const communityTokens: CommunityToken[] = [
     symbol: "DEGEN",
     logoURI:
       "https://assets.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225",
-    extraPaymentTokens: [],
+    extraPaymentTokens: [
+      {
+        name: "Degen",
+        symbol: "DEGEN",
+        address: "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+        chainId: 8453,
+        decimals: 18,
+        logoURI:
+          "https://assets.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225",
+      },
+    ],
     tags: ["BASE"],
   },
   {
