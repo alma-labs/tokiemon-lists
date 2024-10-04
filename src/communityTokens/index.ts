@@ -417,4 +417,14 @@ export const communityTokens: CommunityToken[] = [
     tags: ["PARTNER", "BASE"],
     inactive: true,
   },
+  {
+    communityId: "DMAIL",
+    name: "Dmail",
+    symbol: "DMAIL",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DMAIL.png",
+    extraPaymentTokens: [],
+    tags: ["PARTNER"],
+    inactive: true,
+  },
 ];
