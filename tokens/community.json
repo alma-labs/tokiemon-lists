@@ -129,6 +129,16 @@
     ]
   },
   {
+    "communityId": "DMAIL",
+    "name": "Dmail",
+    "symbol": "DMAIL",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DMAIL.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "PARTNER"
+    ]
+  },
+  {
     "communityId": "BTC",
     "name": "Bitcoin",
     "symbol": "BTC",

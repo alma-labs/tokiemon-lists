@@ -123,6 +123,15 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
     tags: ["PARTNER"],
   },
+  {
+    communityId: "DMAIL",
+    name: "Dmail",
+    symbol: "DMAIL",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DMAIL.png",
+    extraPaymentTokens: [],
+    tags: ["PARTNER"],
+  },
 
   // Bluechips & Stables
   {
@@ -415,16 +424,6 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RECORD.png",
     extraPaymentTokens: [],
     tags: ["PARTNER", "BASE"],
-    inactive: true,
-  },
-  {
-    communityId: "DMAIL",
-    name: "Dmail",
-    symbol: "DMAIL",
-    logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DMAIL.png",
-    extraPaymentTokens: [],
-    tags: ["PARTNER"],
     inactive: true,
   },
 ];
