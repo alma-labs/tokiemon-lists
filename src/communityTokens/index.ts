@@ -65,6 +65,25 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
     tags: ["DEFI"],
   },
+  {
+    communityId: "AXL",
+    name: "Axelar",
+    symbol: "AXL",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/AXL.png",
+    extraPaymentTokens: [
+      {
+        name: "Axelar",
+        symbol: "AXL",
+        address: "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
+        chainId: 8453,
+        decimals: 6,
+        logoURI:
+          "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/AXL.png",
+      },
+    ],
+    tags: ["DEFI", "BASE"],
+  },
 
   // Partners
   {
