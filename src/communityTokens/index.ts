@@ -151,6 +151,15 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
     tags: ["PARTNER"],
   },
+  {
+    communityId: "RSR",
+    name: "Reserve Rights",
+    symbol: "RSR",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RSR.png",
+    extraPaymentTokens: [],
+    tags: ["PARTNER"],
+  },
 
   // Bluechips & Stables
   {
@@ -405,16 +414,6 @@ export const communityTokens: CommunityToken[] = [
   },
 
   // Inactive
-  {
-    communityId: "RSR",
-    name: "Reserve Rights",
-    symbol: "RSR",
-    logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RSR.png",
-    extraPaymentTokens: [],
-    tags: ["PARTNER"],
-    inactive: true,
-  },
   {
     communityId: "COPI",
     name: "Cornucopias",
