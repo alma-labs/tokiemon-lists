@@ -444,4 +444,14 @@ export const communityTokens: CommunityToken[] = [
     tags: ["PARTNER", "BASE"],
     inactive: true,
   },
+  {
+    communityId: "ORDER",
+    name: "Orderly Network",
+    symbol: "ORDER",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ORDER.png",
+    extraPaymentTokens: [],
+    tags: ["PARTNER"],
+    inactive: true,
+  },
 ];
