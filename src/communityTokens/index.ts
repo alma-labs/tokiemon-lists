@@ -106,6 +106,15 @@ export const communityTokens: CommunityToken[] = [
     tags: ["PARTNER", "MEME", "BASE"],
   },
   {
+    communityId: "RGOAT",
+    name: "RealGoat",
+    symbol: "RGOAT",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RGOAT.png",
+    extraPaymentTokens: [],
+    tags: ["PARTNER", "MEME", "BASE"],
+  },
+  {
     communityId: "BASED",
     name: "Based",
     symbol: "BASED",
