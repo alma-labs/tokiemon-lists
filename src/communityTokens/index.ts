@@ -463,4 +463,14 @@ export const communityTokens: CommunityToken[] = [
     tags: ["PARTNER"],
     inactive: true,
   },
+  {
+    communityId: "MCADE",
+    name: "Metacade",
+    symbol: "MCADE",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MCADE.png",
+    extraPaymentTokens: [],
+    tags: ["PARTNER", "BASE"],
+    inactive: true,
+  },
 ];
