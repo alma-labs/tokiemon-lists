@@ -113,7 +113,16 @@
     "name": "RealGoat",
     "symbol": "RGOAT",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RGOAT.png",
-    "extraPaymentTokens": [],
+    "extraPaymentTokens": [
+      {
+        "name": "RealGoat",
+        "symbol": "RGOAT",
+        "address": "0xf0268c5f9aa95baf5c25d646aabb900ac12f0800",
+        "chainId": 8453,
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RGOAT.png"
+      }
+    ],
     "tags": [
       "PARTNER",
       "MEME",
