@@ -384,6 +384,15 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
     tags: ["BASE", "MEME"],
   },
+  {
+    communityId: "BENJI",
+    name: "Basenji",
+    symbol: "BENJI",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BENJI.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "MEME"],
+  },
 
   // Solana
   {
