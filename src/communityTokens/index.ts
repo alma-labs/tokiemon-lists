@@ -125,6 +125,25 @@ export const communityTokens: CommunityToken[] = [
     tags: ["PARTNER", "MEME", "BASE"],
   },
   {
+    communityId: "MCADE",
+    name: "Metacade",
+    symbol: "MCADE",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MCADE.png",
+    extraPaymentTokens: [
+      {
+        name: "Metacade",
+        symbol: "MCADE",
+        address: "0xc48823ec67720a04a9dfd8c7d109b2c3d6622094",
+        chainId: 8453,
+        decimals: 18,
+        logoURI:
+          "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MCADE.png",
+      },
+    ],
+    tags: ["PARTNER", "BASE"],
+  },
+  {
     communityId: "BASED",
     name: "Based",
     symbol: "BASED",
@@ -480,16 +499,6 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ORDER.png",
     extraPaymentTokens: [],
     tags: ["PARTNER"],
-    inactive: true,
-  },
-  {
-    communityId: "MCADE",
-    name: "Metacade",
-    symbol: "MCADE",
-    logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MCADE.png",
-    extraPaymentTokens: [],
-    tags: ["PARTNER", "BASE"],
     inactive: true,
   },
 ];
