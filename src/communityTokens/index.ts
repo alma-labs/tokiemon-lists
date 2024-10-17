@@ -172,6 +172,15 @@ export const communityTokens: CommunityToken[] = [
     tags: ["PARTNER"],
   },
   {
+    communityId: "MONEY",
+    name: "DeFi.Money",
+    symbol: "MONEY",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MONEY.png",
+    extraPaymentTokens: [],
+    tags: ["PARTNER", "BASE"],
+  },
+  {
     communityId: "ABOND",
     name: "ApeBond",
     symbol: "ABOND",
