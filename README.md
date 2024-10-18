@@ -19,8 +19,9 @@ Community Tokens
 
 1. Find circular image logo with transparent background, under 50kb (preferably < 20).
 2. Upload the image to the `assets/tokens` folder.
-3. Add details to `index.ts` file, use only capital letters for community ID, symbol, and token name.
-4. Run `npm run convert`.
-5. Push to github and submit a PR.
+3. Add details to `index.ts` file, use only capital letters for community ID and symbol.
+4. Add starter image 1:1 transparent background tokiemon.
+5. Run `npm run convert`.
+6. Push to github and submit a PR.
 
-Want your token listed? Sumbit a PR!
+Want your token listed? Sumbit a PR! or [message me](https://t.me/larrettgee)
