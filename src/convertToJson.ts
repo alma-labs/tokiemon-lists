@@ -86,3 +86,53 @@ chainDirs.forEach((chainId) => {
     console.error(`❌ Error loading tokens for chain ID ${chainId}: ${error}`);
   }
 });
+
+// Add new function to collect all payment tokens
+function getAllPaymentTokens() {
+  // Get all payment tokens from chain-specific files
+  const paymentTokensDir = resolve(__dirname, "./paymentTokens");
+  const chainDirs = readdirSync(paymentTokensDir).filter(
+    (file) => !isNaN(Number(file))
+  );
+
+  const allPaymentTokens: any[] = [];
+
+  // Add chain-specific payment tokens
+  chainDirs.forEach((chainId) => {
+    try {
+      const tokens = require(resolve(paymentTokensDir, chainId));
+      const chainTokens = tokens.default || tokens;
+      if (chainTokens) {
+        allPaymentTokens.push(...chainTokens);
+      }
+    } catch (error) {
+      console.error(`❌ Error loading tokens for chain ID ${chainId}: ${error}`);
+    }
+  });
+
+  // Add extraPaymentTokens from community tokens
+  communityTokens.forEach((token) => {
+    if (token.extraPaymentTokens && token.extraPaymentTokens.length > 0) {
+      allPaymentTokens.push(...token.extraPaymentTokens);
+    }
+  });
+
+  // Remove duplicates based on chainId + address combination
+  const uniqueTokens = allPaymentTokens.filter(
+    (token, index, self) =>
+      index ===
+      self.findIndex(
+        (t) => t.chainId === token.chainId && t.address === token.address
+      )
+  );
+
+  return uniqueTokens;
+}
+
+// Add this after the existing payment token processing
+try {
+  const allPaymentTokens = getAllPaymentTokens();
+  writeJsonFile("allPaymentTokens", allPaymentTokens);
+} catch (error: any) {
+  console.error(`❌ Error processing all payment tokens: ${error.message}`);
+}

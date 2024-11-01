@@ -1,0 +1,90 @@
+[
+  {
+    "name": "USDC",
+    "symbol": "USDC",
+    "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547034163"
+  },
+  {
+    "name": "USDC",
+    "symbol": "USDC",
+    "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "chainId": 8453,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/USDC.png"
+  },
+  {
+    "name": "GOLD",
+    "symbol": "Tokiemon Gold",
+    "address": "0xaEECB2c3c0A1cd15b7CDE0e1c5ACB1Cb246Afa99",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/GOLD.png"
+  },
+  {
+    "name": "DAI",
+    "symbol": "DAI",
+    "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DAI.png"
+  },
+  {
+    "name": "Coinbase BTC",
+    "symbol": "CBBTC",
+    "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+    "chainId": 8453,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/CBBTC.png"
+  },
+  {
+    "name": "Axelar",
+    "symbol": "AXL",
+    "address": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
+    "chainId": 8453,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/AXL.png"
+  },
+  {
+    "name": "Mister Miggles",
+    "symbol": "MIGGLES",
+    "address": "0xB1a03EdA10342529bBF8EB700a06C60441fEf25d",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39251/large/miggles.jpg?1721283044"
+  },
+  {
+    "name": "RealGoat",
+    "symbol": "RGOAT",
+    "address": "0xf0268c5f9aa95baf5c25d646aabb900ac12f0800",
+    "chainId": 8453,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RGOAT.png"
+  },
+  {
+    "name": "Metacade",
+    "symbol": "MCADE",
+    "address": "0xc48823ec67720a04a9dfd8c7d109b2c3d6622094",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MCADE.png"
+  },
+  {
+    "name": "Based",
+    "symbol": "BASED",
+    "address": "0x32E0f9d26D1e33625742A52620cC76C1130efde6",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BASED.png"
+  },
+  {
+    "name": "Degen",
+    "symbol": "DEGEN",
+    "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225"
+  }
+]
