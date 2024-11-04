@@ -10,6 +10,288 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
     tags: [],
   },
+
+  // Prominent Base Memecoins & Partners
+  {
+    communityId: "BRETT",
+    name: "Brett",
+    symbol: "BRETT",
+    logoURI:
+      "https://assets.coingecko.com/coins/images/35529/large/1000050750.png?1709031995",
+    extraPaymentTokens: [],
+    tags: ["BASE", "MEME"],
+  },
+  {
+    communityId: "AERO",
+    name: "Aerodrome",
+    symbol: "AERO",
+    logoURI:
+      "https://assets.coingecko.com/coins/images/31745/large/token.png?1696530564",
+    extraPaymentTokens: [],
+    tags: ["BASE"],
+  },
+  {
+    communityId: "DEGEN",
+    name: "Degen",
+    symbol: "DEGEN",
+    logoURI:
+      "https://assets.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225",
+    extraPaymentTokens: [
+      {
+        name: "Degen",
+        symbol: "DEGEN",
+        address: "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+        chainId: 8453,
+        decimals: 18,
+        logoURI:
+          "https://assets.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225",
+      },
+    ],
+    tags: ["BASE"],
+  },
+  {
+    communityId: "TOSHI",
+    name: "Toshi",
+    symbol: "TOSHI",
+    logoURI:
+      "https://assets.coingecko.com/coins/images/31126/large/Toshi_Logo_-_Circular.png?1721677476",
+    extraPaymentTokens: [],
+    tags: ["BASE", "MEME"],
+  },
+  {
+    communityId: "KEYCAT",
+    name: "Keyboard Cat",
+    symbol: "KEYCAT",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/KEYCAT.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "MEME"],
+  },
+  {
+    communityId: "MOG",
+    name: "Mog Coin",
+    symbol: "MOG",
+    logoURI:
+      "https://assets.coingecko.com/coins/images/31059/large/MOG_LOGO_200x200.png?1696529893",
+    extraPaymentTokens: [],
+    tags: ["BASE", "SOLANA", "MEME"],
+  },
+  {
+    communityId: "SPX",
+    name: "SPX6900",
+    symbol: "SPX",
+    logoURI:
+      "https://assets.coingecko.com/coins/images/31401/large/sticker_%281%29.jpg?1702371083",
+    extraPaymentTokens: [],
+    tags: ["BASE", "MEME"],
+  },
+  {
+    communityId: "MIGGLES",
+    name: "Mister Miggles",
+    symbol: "MIGGLES",
+    logoURI:
+      "https://assets.coingecko.com/coins/images/39251/large/miggles.jpg?1721283044",
+    extraPaymentTokens: [
+      {
+        name: "Mister Miggles",
+        symbol: "MIGGLES",
+        address: "0xB1a03EdA10342529bBF8EB700a06C60441fEf25d",
+        chainId: 8453,
+        decimals: 18,
+        logoURI:
+          "https://assets.coingecko.com/coins/images/39251/large/miggles.jpg?1721283044",
+      },
+    ],
+    tags: ["PARTNER", "MEME", "BASE"],
+  },
+  {
+    communityId: "HIGHER",
+    name: "Higher",
+    symbol: "HIGHER",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/HIGHER.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "MEME"],
+  },
+  {
+    communityId: "MFER",
+    name: "mfercoin",
+    symbol: "MFER",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MFER.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "MEME"],
+  },
+  {
+    communityId: "TOBY",
+    name: "Toby ToadGod",
+    symbol: "TOBY",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/TOBY.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "MEME"],
+  },
+  {
+    communityId: "RGOAT",
+    name: "RealGoat",
+    symbol: "RGOAT",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RGOAT.png",
+    extraPaymentTokens: [
+      {
+        name: "RealGoat",
+        symbol: "RGOAT",
+        address: "0xf0268c5f9aa95baf5c25d646aabb900ac12f0800",
+        chainId: 8453,
+        decimals: 8,
+        logoURI:
+          "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RGOAT.png",
+      },
+    ],
+    tags: ["PARTNER", "MEME", "BASE"],
+  },
+  {
+    communityId: "MCADE",
+    name: "Metacade",
+    symbol: "MCADE",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MCADE.png",
+    extraPaymentTokens: [
+      {
+        name: "Metacade",
+        symbol: "MCADE",
+        address: "0xc48823ec67720a04a9dfd8c7d109b2c3d6622094",
+        chainId: 8453,
+        decimals: 18,
+        logoURI:
+          "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MCADE.png",
+      },
+    ],
+    tags: ["PARTNER", "BASE"],
+  },
+  {
+    communityId: "MOCHI",
+    name: "Mochi",
+    symbol: "MOCHI",
+    logoURI:
+      "https://assets.coingecko.com/coins/images/33083/large/CIRCLE-200x200.png?1713297273",
+    extraPaymentTokens: [],
+    tags: ["BASE", "MEME"],
+  },
+
+  // Additional Partners
+  {
+    communityId: "BASED",
+    name: "Based",
+    symbol: "BASED",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BASED.png",
+    extraPaymentTokens: [
+      {
+        name: "Based",
+        symbol: "BASED",
+        address: "0x32E0f9d26D1e33625742A52620cC76C1130efde6",
+        chainId: 8453,
+        decimals: 18,
+        logoURI:
+          "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BASED.png",
+      },
+    ],
+    tags: ["PARTNER", "BASE"],
+  },
+  {
+    communityId: "GHOST",
+    name: "GHOST",
+    symbol: "GHOST",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/GHOST.png",
+    extraPaymentTokens: [],
+    tags: ["PARTNER"],
+  },
+  {
+    communityId: "MONEY",
+    name: "DeFi.Money",
+    symbol: "MONEY",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MONEY.png",
+    extraPaymentTokens: [],
+    tags: ["PARTNER", "BASE"],
+  },
+  {
+    communityId: "ABOND",
+    name: "ApeBond",
+    symbol: "ABOND",
+    logoURI:
+      "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ABOND.png",
+    extraPaymentTokens: [],
+    tags: ["PARTNER"],
+  },
+  {
+    communityId: "DMAIL",
+    name: "Dmail",
+    symbol: "DMAIL",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DMAIL.png",
+    extraPaymentTokens: [],
+    tags: ["PARTNER"],
+  },
+  {
+    communityId: "RSR",
+    name: "Reserve Rights",
+    symbol: "RSR",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RSR.png",
+    extraPaymentTokens: [],
+    tags: ["PARTNER"],
+  },
+
+  // Other Popular Base Tokens
+  {
+    communityId: "WUF",
+    name: "Wuffi",
+    symbol: "WUF",
+    logoURI:
+      "https://assets.coingecko.com/coins/images/36933/large/WUFFI.jpg?1720613603",
+    extraPaymentTokens: [],
+    tags: ["BASE", "MEME"],
+  },
+  {
+    communityId: "BENJI",
+    name: "Basenji",
+    symbol: "BENJI",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BENJI.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "MEME"],
+  },
+  {
+    communityId: "OVN",
+    name: "Overnight Finance",
+    symbol: "OVN",
+    logoURI:
+      "https://assets.coingecko.com/coins/images/31970/large/OVN.png?1696959174",
+    extraPaymentTokens: [],
+    tags: ["BASE"],
+  },
+  {
+    communityId: "PRIME",
+    name: "Echelon Prime",
+    symbol: "PRIME",
+    logoURI:
+      "https://assets.coingecko.com/coins/images/29053/large/prime-logo-small-border_%282%29.png?1696528020",
+    extraPaymentTokens: [],
+    tags: ["BASE"],
+  },
+  {
+    communityId: "REZ",
+    name: "Renzo",
+    symbol: "REZ",
+    logoURI:
+      "https://assets.coingecko.com/coins/images/37327/large/renzo_200x200.png?1714025012",
+    extraPaymentTokens: [],
+    tags: ["BASE"],
+  },
+
   // DeFi
   {
     communityId: "UNI",
@@ -83,129 +365,6 @@ export const communityTokens: CommunityToken[] = [
       },
     ],
     tags: ["DEFI", "BASE"],
-  },
-
-  // Partners
-  {
-    communityId: "MIGGLES",
-    name: "Mister Miggles",
-    symbol: "MIGGLES",
-    logoURI:
-      "https://assets.coingecko.com/coins/images/39251/large/miggles.jpg?1721283044",
-    extraPaymentTokens: [
-      {
-        name: "Mister Miggles",
-        symbol: "MIGGLES",
-        address: "0xB1a03EdA10342529bBF8EB700a06C60441fEf25d",
-        chainId: 8453,
-        decimals: 18,
-        logoURI:
-          "https://assets.coingecko.com/coins/images/39251/large/miggles.jpg?1721283044",
-      },
-    ],
-    tags: ["PARTNER", "MEME", "BASE"],
-  },
-  {
-    communityId: "RGOAT",
-    name: "RealGoat",
-    symbol: "RGOAT",
-    logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RGOAT.png",
-    extraPaymentTokens: [
-      {
-        name: "RealGoat",
-        symbol: "RGOAT",
-        address: "0xf0268c5f9aa95baf5c25d646aabb900ac12f0800",
-        chainId: 8453,
-        decimals: 8,
-        logoURI:
-          "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RGOAT.png",
-      },
-    ],
-    tags: ["PARTNER", "MEME", "BASE"],
-  },
-  {
-    communityId: "MCADE",
-    name: "Metacade",
-    symbol: "MCADE",
-    logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MCADE.png",
-    extraPaymentTokens: [
-      {
-        name: "Metacade",
-        symbol: "MCADE",
-        address: "0xc48823ec67720a04a9dfd8c7d109b2c3d6622094",
-        chainId: 8453,
-        decimals: 18,
-        logoURI:
-          "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MCADE.png",
-      },
-    ],
-    tags: ["PARTNER", "BASE"],
-  },
-  {
-    communityId: "BASED",
-    name: "Based",
-    symbol: "BASED",
-    logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BASED.png",
-    extraPaymentTokens: [
-      {
-        name: "Based",
-        symbol: "BASED",
-        address: "0x32E0f9d26D1e33625742A52620cC76C1130efde6",
-        chainId: 8453,
-        decimals: 18,
-        logoURI:
-          "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BASED.png",
-      },
-    ],
-    tags: ["PARTNER", "BASE"],
-  },
-  {
-    communityId: "GHOST",
-    name: "GHOST",
-    symbol: "GHOST",
-    logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/GHOST.png",
-    extraPaymentTokens: [],
-    tags: ["PARTNER"],
-  },
-  {
-    communityId: "MONEY",
-    name: "DeFi.Money",
-    symbol: "MONEY",
-    logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MONEY.png",
-    extraPaymentTokens: [],
-    tags: ["PARTNER", "BASE"],
-  },
-  {
-    communityId: "ABOND",
-    name: "ApeBond",
-    symbol: "ABOND",
-    logoURI:
-      "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ABOND.png",
-    extraPaymentTokens: [],
-    tags: ["PARTNER"],
-  },
-  {
-    communityId: "DMAIL",
-    name: "Dmail",
-    symbol: "DMAIL",
-    logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DMAIL.png",
-    extraPaymentTokens: [],
-    tags: ["PARTNER"],
-  },
-  {
-    communityId: "RSR",
-    name: "Reserve Rights",
-    symbol: "RSR",
-    logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RSR.png",
-    extraPaymentTokens: [],
-    tags: ["PARTNER"],
   },
 
   // Bluechips & Stables
@@ -300,126 +459,6 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/FLOKI.png",
     extraPaymentTokens: [],
     tags: ["MEME"],
-  },
-
-  // Base-Specific Tokens
-  {
-    communityId: "BRETT",
-    name: "Brett",
-    symbol: "BRETT",
-    logoURI:
-      "https://assets.coingecko.com/coins/images/35529/large/1000050750.png?1709031995",
-    extraPaymentTokens: [],
-    tags: ["BASE", "MEME"],
-  },
-  {
-    communityId: "OVN",
-    name: "Overnight Finance",
-    symbol: "OVN",
-    logoURI:
-      "https://assets.coingecko.com/coins/images/31970/large/OVN.png?1696959174",
-    extraPaymentTokens: [],
-    tags: ["BASE"],
-  },
-  {
-    communityId: "PRIME",
-    name: "Echelon Prime",
-    symbol: "PRIME",
-    logoURI:
-      "https://assets.coingecko.com/coins/images/29053/large/prime-logo-small-border_%282%29.png?1696528020",
-    extraPaymentTokens: [],
-    tags: ["BASE"],
-  },
-  {
-    communityId: "REZ",
-    name: "Renzo",
-    symbol: "REZ",
-    logoURI:
-      "https://assets.coingecko.com/coins/images/37327/large/renzo_200x200.png?1714025012",
-    extraPaymentTokens: [],
-    tags: ["BASE"],
-  },
-  {
-    communityId: "AERO",
-    name: "Aerodrome",
-    symbol: "AERO",
-    logoURI:
-      "https://assets.coingecko.com/coins/images/31745/large/token.png?1696530564",
-    extraPaymentTokens: [],
-    tags: ["BASE"],
-  },
-  {
-    communityId: "DEGEN",
-    name: "Degen",
-    symbol: "DEGEN",
-    logoURI:
-      "https://assets.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225",
-    extraPaymentTokens: [
-      {
-        name: "Degen",
-        symbol: "DEGEN",
-        address: "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
-        chainId: 8453,
-        decimals: 18,
-        logoURI:
-          "https://assets.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225",
-      },
-    ],
-    tags: ["BASE"],
-  },
-  {
-    communityId: "TOSHI",
-    name: "Toshi",
-    symbol: "TOSHI",
-    logoURI:
-      "https://assets.coingecko.com/coins/images/31126/large/Toshi_Logo_-_Circular.png?1721677476",
-    extraPaymentTokens: [],
-    tags: ["BASE", "MEME"],
-  },
-  {
-    communityId: "MOG",
-    name: "Mog Coin",
-    symbol: "MOG",
-    logoURI:
-      "https://assets.coingecko.com/coins/images/31059/large/MOG_LOGO_200x200.png?1696529893",
-    extraPaymentTokens: [],
-    tags: ["BASE", "SOLANA", "MEME"],
-  },
-  {
-    communityId: "WUF",
-    name: "Wuffi",
-    symbol: "WUF",
-    logoURI:
-      "https://assets.coingecko.com/coins/images/36933/large/WUFFI.jpg?1720613603",
-    extraPaymentTokens: [],
-    tags: ["BASE", "MEME"],
-  },
-  {
-    communityId: "MOCHI",
-    name: "Mochi",
-    symbol: "MOCHI",
-    logoURI:
-      "https://assets.coingecko.com/coins/images/33083/large/CIRCLE-200x200.png?1713297273",
-    extraPaymentTokens: [],
-    tags: ["BASE", "MEME"],
-  },
-  {
-    communityId: "SPX",
-    name: "SPX6900",
-    symbol: "SPX",
-    logoURI:
-      "https://assets.coingecko.com/coins/images/31401/large/sticker_%281%29.jpg?1702371083",
-    extraPaymentTokens: [],
-    tags: ["BASE", "MEME"],
-  },
-  {
-    communityId: "BENJI",
-    name: "Basenji",
-    symbol: "BENJI",
-    logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BENJI.png",
-    extraPaymentTokens: [],
-    tags: ["BASE", "MEME"],
   },
 
   // Solana
