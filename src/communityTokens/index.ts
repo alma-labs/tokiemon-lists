@@ -425,6 +425,15 @@ export const communityTokens: CommunityToken[] = [
 
   // Meme
   {
+    communityId: "PUPS",
+    name: "Bitcoin Puppets",
+    symbol: "PUPS",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/PUPS.png",
+    extraPaymentTokens: [],
+    tags: ["MEME"],
+  },
+  {
     communityId: "DOGE",
     name: "Dogecoin",
     symbol: "DOGE",
@@ -547,6 +556,16 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ORDER.png",
     extraPaymentTokens: [],
     tags: ["PARTNER"],
+    inactive: true,
+  },
+  {
+    communityId: "DEVCON",
+    name: "Devcon Bangkok",
+    symbol: "DEVCON",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DEVCON.png",
+    extraPaymentTokens: [],
+    tags: [],
     inactive: true,
   },
 ];
