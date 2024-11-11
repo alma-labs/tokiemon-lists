@@ -462,6 +462,16 @@
     ]
   },
   {
+    "communityId": "PUPS",
+    "name": "Bitcoin Puppets",
+    "symbol": "PUPS",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/PUPS.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "MEME"
+    ]
+  },
+  {
     "communityId": "DOGE",
     "name": "Dogecoin",
     "symbol": "DOGE",
