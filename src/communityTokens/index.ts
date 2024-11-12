@@ -178,6 +178,15 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
     tags: ["BASE", "MEME"],
   },
+  {
+    communityId: "GMR",
+    name: "Gamer",
+    symbol: "GMR",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/GMR.png",
+    extraPaymentTokens: [],
+    tags: ["BASE"],
+  },
 
   // Additional Partners
   {
