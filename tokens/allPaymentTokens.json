@@ -45,7 +45,7 @@
     "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
     "chainId": 8453,
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225"
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DEGEN.png"
   },
   {
     "name": "Mister Miggles",
@@ -53,7 +53,7 @@
     "address": "0xB1a03EdA10342529bBF8EB700a06C60441fEf25d",
     "chainId": 8453,
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/39251/large/miggles.jpg?1721283044"
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MIGGLES.png"
   },
   {
     "name": "RealGoat",

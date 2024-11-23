@@ -17,7 +17,7 @@ export const communityTokens: CommunityToken[] = [
     name: "Brett",
     symbol: "BRETT",
     logoURI:
-      "https://assets.coingecko.com/coins/images/35529/large/1000050750.png?1709031995",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BRETT.png",
     extraPaymentTokens: [],
     tags: ["BASE", "MEME"],
   },
@@ -26,7 +26,7 @@ export const communityTokens: CommunityToken[] = [
     name: "Aerodrome",
     symbol: "AERO",
     logoURI:
-      "https://assets.coingecko.com/coins/images/31745/large/token.png?1696530564",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/AERO.png",
     extraPaymentTokens: [],
     tags: ["BASE"],
   },
@@ -35,7 +35,7 @@ export const communityTokens: CommunityToken[] = [
     name: "Degen",
     symbol: "DEGEN",
     logoURI:
-      "https://assets.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DEGEN.png",
     extraPaymentTokens: [
       {
         name: "Degen",
@@ -44,7 +44,7 @@ export const communityTokens: CommunityToken[] = [
         chainId: 8453,
         decimals: 18,
         logoURI:
-          "https://assets.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225",
+          "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DEGEN.png",
       },
     ],
     tags: ["BASE"],
@@ -54,7 +54,7 @@ export const communityTokens: CommunityToken[] = [
     name: "Toshi",
     symbol: "TOSHI",
     logoURI:
-      "https://assets.coingecko.com/coins/images/31126/large/Toshi_Logo_-_Circular.png?1721677476",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/TOSHI.png",
     extraPaymentTokens: [],
     tags: ["BASE", "MEME"],
   },
@@ -72,7 +72,7 @@ export const communityTokens: CommunityToken[] = [
     name: "Mog Coin",
     symbol: "MOG",
     logoURI:
-      "https://assets.coingecko.com/coins/images/31059/large/MOG_LOGO_200x200.png?1696529893",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MOG.png",
     extraPaymentTokens: [],
     tags: ["BASE", "SOLANA", "MEME"],
   },
@@ -81,7 +81,7 @@ export const communityTokens: CommunityToken[] = [
     name: "SPX6900",
     symbol: "SPX",
     logoURI:
-      "https://assets.coingecko.com/coins/images/31401/large/sticker_%281%29.jpg?1702371083",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SPX.png",
     extraPaymentTokens: [],
     tags: ["BASE", "MEME"],
   },
@@ -90,7 +90,7 @@ export const communityTokens: CommunityToken[] = [
     name: "Mister Miggles",
     symbol: "MIGGLES",
     logoURI:
-      "https://assets.coingecko.com/coins/images/39251/large/miggles.jpg?1721283044",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MIGGLES.png",
     extraPaymentTokens: [
       {
         name: "Mister Miggles",
@@ -99,7 +99,7 @@ export const communityTokens: CommunityToken[] = [
         chainId: 8453,
         decimals: 18,
         logoURI:
-          "https://assets.coingecko.com/coins/images/39251/large/miggles.jpg?1721283044",
+          "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MIGGLES.png",
       },
     ],
     tags: ["PARTNER", "MEME", "BASE"],
