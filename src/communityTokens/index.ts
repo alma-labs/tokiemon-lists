@@ -174,7 +174,7 @@ export const communityTokens: CommunityToken[] = [
     name: "Mochi",
     symbol: "MOCHI",
     logoURI:
-      "https://assets.coingecko.com/coins/images/33083/large/CIRCLE-200x200.png?1713297273",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MOCHI.png",
     extraPaymentTokens: [],
     tags: ["BASE", "MEME"],
   },
@@ -260,7 +260,7 @@ export const communityTokens: CommunityToken[] = [
     name: "Wuffi",
     symbol: "WUF",
     logoURI:
-      "https://assets.coingecko.com/coins/images/36933/large/WUFFI.jpg?1720613603",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/WUF.png",
     extraPaymentTokens: [],
     tags: ["BASE", "MEME"],
   },
@@ -278,7 +278,7 @@ export const communityTokens: CommunityToken[] = [
     name: "Overnight Finance",
     symbol: "OVN",
     logoURI:
-      "https://assets.coingecko.com/coins/images/31970/large/OVN.png?1696959174",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/OVN.png",
     extraPaymentTokens: [],
     tags: ["BASE"],
   },
@@ -287,7 +287,7 @@ export const communityTokens: CommunityToken[] = [
     name: "Echelon Prime",
     symbol: "PRIME",
     logoURI:
-      "https://assets.coingecko.com/coins/images/29053/large/prime-logo-small-border_%282%29.png?1696528020",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/PRIME.png",
     extraPaymentTokens: [],
     tags: ["BASE"],
   },
@@ -296,7 +296,7 @@ export const communityTokens: CommunityToken[] = [
     name: "Renzo",
     symbol: "REZ",
     logoURI:
-      "https://assets.coingecko.com/coins/images/37327/large/renzo_200x200.png?1714025012",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/REZ.png",
     extraPaymentTokens: [],
     tags: ["BASE"],
   },
@@ -316,7 +316,7 @@ export const communityTokens: CommunityToken[] = [
     name: "Aave",
     symbol: "AAVE",
     logoURI:
-      "https://assets.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/AAVE.png",
     extraPaymentTokens: [],
     tags: ["DEFI"],
   },
@@ -494,7 +494,7 @@ export const communityTokens: CommunityToken[] = [
     name: "dogwifhat",
     symbol: "WIF",
     logoURI:
-      "https://assets.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/WIF.png",
     extraPaymentTokens: [],
     tags: ["SOLANA", "MEME"],
   },
