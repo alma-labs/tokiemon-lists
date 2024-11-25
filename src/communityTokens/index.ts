@@ -105,6 +105,15 @@ export const communityTokens: CommunityToken[] = [
     tags: ["PARTNER", "MEME", "BASE"],
   },
   {
+    communityId: "TIMI",
+    name: "This Is My Iguana",
+    symbol: "TIMI",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/TIMI.png",
+    extraPaymentTokens: [],
+    tags: ["PARTNER", "MEME", "BASE"],
+  },
+  {
     communityId: "HIGHER",
     name: "Higher",
     symbol: "HIGHER",
