@@ -93,6 +93,18 @@
     ]
   },
   {
+    "communityId": "DOGINME",
+    "name": "doginme",
+    "symbol": "DOGINME",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DOGINME.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "PARTNER",
+      "MEME",
+      "BASE"
+    ]
+  },
+  {
     "communityId": "MIGGLES",
     "name": "Mister Miggles",
     "symbol": "MIGGLES",

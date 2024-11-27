@@ -86,6 +86,25 @@ export const communityTokens: CommunityToken[] = [
     tags: ["BASE", "MEME"],
   },
   {
+    communityId: "DOGINME",
+    name: "doginme",
+    symbol: "DOGINME",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DOGINME.png",
+    extraPaymentTokens: [
+      // {
+      //   name: "doginme",
+      //   symbol: "DOGINME",
+      //   address: "0x6921b130d297cc43754afba22e5eac0fbf8db75b",
+      //   chainId: 8453,
+      //   decimals: 18,
+      //   logoURI:
+      //     "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DOGINME.png",
+      // },
+    ],
+    tags: ["PARTNER", "MEME", "BASE"],
+  },
+  {
     communityId: "MIGGLES",
     name: "Mister Miggles",
     symbol: "MIGGLES",
