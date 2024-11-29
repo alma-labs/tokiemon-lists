@@ -48,12 +48,28 @@
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DEGEN.png"
   },
   {
+    "name": "doginme",
+    "symbol": "DOGINME",
+    "address": "0x6921b130d297cc43754afba22e5eac0fbf8db75b",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DOGINME.png"
+  },
+  {
     "name": "Mister Miggles",
     "symbol": "MIGGLES",
     "address": "0xB1a03EdA10342529bBF8EB700a06C60441fEf25d",
     "chainId": 8453,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MIGGLES.png"
+  },
+  {
+    "name": "Virtuals Protocol",
+    "symbol": "VIRTUAL",
+    "address": "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/VIRTUAL.png"
   },
   {
     "name": "RealGoat",

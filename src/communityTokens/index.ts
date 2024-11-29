@@ -92,15 +92,15 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DOGINME.png",
     extraPaymentTokens: [
-      // {
-      //   name: "doginme",
-      //   symbol: "DOGINME",
-      //   address: "0x6921b130d297cc43754afba22e5eac0fbf8db75b",
-      //   chainId: 8453,
-      //   decimals: 18,
-      //   logoURI:
-      //     "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DOGINME.png",
-      // },
+      {
+        name: "doginme",
+        symbol: "DOGINME",
+        address: "0x6921b130d297cc43754afba22e5eac0fbf8db75b",
+        chainId: 8453,
+        decimals: 18,
+        logoURI:
+          "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DOGINME.png",
+      },
     ],
     tags: ["PARTNER", "MEME", "BASE"],
   },
@@ -140,6 +140,25 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/HIGHER.png",
     extraPaymentTokens: [],
     tags: ["BASE", "MEME"],
+  },
+  {
+    communityId: "VIRTUAL",
+    name: "Virtuals Protocol",
+    symbol: "VIRTUAL",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/VIRTUAL.png",
+    extraPaymentTokens: [
+      {
+        name: "Virtuals Protocol",
+        symbol: "VIRTUAL",
+        address: "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
+        chainId: 8453,
+        decimals: 18,
+        logoURI:
+          "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/VIRTUAL.png",
+      },
+    ],
+    tags: ["BASE", "AI"],
   },
   {
     communityId: "MFER",
