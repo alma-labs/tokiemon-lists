@@ -133,6 +133,15 @@ export const communityTokens: CommunityToken[] = [
     tags: ["PARTNER", "MEME", "BASE"],
   },
   {
+    communityId: "UNLUCKY",
+    name: "Unlucky",
+    symbol: "UNLUCKY",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/UNLUCKY.png",
+    extraPaymentTokens: [],
+    tags: ["PARTNER", "MEME", "BASE"],
+  },
+  {
     communityId: "HIGHER",
     name: "Higher",
     symbol: "HIGHER",
