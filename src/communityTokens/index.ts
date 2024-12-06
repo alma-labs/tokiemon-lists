@@ -583,7 +583,7 @@ export const communityTokens: CommunityToken[] = [
   },
   {
     communityId: "OMNI",
-    name: "Omni World",
+    name: "Omni",
     symbol: "OMNI",
     logoURI:
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/OMNI.png",
