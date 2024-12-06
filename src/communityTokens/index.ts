@@ -581,6 +581,15 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
     tags: ["SOLANA", "MEME"],
   },
+  {
+    communityId: "OMNI",
+    name: "Omni World",
+    symbol: "OMNI",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/OMNI.png",
+    extraPaymentTokens: [],
+    tags: [],
+  },
 
   // Inactive
   {
