@@ -590,8 +590,6 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
     tags: [],
   },
-
-  // Inactive
   {
     communityId: "COPI",
     name: "Cornucopias",
@@ -599,8 +597,7 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/COPI.png",
     extraPaymentTokens: [],
-    tags: ["PARTNER"],
-    inactive: true,
+    tags: [],
   },
   {
     communityId: "SDEX",
@@ -609,8 +606,7 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SDEX.png",
     extraPaymentTokens: [],
-    tags: ["PARTNER"],
-    inactive: true,
+    tags: [],
   },
   {
     communityId: "RECORD",
@@ -619,8 +615,7 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RECORD.png",
     extraPaymentTokens: [],
-    tags: ["PARTNER", "BASE"],
-    inactive: true,
+    tags: ["BASE"],
   },
   {
     communityId: "ORDER",
@@ -629,17 +624,15 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ORDER.png",
     extraPaymentTokens: [],
-    tags: ["PARTNER"],
-    inactive: true,
+    tags: ["BASE"],
   },
   {
     communityId: "DEVCON",
-    name: "Devcon Bangkok",
+    name: "Devcon",
     symbol: "DEVCON",
     logoURI:
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DEVCON.png",
     extraPaymentTokens: [],
     tags: [],
-    inactive: true,
   },
 ];

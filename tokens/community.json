@@ -649,5 +649,49 @@
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/OMNI.png",
     "extraPaymentTokens": [],
     "tags": []
+  },
+  {
+    "communityId": "COPI",
+    "name": "Cornucopias",
+    "symbol": "COPI",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/COPI.png",
+    "extraPaymentTokens": [],
+    "tags": []
+  },
+  {
+    "communityId": "SDEX",
+    "name": "SmarDex",
+    "symbol": "SDEX",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SDEX.png",
+    "extraPaymentTokens": [],
+    "tags": []
+  },
+  {
+    "communityId": "RECORD",
+    "name": "Music Protocol",
+    "symbol": "RECORD",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RECORD.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE"
+    ]
+  },
+  {
+    "communityId": "ORDER",
+    "name": "Orderly Network",
+    "symbol": "ORDER",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ORDER.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE"
+    ]
+  },
+  {
+    "communityId": "DEVCON",
+    "name": "Devcon",
+    "symbol": "DEVCON",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DEVCON.png",
+    "extraPaymentTokens": [],
+    "tags": []
   }
 ]

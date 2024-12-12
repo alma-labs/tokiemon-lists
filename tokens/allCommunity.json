@@ -656,10 +656,7 @@
     "symbol": "COPI",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/COPI.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "PARTNER"
-    ],
-    "inactive": true
+    "tags": []
   },
   {
     "communityId": "SDEX",
@@ -667,10 +664,7 @@
     "symbol": "SDEX",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SDEX.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "PARTNER"
-    ],
-    "inactive": true
+    "tags": []
   },
   {
     "communityId": "RECORD",
@@ -679,10 +673,8 @@
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RECORD.png",
     "extraPaymentTokens": [],
     "tags": [
-      "PARTNER",
       "BASE"
-    ],
-    "inactive": true
+    ]
   },
   {
     "communityId": "ORDER",
@@ -691,17 +683,15 @@
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ORDER.png",
     "extraPaymentTokens": [],
     "tags": [
-      "PARTNER"
-    ],
-    "inactive": true
+      "BASE"
+    ]
   },
   {
     "communityId": "DEVCON",
-    "name": "Devcon Bangkok",
+    "name": "Devcon",
     "symbol": "DEVCON",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DEVCON.png",
     "extraPaymentTokens": [],
-    "tags": [],
-    "inactive": true
+    "tags": []
   }
 ]
