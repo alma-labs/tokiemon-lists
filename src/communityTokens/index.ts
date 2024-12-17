@@ -68,6 +68,24 @@ export const communityTokens: CommunityToken[] = [
     tags: ["BASE", "MEME"],
   },
   {
+    communityId: "BASEDPEPE",
+    name: "Based Pepe",
+    symbol: "BASEDPEPE",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BASEDPEPE.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "MEME"],
+  },
+  {
+    communityId: "SKI",
+    name: "Ski Mask Dog",
+    symbol: "SKI",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SKI.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "MEME"],
+  },
+  {
     communityId: "MOG",
     name: "Mog Coin",
     symbol: "MOG",
