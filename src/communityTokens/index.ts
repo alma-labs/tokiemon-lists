@@ -10,6 +10,15 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
     tags: [],
   },
+  {
+    communityId: "XMAS",
+    name: "Holiday Editiion",
+    symbol: "XMAS",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/XMAS.png",
+    extraPaymentTokens: [],
+    tags: ["LIMITED"],
+  },
 
   // Prominent Base Memecoins & Partners
   {
