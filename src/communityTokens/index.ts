@@ -18,6 +18,7 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/XMAS.png",
     extraPaymentTokens: [],
     tags: ["LIMITED"],
+    inactive: true,
   },
 
   // Prominent Base Memecoins & Partners
