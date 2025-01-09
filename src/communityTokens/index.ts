@@ -114,6 +114,15 @@ export const communityTokens: CommunityToken[] = [
     tags: ["BASE", "MEME"],
   },
   {
+    communityId: "MARSO",
+    name: "Marso.tech",
+    symbol: "MARSO",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MARSO.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "AI"],
+  },
+  {
     communityId: "DOGINME",
     name: "doginme",
     symbol: "DOGINME",
