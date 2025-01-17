@@ -123,6 +123,15 @@ export const communityTokens: CommunityToken[] = [
     tags: ["BASE", "AI"],
   },
   {
+    communityId: "OX",
+    name: "OX.FUN",
+    symbol: "OX",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/OX.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "DEFI"],
+  },
+  {
     communityId: "DOGINME",
     name: "doginme",
     symbol: "DOGINME",
