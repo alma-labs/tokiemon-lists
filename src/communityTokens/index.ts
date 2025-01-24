@@ -114,6 +114,15 @@ export const communityTokens: CommunityToken[] = [
     tags: ["BASE", "MEME"],
   },
   {
+    communityId: "AEROBUD",
+    name: "AeroBud",
+    symbol: "AEROBUD",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/AEROBUD.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "MEME"],
+  },
+  {
     communityId: "MARSO",
     name: "Marso.tech",
     symbol: "MARSO",
