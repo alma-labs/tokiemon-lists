@@ -105,6 +105,15 @@ export const communityTokens: CommunityToken[] = [
     tags: ["BASE", "SOLANA", "MEME"],
   },
   {
+    communityId: "DICKBUTT",
+    name: "Dickbutt",
+    symbol: "DICKBUTT",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DICKBUTT.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "MEME"],
+  },
+  {
     communityId: "SPX",
     name: "SPX6900",
     symbol: "SPX",
