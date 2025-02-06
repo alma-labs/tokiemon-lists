@@ -114,6 +114,15 @@ export const communityTokens: CommunityToken[] = [
     tags: ["BASE", "MEME"],
   },
   {
+    communityId: "ALB",
+    name: "Alien Base",
+    symbol: "ALB",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ALB.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "MEME"],
+  },
+  {
     communityId: "SPX",
     name: "SPX6900",
     symbol: "SPX",
