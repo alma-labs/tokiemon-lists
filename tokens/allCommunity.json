@@ -15,7 +15,8 @@
     "extraPaymentTokens": [],
     "tags": [
       "LIMITED"
-    ]
+    ],
+    "inactive": true
   },
   {
     "communityId": "XMAS",
