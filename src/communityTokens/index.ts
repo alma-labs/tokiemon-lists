@@ -79,6 +79,15 @@ export const communityTokens: CommunityToken[] = [
     tags: ["BASE", "MEME"],
   },
   {
+    communityId: "COOKIE",
+    name: "Cookie.fun",
+    symbol: "COOKIE",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/COOKIE.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "AI"],
+  },
+  {
     communityId: "KEYCAT",
     name: "Keyboard Cat",
     symbol: "KEYCAT",
