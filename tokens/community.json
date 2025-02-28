@@ -8,6 +8,16 @@
     "tags": []
   },
   {
+    "communityId": "ETHDEN",
+    "name": "Eth Denver",
+    "symbol": "ETHDEN",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ETHDEN.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "LIMITED"
+    ]
+  },
+  {
     "communityId": "BRETT",
     "name": "Brett",
     "symbol": "BRETT",

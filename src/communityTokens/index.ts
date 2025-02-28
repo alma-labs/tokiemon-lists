@@ -11,6 +11,15 @@ export const communityTokens: CommunityToken[] = [
     tags: [],
   },
   {
+    communityId: "ETHDEN",
+    name: "Eth Denver",
+    symbol: "ETHDEN",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ETHDEN.png",
+    extraPaymentTokens: [],
+    tags: ["LIMITED"],
+  },
+  {
     communityId: "VTINE",
     name: "Valentine's",
     symbol: "VTINE",
