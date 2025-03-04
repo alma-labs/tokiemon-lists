@@ -539,7 +539,7 @@ export const communityTokens: CommunityToken[] = [
     logoURI:
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/COW.png",
     extraPaymentTokens: [],
-    tags: ["DEFI"],
+    tags: ["DEFI", "BASE"],
   },
 
   // Bluechips & Stables
