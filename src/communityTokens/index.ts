@@ -532,6 +532,15 @@ export const communityTokens: CommunityToken[] = [
     ],
     tags: ["DEFI", "BASE"],
   },
+  {
+    communityId: "COW",
+    name: "CoW Swap",
+    symbol: "COW",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/COW.png",
+    extraPaymentTokens: [],
+    tags: ["DEFI", "BASE"],
+  },
 
   // Bluechips & Stables
   {
