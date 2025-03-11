@@ -344,6 +344,15 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
     tags: ["BASE"],
   },
+  {
+    communityId: "FAI",
+    name: "Freysa AI",
+    symbol: "FAI",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/FAI.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "AI"],
+  },
 
   // Additional Partners
   {
