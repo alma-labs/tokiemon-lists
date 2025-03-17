@@ -170,7 +170,9 @@
     "symbol": "ETHDEN",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ETHDEN.png",
     "extraPaymentTokens": [],
-    "tags": ["LIMITED"]
+    "tags": [
+      "LIMITED"
+    ]
   },
   {
     "communityId": "VTINE",
@@ -178,7 +180,9 @@
     "symbol": "VTINE",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/VTINE.png",
     "extraPaymentTokens": [],
-    "tags": ["LIMITED"],
+    "tags": [
+      "LIMITED"
+    ],
     "inactive": true
   },
   {
@@ -187,7 +191,9 @@
     "symbol": "XMAS",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/XMAS.png",
     "extraPaymentTokens": [],
-    "tags": ["LIMITED"],
+    "tags": [
+      "LIMITED"
+    ],
     "inactive": true,
     "prompts": {
       "kawaii": [
@@ -264,7 +270,10 @@
     "symbol": "BRETT",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BRETT.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE", "MEME"]
+    "tags": [
+      "BASE",
+      "MEME"
+    ]
   },
   {
     "communityId": "AERO",
@@ -272,7 +281,9 @@
     "symbol": "AERO",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/AERO.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE"]
+    "tags": [
+      "BASE"
+    ]
   },
   {
     "communityId": "DEGEN",
@@ -289,7 +300,9 @@
         "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DEGEN.png"
       }
     ],
-    "tags": ["BASE"]
+    "tags": [
+      "BASE"
+    ]
   },
   {
     "communityId": "TOSHI",
@@ -297,7 +310,10 @@
     "symbol": "TOSHI",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/TOSHI.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE", "MEME"]
+    "tags": [
+      "BASE",
+      "MEME"
+    ]
   },
   {
     "communityId": "COOKIE",
@@ -305,7 +321,10 @@
     "symbol": "COOKIE",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/COOKIE.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE", "AI"]
+    "tags": [
+      "BASE",
+      "AI"
+    ]
   },
   {
     "communityId": "KEYCAT",
@@ -313,7 +332,10 @@
     "symbol": "KEYCAT",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/KEYCAT.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE", "MEME"]
+    "tags": [
+      "BASE",
+      "MEME"
+    ]
   },
   {
     "communityId": "BASEDPEPE",
@@ -321,7 +343,10 @@
     "symbol": "BASEDPEPE",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BASEDPEPE.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE", "MEME"]
+    "tags": [
+      "BASE",
+      "MEME"
+    ]
   },
   {
     "communityId": "BODA",
@@ -329,14 +354,18 @@
     "symbol": "BODA",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BODA.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE", "MEME"],
+    "tags": [
+      "BASE",
+      "MEME"
+    ],
     "prompts": {
-      "kawaii": ["royal blue baby yoda kawaii pokemon cute"],
+      "kawaii": [
+        "royal blue baby yoda kawaii pokemon"
+      ],
       "dragon": [
         "mandalorian star wars dragon pokemon with wings and fangs",
         "royal blue yoda star wars dragon pokemon with wings and fangs",
-        "royal blue jabba the hut star wars dragon pokemon with wings and fangs",
-        "blue starwars spaceship"
+        "royal blue jabba the hut star wars dragon pokemon with wings and fangs"
       ],
       "degen": [
         "large royal blue yoda pokemon with lightsaber",
@@ -350,7 +379,10 @@
     "symbol": "SKI",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SKI.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE", "MEME"]
+    "tags": [
+      "BASE",
+      "MEME"
+    ]
   },
   {
     "communityId": "MOG",
@@ -358,7 +390,11 @@
     "symbol": "MOG",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MOG.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE", "SOLANA", "MEME"]
+    "tags": [
+      "BASE",
+      "SOLANA",
+      "MEME"
+    ]
   },
   {
     "communityId": "DICKBUTT",
@@ -366,9 +402,14 @@
     "symbol": "DICKBUTT",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DICKBUTT.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE", "MEME"],
+    "tags": [
+      "BASE",
+      "MEME"
+    ],
     "prompts": {
-      "kawaii": ["wobbuffet pokemon tall slender"],
+      "kawaii": [
+        "wobbuffet pokemon tall slender"
+      ],
       "dragon": [
         "Blue elongated tall silly dragon pokemon",
         "Wobbuffet pokemon tall dragon slender",
@@ -387,7 +428,10 @@
     "symbol": "ALB",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ALB.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE", "MEME"]
+    "tags": [
+      "BASE",
+      "MEME"
+    ]
   },
   {
     "communityId": "SPX",
@@ -395,7 +439,10 @@
     "symbol": "SPX",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SPX.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE", "MEME"]
+    "tags": [
+      "BASE",
+      "MEME"
+    ]
   },
   {
     "communityId": "AEROBUD",
@@ -403,7 +450,10 @@
     "symbol": "AEROBUD",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/AEROBUD.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE", "MEME"]
+    "tags": [
+      "BASE",
+      "MEME"
+    ]
   },
   {
     "communityId": "MARSO",
@@ -411,7 +461,10 @@
     "symbol": "MARSO",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MARSO.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE", "AI"]
+    "tags": [
+      "BASE",
+      "AI"
+    ]
   },
   {
     "communityId": "OX",
@@ -419,7 +472,10 @@
     "symbol": "OX",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/OX.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE", "DEFI"]
+    "tags": [
+      "BASE",
+      "DEFI"
+    ]
   },
   {
     "communityId": "DOGINME",
@@ -436,7 +492,11 @@
         "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DOGINME.png"
       }
     ],
-    "tags": ["PARTNER", "MEME", "BASE"]
+    "tags": [
+      "PARTNER",
+      "MEME",
+      "BASE"
+    ]
   },
   {
     "communityId": "MIGGLES",
@@ -453,7 +513,11 @@
         "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MIGGLES.png"
       }
     ],
-    "tags": ["PARTNER", "MEME", "BASE"]
+    "tags": [
+      "PARTNER",
+      "MEME",
+      "BASE"
+    ]
   },
   {
     "communityId": "TIMI",
@@ -461,7 +525,11 @@
     "symbol": "TIMI",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/TIMI.png",
     "extraPaymentTokens": [],
-    "tags": ["PARTNER", "MEME", "BASE"]
+    "tags": [
+      "PARTNER",
+      "MEME",
+      "BASE"
+    ]
   },
   {
     "communityId": "UNLUCKY",
@@ -469,7 +537,11 @@
     "symbol": "UNLUCKY",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/UNLUCKY.png",
     "extraPaymentTokens": [],
-    "tags": ["PARTNER", "MEME", "BASE"]
+    "tags": [
+      "PARTNER",
+      "MEME",
+      "BASE"
+    ]
   },
   {
     "communityId": "HIGHER",
@@ -477,7 +549,10 @@
     "symbol": "HIGHER",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/HIGHER.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE", "MEME"]
+    "tags": [
+      "BASE",
+      "MEME"
+    ]
   },
   {
     "communityId": "VIRTUAL",
@@ -494,7 +569,10 @@
         "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/VIRTUAL.png"
       }
     ],
-    "tags": ["BASE", "AI"]
+    "tags": [
+      "BASE",
+      "AI"
+    ]
   },
   {
     "communityId": "MFER",
@@ -502,7 +580,10 @@
     "symbol": "MFER",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MFER.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE", "MEME"]
+    "tags": [
+      "BASE",
+      "MEME"
+    ]
   },
   {
     "communityId": "TOBY",
@@ -510,7 +591,10 @@
     "symbol": "TOBY",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/TOBY.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE", "MEME"]
+    "tags": [
+      "BASE",
+      "MEME"
+    ]
   },
   {
     "communityId": "RGOAT",
@@ -527,7 +611,11 @@
         "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RGOAT.png"
       }
     ],
-    "tags": ["PARTNER", "MEME", "BASE"]
+    "tags": [
+      "PARTNER",
+      "MEME",
+      "BASE"
+    ]
   },
   {
     "communityId": "MCADE",
@@ -544,7 +632,10 @@
         "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MCADE.png"
       }
     ],
-    "tags": ["PARTNER", "BASE"]
+    "tags": [
+      "PARTNER",
+      "BASE"
+    ]
   },
   {
     "communityId": "MOCHI",
@@ -552,7 +643,10 @@
     "symbol": "MOCHI",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MOCHI.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE", "MEME"]
+    "tags": [
+      "BASE",
+      "MEME"
+    ]
   },
   {
     "communityId": "GMR",
@@ -560,7 +654,9 @@
     "symbol": "GMR",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/GMR.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE"]
+    "tags": [
+      "BASE"
+    ]
   },
   {
     "communityId": "FAI",
@@ -568,7 +664,10 @@
     "symbol": "FAI",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/FAI.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE", "AI"]
+    "tags": [
+      "BASE",
+      "AI"
+    ]
   },
   {
     "communityId": "BASED",
@@ -585,7 +684,10 @@
         "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BASED.png"
       }
     ],
-    "tags": ["PARTNER", "BASE"]
+    "tags": [
+      "PARTNER",
+      "BASE"
+    ]
   },
   {
     "communityId": "GHOST",
@@ -593,7 +695,9 @@
     "symbol": "GHOST",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/GHOST.png",
     "extraPaymentTokens": [],
-    "tags": ["PARTNER"]
+    "tags": [
+      "PARTNER"
+    ]
   },
   {
     "communityId": "MONEY",
@@ -601,7 +705,10 @@
     "symbol": "MONEY",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MONEY.png",
     "extraPaymentTokens": [],
-    "tags": ["PARTNER", "BASE"]
+    "tags": [
+      "PARTNER",
+      "BASE"
+    ]
   },
   {
     "communityId": "ABOND",
@@ -609,7 +716,9 @@
     "symbol": "ABOND",
     "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ABOND.png",
     "extraPaymentTokens": [],
-    "tags": ["PARTNER"]
+    "tags": [
+      "PARTNER"
+    ]
   },
   {
     "communityId": "DMAIL",
@@ -617,7 +726,9 @@
     "symbol": "DMAIL",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DMAIL.png",
     "extraPaymentTokens": [],
-    "tags": ["PARTNER"]
+    "tags": [
+      "PARTNER"
+    ]
   },
   {
     "communityId": "RSR",
@@ -625,7 +736,9 @@
     "symbol": "RSR",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RSR.png",
     "extraPaymentTokens": [],
-    "tags": ["PARTNER"]
+    "tags": [
+      "PARTNER"
+    ]
   },
   {
     "communityId": "WUF",
@@ -633,7 +746,10 @@
     "symbol": "WUF",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/WUF.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE", "MEME"]
+    "tags": [
+      "BASE",
+      "MEME"
+    ]
   },
   {
     "communityId": "BENJI",
@@ -641,7 +757,10 @@
     "symbol": "BENJI",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BENJI.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE", "MEME"]
+    "tags": [
+      "BASE",
+      "MEME"
+    ]
   },
   {
     "communityId": "OVN",
@@ -649,7 +768,9 @@
     "symbol": "OVN",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/OVN.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE"]
+    "tags": [
+      "BASE"
+    ]
   },
   {
     "communityId": "PRIME",
@@ -657,7 +778,9 @@
     "symbol": "PRIME",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/PRIME.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE"]
+    "tags": [
+      "BASE"
+    ]
   },
   {
     "communityId": "REZ",
@@ -665,7 +788,9 @@
     "symbol": "REZ",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/REZ.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE"]
+    "tags": [
+      "BASE"
+    ]
   },
   {
     "communityId": "UNI",
@@ -673,7 +798,9 @@
     "symbol": "UNI",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/UNI.png",
     "extraPaymentTokens": [],
-    "tags": ["DEFI"]
+    "tags": [
+      "DEFI"
+    ]
   },
   {
     "communityId": "AAVE",
@@ -681,7 +808,9 @@
     "symbol": "AAVE",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/AAVE.png",
     "extraPaymentTokens": [],
-    "tags": ["DEFI"]
+    "tags": [
+      "DEFI"
+    ]
   },
   {
     "communityId": "CRV",
@@ -689,7 +818,9 @@
     "symbol": "CRV",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/CRV.png",
     "extraPaymentTokens": [],
-    "tags": ["DEFI"]
+    "tags": [
+      "DEFI"
+    ]
   },
   {
     "communityId": "COMP",
@@ -697,7 +828,9 @@
     "symbol": "COMP",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/COMP.png",
     "extraPaymentTokens": [],
-    "tags": ["DEFI"]
+    "tags": [
+      "DEFI"
+    ]
   },
   {
     "communityId": "LINK",
@@ -705,7 +838,9 @@
     "symbol": "LINK",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/LINK.png",
     "extraPaymentTokens": [],
-    "tags": ["DEFI"]
+    "tags": [
+      "DEFI"
+    ]
   },
   {
     "communityId": "CAKE",
@@ -713,7 +848,9 @@
     "symbol": "CAKE",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/CAKE.png",
     "extraPaymentTokens": [],
-    "tags": ["DEFI"]
+    "tags": [
+      "DEFI"
+    ]
   },
   {
     "communityId": "AXL",
@@ -730,7 +867,10 @@
         "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/AXL.png"
       }
     ],
-    "tags": ["DEFI", "BASE"]
+    "tags": [
+      "DEFI",
+      "BASE"
+    ]
   },
   {
     "communityId": "COW",
@@ -738,7 +878,10 @@
     "symbol": "COW",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/COW.png",
     "extraPaymentTokens": [],
-    "tags": ["DEFI", "BASE"]
+    "tags": [
+      "DEFI",
+      "BASE"
+    ]
   },
   {
     "communityId": "BTC",
@@ -746,7 +889,9 @@
     "symbol": "BTC",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BTC.png",
     "extraPaymentTokens": [],
-    "tags": ["BLUECHIP"]
+    "tags": [
+      "BLUECHIP"
+    ]
   },
   {
     "communityId": "ETH",
@@ -754,7 +899,9 @@
     "symbol": "ETH",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ETH.png",
     "extraPaymentTokens": [],
-    "tags": ["BLUECHIP"]
+    "tags": [
+      "BLUECHIP"
+    ]
   },
   {
     "communityId": "USDC",
@@ -762,7 +909,9 @@
     "symbol": "USDC",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/USDC.png",
     "extraPaymentTokens": [],
-    "tags": ["BLUECHIP"]
+    "tags": [
+      "BLUECHIP"
+    ]
   },
   {
     "communityId": "DAI",
@@ -770,7 +919,9 @@
     "symbol": "DAI",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DAI.png",
     "extraPaymentTokens": [],
-    "tags": ["BLUECHIP"]
+    "tags": [
+      "BLUECHIP"
+    ]
   },
   {
     "communityId": "USDT",
@@ -778,7 +929,9 @@
     "symbol": "USDT",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/USDT.png",
     "extraPaymentTokens": [],
-    "tags": ["BLUECHIP"]
+    "tags": [
+      "BLUECHIP"
+    ]
   },
   {
     "communityId": "BNB",
@@ -786,7 +939,9 @@
     "symbol": "BNB",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BNB.png",
     "extraPaymentTokens": [],
-    "tags": ["BLUECHIP"]
+    "tags": [
+      "BLUECHIP"
+    ]
   },
   {
     "communityId": "PUPS",
@@ -794,7 +949,9 @@
     "symbol": "PUPS",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/PUPS.png",
     "extraPaymentTokens": [],
-    "tags": ["MEME"]
+    "tags": [
+      "MEME"
+    ]
   },
   {
     "communityId": "DOGE",
@@ -802,7 +959,10 @@
     "symbol": "DOGE",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DOGE.png",
     "extraPaymentTokens": [],
-    "tags": ["BLUECHIP", "MEME"]
+    "tags": [
+      "BLUECHIP",
+      "MEME"
+    ]
   },
   {
     "communityId": "SHIB",
@@ -810,7 +970,9 @@
     "symbol": "SHIB",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SHIB.png",
     "extraPaymentTokens": [],
-    "tags": ["MEME"]
+    "tags": [
+      "MEME"
+    ]
   },
   {
     "communityId": "PEPE",
@@ -818,7 +980,9 @@
     "symbol": "PEPE",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/PEPE.png",
     "extraPaymentTokens": [],
-    "tags": ["MEME"]
+    "tags": [
+      "MEME"
+    ]
   },
   {
     "communityId": "FLOKI",
@@ -826,7 +990,9 @@
     "symbol": "FLOKI",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/FLOKI.png",
     "extraPaymentTokens": [],
-    "tags": ["MEME"]
+    "tags": [
+      "MEME"
+    ]
   },
   {
     "communityId": "SOL",
@@ -834,7 +1000,10 @@
     "symbol": "SOL",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SOL.png",
     "extraPaymentTokens": [],
-    "tags": ["SOLANA", "BLUECHIP"]
+    "tags": [
+      "SOLANA",
+      "BLUECHIP"
+    ]
   },
   {
     "communityId": "WIF",
@@ -842,7 +1011,10 @@
     "symbol": "WIF",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/WIF.png",
     "extraPaymentTokens": [],
-    "tags": ["SOLANA", "MEME"]
+    "tags": [
+      "SOLANA",
+      "MEME"
+    ]
   },
   {
     "communityId": "BONK",
@@ -850,7 +1022,10 @@
     "symbol": "BONK",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BONK.png",
     "extraPaymentTokens": [],
-    "tags": ["SOLANA", "MEME"]
+    "tags": [
+      "SOLANA",
+      "MEME"
+    ]
   },
   {
     "communityId": "POPCAT",
@@ -858,7 +1033,10 @@
     "symbol": "POPCAT",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/POPCAT.png",
     "extraPaymentTokens": [],
-    "tags": ["SOLANA", "MEME"]
+    "tags": [
+      "SOLANA",
+      "MEME"
+    ]
   },
   {
     "communityId": "MOODENG",
@@ -866,7 +1044,10 @@
     "symbol": "MOODENG",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MOODENG.png",
     "extraPaymentTokens": [],
-    "tags": ["SOLANA", "MEME"]
+    "tags": [
+      "SOLANA",
+      "MEME"
+    ]
   },
   {
     "communityId": "OMNI",
@@ -898,7 +1079,9 @@
     "symbol": "RECORD",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RECORD.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE"]
+    "tags": [
+      "BASE"
+    ]
   },
   {
     "communityId": "ORDER",
@@ -906,7 +1089,9 @@
     "symbol": "ORDER",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ORDER.png",
     "extraPaymentTokens": [],
-    "tags": ["BASE"]
+    "tags": [
+      "BASE"
+    ]
   },
   {
     "communityId": "DEVCON",
