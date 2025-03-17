@@ -5,7 +5,164 @@
     "symbol": "TOKIEMON",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/TOKIEMON.png",
     "extraPaymentTokens": [],
-    "tags": []
+    "tags": [],
+    "prompts": {
+      "kawaii": [
+        "Kawaii hamster pokemon with puffy cheek pouches",
+        "Kawaii jellyfish pokemon with starry-tipped tentacles",
+        "Kawaii red panda pokemon with bamboo leaf crown",
+        "Kawaii alpaca pokemon with rainbow wool tufts",
+        "Kawaii axolotl pokemon with crystal gills",
+        "Kawaii fennec fox pokemon with glittery giant ears",
+        "Kawaii sloth pokemon hugging a crescent moon",
+        "Kawaii sugar glider pokemon with sparkly membrane wings",
+        "Kawaii quokka pokemon with permanent happy smile",
+        "Kawaii capybara pokemon wearing flower necklace",
+        "Kawaii platypus pokemon with glowing bill",
+        "Kawaii sea otter pokemon floating with starfish",
+        "Kawaii tanuki pokemon with leaf-pattern fur",
+        "Kawaii pangolin pokemon with crystal scales",
+        "Kawaii flying squirrel pokemon with pastel parachute",
+        "Kawaii tapir pokemon with dream-catching trunk",
+        "Kawaii dumbo octopus pokemon with heart tentacles",
+        "Kawaii meerkat pokemon with rainbow guard fur",
+        "Kawaii slow loris pokemon with galaxy eyes",
+        "Kawaii numbat pokemon with striped fairy wings",
+        "Kawaii tardigrade pokemon with rainbow spots",
+        "Kawaii kinkajou pokemon with honey-dripping tail",
+        "Kawaii jerboa pokemon with bouncy spring legs",
+        "Kawaii chinchilla pokemon with cloud-soft fur",
+        "Kawaii dik-dik pokemon with crystal antennae",
+        "Kawaii caracal pokemon with sparkly ear tufts",
+        "Kawaii pine marten pokemon with glowing tail",
+        "Kawaii coatimundi pokemon with candy-striped tail",
+        "Kawaii elephant shrew pokemon with flower nose",
+        "Kawaii binturong pokemon with cotton-candy fur",
+        "Kawaii bunnycat pokemon with floating ears",
+        "Kawaii pandafox pokemon with bamboo patterns",
+        "Kawaii owlbear pokemon with star-speckled wings",
+        "Kawaii deerphin pokemon with coral antlers",
+        "Kawaii squirrelbee pokemon with honey-filled cheeks",
+        "Kawaii hamsterfly pokemon with nectar pouch",
+        "Kawaii kittenphant pokemon with ribbon trunk",
+        "Kawaii bunnycorn pokemon with carrot horn",
+        "Kawaii foxolotl pokemon with crystal frills",
+        "Kawaii pandapus pokemon with eight fluffy legs",
+        "Kawaii puppyfish pokemon with bubble bark",
+        "Kawaii kittenfox pokemon with nine fluffy tails",
+        "Kawaii bunnysaur pokemon with flower shell",
+        "Kawaii hamsterphin pokemon with water whiskers",
+        "Kawaii penguincat pokemon with ice crystal fur",
+        "Kawaii otterfly pokemon with rainbow wing fins",
+        "Kawaii koalion pokemon with eucalyptus mane",
+        "Kawaii rabbiphant pokemon with floppy ear wings",
+        "Kawaii pandolphin pokemon with bamboo fins",
+        "Kawaii kitterpillar pokemon with rainbow segments"
+      ],
+      "dragon": [
+        "Adorable baby Dragon pokemon with sparkly wings",
+        "Playful Dragon pokemon hatchling breathing colorful bubbles",
+        "Cuddly Dragon pokemon cub with heart-shaped scales",
+        "Mischievous Dragon pokemon wyrmling with glowing antennae",
+        "Charming Dragon pokemon infant with rainbow-tipped tail",
+        "Fluffy cloud Dragon pokemon with cotton candy breath",
+        "Bubbly sea Dragon pokemon with coral-shaped horns",
+        "Chubby pancake Dragon pokemon with syrup droplet scales",
+        "Sleepy Dragon pokemon nestling in a teacup",
+        "Giggly lava Dragon pokemon with marshmallow-toasting snout",
+        "Bouncy balloon Dragon pokemon floating on heart-shaped wings",
+        "Pudgy panda Dragon pokemon with bamboo-pattern scales",
+        "Sprinkle-covered cupcake Dragon pokemon with frosting horns",
+        "Starry-eyed constellation Dragon pokemon with twinkling scales",
+        "Rosy-cheeked apple Dragon pokemon with leaf wings",
+        "Bubblegum Dragon pokemon blowing shape-shifting bubbles",
+        "Pastel rainbow Dragon pokemon with sherbet-swirl patterns",
+        "Plush teddy bear Dragon pokemon with button eyes",
+        "Candy cane Dragon pokemon with peppermint-swirl tail",
+        "Origami Dragon pokemon with paper-fold texture",
+        "Squishy jellybean Dragon pokemon in assorted flavors",
+        "Fluffy dandelion Dragon pokemon scattering wishful seeds",
+        "Dewy leaf Dragon pokemon with morning mist breath",
+        "Gummy bear Dragon pokemon bouncing on jelly wings",
+        "Snowflake Dragon pokemon with icy crystal patterns",
+        "Cotton candy Dragon pokemon with sugar-spun mane",
+        "Bubble tea Dragon pokemon with tapioca pearl scales",
+        "Strawberry shortcake Dragon pokemon with whipped cream frills",
+        "Sunflower Dragon pokemon with petal-shaped scales",
+        "Chocolate chip cookie Dragon pokemon with melty spots",
+        "Watermelon Dragon pokemon with seed-shaped markings",
+        "Honey bee Dragon pokemon with fuzzy striped body",
+        "Lullaby Dragon pokemon singing sweet melodies",
+        "Crayon Dragon pokemon coloring its own scales",
+        "Soap bubble Dragon pokemon reflecting rainbow hues",
+        "Pinwheel Dragon pokemon spinning in the breeze",
+        "Popsicle Dragon pokemon melting sweet icy treats",
+        "Butterfly Dragon pokemon with delicate wing patterns",
+        "Ladybug Dragon pokemon with polka-dot shell",
+        "Yarn ball Dragon pokemon unraveling colorful strings",
+        "Kaleidoscope Dragon pokemon shifting geometric patterns",
+        "Lemon drop Dragon pokemon with sour-sweet expressions",
+        "Pinata Dragon pokemon filled with candy surprises",
+        "Jigsaw puzzle Dragon pokemon with interlocking pieces",
+        "Sticker book Dragon pokemon covered in cute decals",
+        "Finger paint Dragon pokemon with messy artistic splotches",
+        "Rubber ducky Dragon pokemon floating in bubble baths",
+        "Lollipop Dragon pokemon swirling with fruity flavors",
+        "Pillow fort Dragon pokemon guarding blanket castles",
+        "Kitten-Dragon pokemon hybrid with fluffy scales",
+        "Puppy-Dragon pokemon with wagging flame tail",
+        "Bunny-Dragon pokemon with floppy ear wings",
+        "Panda-Dragon pokemon with bamboo horns",
+        "Duckling-Dragon pokemon paddling in a teacup",
+        "Piglet-Dragon pokemon with curly tail and snout",
+        "Penguin-Dragon pokemon sliding on icy wings",
+        "Hamster-Dragon pokemon with puffy cheek fire sacs",
+        "Koala-Dragon pokemon hugging eucalyptus branch",
+        "Otter-Dragon pokemon playfully splashing with tail"
+      ],
+      "degen": [
+        "Cybernetic wolf pokemon with neon fangs",
+        "Mutant octopus pokemon with bio-luminescent tentacles",
+        "Armored rhino pokemon with missile launchers",
+        "Genetically enhanced tiger pokemon with plasma claws",
+        "Techno-organic shark pokemon with laser fin",
+        "Bionic eagle pokemon with jet-powered wings",
+        "Radioactive spider pokemon with glowing web shooters",
+        "Mecha-gorilla pokemon with force field generator",
+        "Nano-enhanced cheetah pokemon with hypersonic speed",
+        "Quantum fox pokemon phasing through dimensions",
+        "Battle-ready bear pokemon with titanium claws",
+        "Cyber-enhanced cobra pokemon with plasma hood",
+        "Mecha-mantis pokemon with laser scythes",
+        "Quantum-shifted lion pokemon with void mane",
+        "Techno-scorpion pokemon with plasma stinger",
+        "Bionic crocodile pokemon with steel-crushing jaws",
+        "Cyber-raptor pokemon with missile array",
+        "Plasma-core beetle pokemon with energy cannons",
+        "Quantum-fused panther pokemon with phase claws",
+        "Mecha-hawk pokemon with targeting systems",
+        "Wolfbear pokemon with nuclear core",
+        "Sharkraptor pokemon with titanium teeth",
+        "Spidercrab pokemon with laser web",
+        "Liondrake pokemon with plasma breath",
+        "Scorpionwolf pokemon with venom cannons",
+        "Tigershark pokemon with quantum fins",
+        "Eaglebear pokemon with missile talons",
+        "Mantisdrake pokemon with energy blades",
+        "Cobrascorpion pokemon with dual stingers",
+        "Pantherwolf pokemon with void portals",
+        "Raptorbat pokemon with sonic scream",
+        "Gorillabear pokemon with crushing gauntlets",
+        "Spidermantis pokemon with neural web",
+        "Hawkdrake pokemon with targeting matrix",
+        "Cheetahwolf pokemon with time-slip speed",
+        "Octopusbear pokemon with cyber tentacles",
+        "Rhinolion pokemon with quantum horn",
+        "Tigermantis pokemon with plasma scythes",
+        "Scorpioneagle pokemon with missile array",
+        "Cobradrake pokemon with venom breath"
+      ]
+    }
   },
   {
     "communityId": "ETHDEN",
@@ -13,9 +170,93 @@
     "symbol": "ETHDEN",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ETHDEN.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "LIMITED"
-    ]
+    "tags": ["LIMITED"]
+  },
+  {
+    "communityId": "VTINE",
+    "name": "Valentine's",
+    "symbol": "VTINE",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/VTINE.png",
+    "extraPaymentTokens": [],
+    "tags": ["LIMITED"],
+    "inactive": true
+  },
+  {
+    "communityId": "XMAS",
+    "name": "Holiday Editiion",
+    "symbol": "XMAS",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/XMAS.png",
+    "extraPaymentTokens": [],
+    "tags": ["LIMITED"],
+    "inactive": true,
+    "prompts": {
+      "kawaii": [
+        "Kawaii snow leopard pokemon with crystal spots",
+        "Kawaii frost sprite pokemon with snowflake wings",
+        "Kawaii ice unicorn pokemon with crystal horn",
+        "Kawaii snow angel pokemon with frost halos",
+        "Kawaii winter fox pokemon with crystal tails",
+        "Kawaii frost imp pokemon with ice crystals",
+        "Kawaii gingerbread man pokemon",
+        "Kawaii ice phoenix pokemon with frost feathers",
+        "Kawaii winter fairy pokemon with snow dust",
+        "Kawaii frost kitten pokemon with crystal fur",
+        "Kawaii snow bunny pokemon with ice patterns",
+        "Kawaii glacier pup pokemon with frost markings",
+        "Kawaii ice griffin pokemon with crystal wings",
+        "Kawaii winter sprite pokemon with snow swirls",
+        "Kawaii frost lynx pokemon with crystal whiskers",
+        "Kawaii snow deer pokemon with ice antlers",
+        "Kawaii winter owl pokemon with frost wings",
+        "Kawaii ice bear pokemon with crystal claws",
+        "Kawaii frost wolf pokemon with snow patterns",
+        "Kawaii winter phoenix pokemon with ice trails"
+      ],
+      "dragon": [
+        "Frost Dragon pokemon with ice crystal scales",
+        "Winter Dragon pokemon with snowflake patterns",
+        "Glacier Dragon pokemon with frozen spikes",
+        "Arctic Dragon pokemon with aurora wings",
+        "Snow Dragon pokemon with frost-crystal horns",
+        "Ice Dragon pokemon with frozen claws",
+        "Polar Dragon pokemon with crystal spines",
+        "Frost Phoenix Dragon pokemon with ice wings",
+        "Winter Wraith Dragon pokemon with frost mist",
+        "Snow Queen Dragon pokemon with crystal crown",
+        "Ice Elemental Dragon pokemon with frost breath",
+        "Glacier Wyrm pokemon with frozen scales",
+        "Winter Storm Dragon pokemon with snow clouds",
+        "Frost Serpent pokemon with ice fangs",
+        "Arctic Drake pokemon with frozen armor",
+        "Crystal Dragon pokemon with ice shards",
+        "Boreal Dragon pokemon with frost patterns",
+        "Tundra Dragon pokemon with frozen spikes",
+        "Northern Dragon pokemon with ice crystals",
+        "Polar Wyrm pokemon with frost scales"
+      ],
+      "degen": [
+        "Cybernetic frost phoenix pokemon with plasma wings",
+        "Battle-ready glacier troll pokemon with ice armor",
+        "Mutant ice chimera pokemon with void crystals",
+        "Quantum winter wraith pokemon with frost venom",
+        "Armored arctic griffin pokemon with crystal talons",
+        "Techno-enhanced jack frost pokemon with neural frost",
+        "Bionic snow queen pokemon with freeze-ray crown",
+        "Combat frost imp pokemon with titanium claws",
+        "Plasma-core ice elemental pokemon with targeting matrix",
+        "Cyber-enhanced winter witch pokemon with void staff",
+        "Mecha-frost unicorn pokemon with quantum horn",
+        "Battle-ready snow angel pokemon with plasma halos",
+        "Techno-ice siren pokemon with sonic crystals",
+        "Armored frost gnome pokemon with ice missiles",
+        "Quantum snowflake sprite pokemon with crystal core",
+        "Cyber-snow leopard pokemon with neural implants",
+        "Mecha-polar griffin pokemon with plasma talons",
+        "Bionic snow lynx pokemon with cryo-fangs",
+        "Combat ice dragon pokemon with frost cannons",
+        "Techno-gingerbread pokemon with weapon systems"
+      ]
+    }
   },
   {
     "communityId": "BRETT",
@@ -23,10 +264,7 @@
     "symbol": "BRETT",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BRETT.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE",
-      "MEME"
-    ]
+    "tags": ["BASE", "MEME"]
   },
   {
     "communityId": "AERO",
@@ -34,9 +272,7 @@
     "symbol": "AERO",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/AERO.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE"
-    ]
+    "tags": ["BASE"]
   },
   {
     "communityId": "DEGEN",
@@ -53,9 +289,7 @@
         "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DEGEN.png"
       }
     ],
-    "tags": [
-      "BASE"
-    ]
+    "tags": ["BASE"]
   },
   {
     "communityId": "TOSHI",
@@ -63,10 +297,7 @@
     "symbol": "TOSHI",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/TOSHI.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE",
-      "MEME"
-    ]
+    "tags": ["BASE", "MEME"]
   },
   {
     "communityId": "COOKIE",
@@ -74,10 +305,7 @@
     "symbol": "COOKIE",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/COOKIE.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE",
-      "AI"
-    ]
+    "tags": ["BASE", "AI"]
   },
   {
     "communityId": "KEYCAT",
@@ -85,10 +313,7 @@
     "symbol": "KEYCAT",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/KEYCAT.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE",
-      "MEME"
-    ]
+    "tags": ["BASE", "MEME"]
   },
   {
     "communityId": "BASEDPEPE",
@@ -96,10 +321,7 @@
     "symbol": "BASEDPEPE",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BASEDPEPE.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE",
-      "MEME"
-    ]
+    "tags": ["BASE", "MEME"]
   },
   {
     "communityId": "BODA",
@@ -107,10 +329,20 @@
     "symbol": "BODA",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BODA.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE",
-      "MEME"
-    ]
+    "tags": ["BASE", "MEME"],
+    "prompts": {
+      "kawaii": ["royal blue baby yoda kawaii pokemon cute"],
+      "dragon": [
+        "mandalorian star wars dragon pokemon with wings and fangs",
+        "royal blue yoda star wars dragon pokemon with wings and fangs",
+        "royal blue jabba the hut star wars dragon pokemon with wings and fangs",
+        "blue starwars spaceship"
+      ],
+      "degen": [
+        "large royal blue yoda pokemon with lightsaber",
+        "hulking royal blue mandalorian monster pokemon with fangs, claws, or wings"
+      ]
+    }
   },
   {
     "communityId": "SKI",
@@ -118,10 +350,7 @@
     "symbol": "SKI",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SKI.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE",
-      "MEME"
-    ]
+    "tags": ["BASE", "MEME"]
   },
   {
     "communityId": "MOG",
@@ -129,11 +358,7 @@
     "symbol": "MOG",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MOG.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE",
-      "SOLANA",
-      "MEME"
-    ]
+    "tags": ["BASE", "SOLANA", "MEME"]
   },
   {
     "communityId": "DICKBUTT",
@@ -141,10 +366,20 @@
     "symbol": "DICKBUTT",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DICKBUTT.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE",
-      "MEME"
-    ]
+    "tags": ["BASE", "MEME"],
+    "prompts": {
+      "kawaii": ["wobbuffet pokemon tall slender"],
+      "dragon": [
+        "Blue elongated tall silly dragon pokemon",
+        "Wobbuffet pokemon tall dragon slender",
+        "Slender elegant goofy dragon pokemon"
+      ],
+      "degen": [
+        "Towering tall blue elongated dumb looking vicious aggressive pokemon",
+        "Angry vicious wobbuffet pokemon",
+        "Tall crystalline derpy pokemon thats very tall"
+      ]
+    }
   },
   {
     "communityId": "ALB",
@@ -152,10 +387,7 @@
     "symbol": "ALB",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ALB.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE",
-      "MEME"
-    ]
+    "tags": ["BASE", "MEME"]
   },
   {
     "communityId": "SPX",
@@ -163,10 +395,7 @@
     "symbol": "SPX",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SPX.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE",
-      "MEME"
-    ]
+    "tags": ["BASE", "MEME"]
   },
   {
     "communityId": "AEROBUD",
@@ -174,10 +403,7 @@
     "symbol": "AEROBUD",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/AEROBUD.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE",
-      "MEME"
-    ]
+    "tags": ["BASE", "MEME"]
   },
   {
     "communityId": "MARSO",
@@ -185,10 +411,7 @@
     "symbol": "MARSO",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MARSO.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE",
-      "AI"
-    ]
+    "tags": ["BASE", "AI"]
   },
   {
     "communityId": "OX",
@@ -196,10 +419,7 @@
     "symbol": "OX",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/OX.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE",
-      "DEFI"
-    ]
+    "tags": ["BASE", "DEFI"]
   },
   {
     "communityId": "DOGINME",
@@ -216,11 +436,7 @@
         "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DOGINME.png"
       }
     ],
-    "tags": [
-      "PARTNER",
-      "MEME",
-      "BASE"
-    ]
+    "tags": ["PARTNER", "MEME", "BASE"]
   },
   {
     "communityId": "MIGGLES",
@@ -237,11 +453,7 @@
         "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MIGGLES.png"
       }
     ],
-    "tags": [
-      "PARTNER",
-      "MEME",
-      "BASE"
-    ]
+    "tags": ["PARTNER", "MEME", "BASE"]
   },
   {
     "communityId": "TIMI",
@@ -249,11 +461,7 @@
     "symbol": "TIMI",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/TIMI.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "PARTNER",
-      "MEME",
-      "BASE"
-    ]
+    "tags": ["PARTNER", "MEME", "BASE"]
   },
   {
     "communityId": "UNLUCKY",
@@ -261,11 +469,7 @@
     "symbol": "UNLUCKY",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/UNLUCKY.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "PARTNER",
-      "MEME",
-      "BASE"
-    ]
+    "tags": ["PARTNER", "MEME", "BASE"]
   },
   {
     "communityId": "HIGHER",
@@ -273,10 +477,7 @@
     "symbol": "HIGHER",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/HIGHER.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE",
-      "MEME"
-    ]
+    "tags": ["BASE", "MEME"]
   },
   {
     "communityId": "VIRTUAL",
@@ -293,10 +494,7 @@
         "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/VIRTUAL.png"
       }
     ],
-    "tags": [
-      "BASE",
-      "AI"
-    ]
+    "tags": ["BASE", "AI"]
   },
   {
     "communityId": "MFER",
@@ -304,10 +502,7 @@
     "symbol": "MFER",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MFER.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE",
-      "MEME"
-    ]
+    "tags": ["BASE", "MEME"]
   },
   {
     "communityId": "TOBY",
@@ -315,10 +510,7 @@
     "symbol": "TOBY",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/TOBY.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE",
-      "MEME"
-    ]
+    "tags": ["BASE", "MEME"]
   },
   {
     "communityId": "RGOAT",
@@ -335,11 +527,7 @@
         "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RGOAT.png"
       }
     ],
-    "tags": [
-      "PARTNER",
-      "MEME",
-      "BASE"
-    ]
+    "tags": ["PARTNER", "MEME", "BASE"]
   },
   {
     "communityId": "MCADE",
@@ -356,10 +544,7 @@
         "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MCADE.png"
       }
     ],
-    "tags": [
-      "PARTNER",
-      "BASE"
-    ]
+    "tags": ["PARTNER", "BASE"]
   },
   {
     "communityId": "MOCHI",
@@ -367,10 +552,7 @@
     "symbol": "MOCHI",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MOCHI.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE",
-      "MEME"
-    ]
+    "tags": ["BASE", "MEME"]
   },
   {
     "communityId": "GMR",
@@ -378,9 +560,7 @@
     "symbol": "GMR",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/GMR.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE"
-    ]
+    "tags": ["BASE"]
   },
   {
     "communityId": "FAI",
@@ -388,10 +568,7 @@
     "symbol": "FAI",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/FAI.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE",
-      "AI"
-    ]
+    "tags": ["BASE", "AI"]
   },
   {
     "communityId": "BASED",
@@ -408,10 +585,7 @@
         "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BASED.png"
       }
     ],
-    "tags": [
-      "PARTNER",
-      "BASE"
-    ]
+    "tags": ["PARTNER", "BASE"]
   },
   {
     "communityId": "GHOST",
@@ -419,9 +593,7 @@
     "symbol": "GHOST",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/GHOST.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "PARTNER"
-    ]
+    "tags": ["PARTNER"]
   },
   {
     "communityId": "MONEY",
@@ -429,10 +601,7 @@
     "symbol": "MONEY",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MONEY.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "PARTNER",
-      "BASE"
-    ]
+    "tags": ["PARTNER", "BASE"]
   },
   {
     "communityId": "ABOND",
@@ -440,9 +609,7 @@
     "symbol": "ABOND",
     "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ABOND.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "PARTNER"
-    ]
+    "tags": ["PARTNER"]
   },
   {
     "communityId": "DMAIL",
@@ -450,9 +617,7 @@
     "symbol": "DMAIL",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DMAIL.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "PARTNER"
-    ]
+    "tags": ["PARTNER"]
   },
   {
     "communityId": "RSR",
@@ -460,9 +625,7 @@
     "symbol": "RSR",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RSR.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "PARTNER"
-    ]
+    "tags": ["PARTNER"]
   },
   {
     "communityId": "WUF",
@@ -470,10 +633,7 @@
     "symbol": "WUF",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/WUF.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE",
-      "MEME"
-    ]
+    "tags": ["BASE", "MEME"]
   },
   {
     "communityId": "BENJI",
@@ -481,10 +641,7 @@
     "symbol": "BENJI",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BENJI.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE",
-      "MEME"
-    ]
+    "tags": ["BASE", "MEME"]
   },
   {
     "communityId": "OVN",
@@ -492,9 +649,7 @@
     "symbol": "OVN",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/OVN.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE"
-    ]
+    "tags": ["BASE"]
   },
   {
     "communityId": "PRIME",
@@ -502,9 +657,7 @@
     "symbol": "PRIME",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/PRIME.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE"
-    ]
+    "tags": ["BASE"]
   },
   {
     "communityId": "REZ",
@@ -512,9 +665,7 @@
     "symbol": "REZ",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/REZ.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE"
-    ]
+    "tags": ["BASE"]
   },
   {
     "communityId": "UNI",
@@ -522,9 +673,7 @@
     "symbol": "UNI",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/UNI.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "DEFI"
-    ]
+    "tags": ["DEFI"]
   },
   {
     "communityId": "AAVE",
@@ -532,9 +681,7 @@
     "symbol": "AAVE",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/AAVE.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "DEFI"
-    ]
+    "tags": ["DEFI"]
   },
   {
     "communityId": "CRV",
@@ -542,9 +689,7 @@
     "symbol": "CRV",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/CRV.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "DEFI"
-    ]
+    "tags": ["DEFI"]
   },
   {
     "communityId": "COMP",
@@ -552,9 +697,7 @@
     "symbol": "COMP",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/COMP.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "DEFI"
-    ]
+    "tags": ["DEFI"]
   },
   {
     "communityId": "LINK",
@@ -562,9 +705,7 @@
     "symbol": "LINK",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/LINK.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "DEFI"
-    ]
+    "tags": ["DEFI"]
   },
   {
     "communityId": "CAKE",
@@ -572,9 +713,7 @@
     "symbol": "CAKE",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/CAKE.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "DEFI"
-    ]
+    "tags": ["DEFI"]
   },
   {
     "communityId": "AXL",
@@ -591,10 +730,7 @@
         "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/AXL.png"
       }
     ],
-    "tags": [
-      "DEFI",
-      "BASE"
-    ]
+    "tags": ["DEFI", "BASE"]
   },
   {
     "communityId": "COW",
@@ -602,10 +738,7 @@
     "symbol": "COW",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/COW.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "DEFI",
-      "BASE"
-    ]
+    "tags": ["DEFI", "BASE"]
   },
   {
     "communityId": "BTC",
@@ -613,9 +746,7 @@
     "symbol": "BTC",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BTC.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BLUECHIP"
-    ]
+    "tags": ["BLUECHIP"]
   },
   {
     "communityId": "ETH",
@@ -623,9 +754,7 @@
     "symbol": "ETH",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ETH.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BLUECHIP"
-    ]
+    "tags": ["BLUECHIP"]
   },
   {
     "communityId": "USDC",
@@ -633,9 +762,7 @@
     "symbol": "USDC",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/USDC.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BLUECHIP"
-    ]
+    "tags": ["BLUECHIP"]
   },
   {
     "communityId": "DAI",
@@ -643,9 +770,7 @@
     "symbol": "DAI",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DAI.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BLUECHIP"
-    ]
+    "tags": ["BLUECHIP"]
   },
   {
     "communityId": "USDT",
@@ -653,9 +778,7 @@
     "symbol": "USDT",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/USDT.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BLUECHIP"
-    ]
+    "tags": ["BLUECHIP"]
   },
   {
     "communityId": "BNB",
@@ -663,9 +786,7 @@
     "symbol": "BNB",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BNB.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BLUECHIP"
-    ]
+    "tags": ["BLUECHIP"]
   },
   {
     "communityId": "PUPS",
@@ -673,9 +794,7 @@
     "symbol": "PUPS",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/PUPS.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "MEME"
-    ]
+    "tags": ["MEME"]
   },
   {
     "communityId": "DOGE",
@@ -683,10 +802,7 @@
     "symbol": "DOGE",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DOGE.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BLUECHIP",
-      "MEME"
-    ]
+    "tags": ["BLUECHIP", "MEME"]
   },
   {
     "communityId": "SHIB",
@@ -694,9 +810,7 @@
     "symbol": "SHIB",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SHIB.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "MEME"
-    ]
+    "tags": ["MEME"]
   },
   {
     "communityId": "PEPE",
@@ -704,9 +818,7 @@
     "symbol": "PEPE",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/PEPE.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "MEME"
-    ]
+    "tags": ["MEME"]
   },
   {
     "communityId": "FLOKI",
@@ -714,9 +826,7 @@
     "symbol": "FLOKI",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/FLOKI.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "MEME"
-    ]
+    "tags": ["MEME"]
   },
   {
     "communityId": "SOL",
@@ -724,10 +834,7 @@
     "symbol": "SOL",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SOL.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "SOLANA",
-      "BLUECHIP"
-    ]
+    "tags": ["SOLANA", "BLUECHIP"]
   },
   {
     "communityId": "WIF",
@@ -735,10 +842,7 @@
     "symbol": "WIF",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/WIF.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "SOLANA",
-      "MEME"
-    ]
+    "tags": ["SOLANA", "MEME"]
   },
   {
     "communityId": "BONK",
@@ -746,10 +850,7 @@
     "symbol": "BONK",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BONK.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "SOLANA",
-      "MEME"
-    ]
+    "tags": ["SOLANA", "MEME"]
   },
   {
     "communityId": "POPCAT",
@@ -757,10 +858,7 @@
     "symbol": "POPCAT",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/POPCAT.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "SOLANA",
-      "MEME"
-    ]
+    "tags": ["SOLANA", "MEME"]
   },
   {
     "communityId": "MOODENG",
@@ -768,10 +866,7 @@
     "symbol": "MOODENG",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MOODENG.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "SOLANA",
-      "MEME"
-    ]
+    "tags": ["SOLANA", "MEME"]
   },
   {
     "communityId": "OMNI",
@@ -803,9 +898,7 @@
     "symbol": "RECORD",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RECORD.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE"
-    ]
+    "tags": ["BASE"]
   },
   {
     "communityId": "ORDER",
@@ -813,9 +906,7 @@
     "symbol": "ORDER",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ORDER.png",
     "extraPaymentTokens": [],
-    "tags": [
-      "BASE"
-    ]
+    "tags": ["BASE"]
   },
   {
     "communityId": "DEVCON",

@@ -1,4 +1,10 @@
 import { CommunityToken } from "../types";
+import {
+  TOKIEMON_PROMPTS,
+  HOLIDAY_PROMPTS,
+  DICKBUTT_PROMPTS,
+  BODA_PROMPTS,
+} from "../prompts";
 
 export const communityTokens: CommunityToken[] = [
   {
@@ -9,6 +15,7 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/TOKIEMON.png",
     extraPaymentTokens: [],
     tags: [],
+    prompts: TOKIEMON_PROMPTS,
   },
   {
     communityId: "ETHDEN",
@@ -38,6 +45,7 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
     tags: ["LIMITED"],
     inactive: true,
+    prompts: HOLIDAY_PROMPTS,
   },
 
   // Prominent Base Memecoins & Partners
@@ -115,6 +123,16 @@ export const communityTokens: CommunityToken[] = [
     tags: ["BASE", "MEME"],
   },
   {
+    communityId: "BODA",
+    name: "Based Yoda",
+    symbol: "BODA",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BODA.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "MEME"],
+    prompts: BODA_PROMPTS,
+  },
+  {
     communityId: "SKI",
     name: "Ski Mask Dog",
     symbol: "SKI",
@@ -140,6 +158,7 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DICKBUTT.png",
     extraPaymentTokens: [],
     tags: ["BASE", "MEME"],
+    prompts: DICKBUTT_PROMPTS,
   },
   {
     communityId: "ALB",

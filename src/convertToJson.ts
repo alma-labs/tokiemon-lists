@@ -17,6 +17,13 @@ function writeJsonFile(filename: string, jsonData: any) {
     return;
   }
 
+  // Strip prompts for regular token lists
+  if (!filename.includes("WithPrompts")) {
+    jsonData = Array.isArray(jsonData)
+      ? jsonData.map(({ prompts, ...rest }) => rest)
+      : jsonData;
+  }
+
   const outputPath = resolve(outputDir, `${filename}.json`);
   ensureDirectoryExists(
     resolve(outputDir, filename.substring(0, filename.lastIndexOf("/")))
@@ -48,10 +55,13 @@ ensureDirectoryExists(outputDir);
 try {
   checkForDuplicateCommunityIds(communityTokens);
 
-  // Write all community tokens to allCommunity.json
+  // Write prompts-included version first (complete list with prompts)
+  writeJsonFile("allWithPrompts", communityTokens);
+
+  // Write all community tokens to allCommunity.json (without prompts)
   writeJsonFile("allCommunity", communityTokens);
 
-  // Filter out inactive tokens and write to community.json
+  // Filter out inactive tokens and write to community.json (without prompts)
   const activeTokens = communityTokens.filter((token) => !token.inactive);
   writeJsonFile("community", activeTokens);
 } catch (error: any) {
@@ -106,7 +116,9 @@ function getAllPaymentTokens() {
         allPaymentTokens.push(...chainTokens);
       }
     } catch (error) {
-      console.error(`❌ Error loading tokens for chain ID ${chainId}: ${error}`);
+      console.error(
+        `❌ Error loading tokens for chain ID ${chainId}: ${error}`
+      );
     }
   });
 

@@ -15,6 +15,11 @@ export interface CommunityToken {
   >;
   extraPaymentTokens?: PaymentToken[];
   inactive?: boolean;
+  prompts?: {
+    kawaii?: string[];
+    dragon?: string[];
+    degen?: string[];
+  };
 }
 
 export interface PaymentToken {

@@ -124,6 +124,17 @@
     ]
   },
   {
+    "communityId": "BODA",
+    "name": "Based Yoda",
+    "symbol": "BODA",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BODA.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "MEME"
+    ]
+  },
+  {
     "communityId": "SKI",
     "name": "Ski Mask Dog",
     "symbol": "SKI",
