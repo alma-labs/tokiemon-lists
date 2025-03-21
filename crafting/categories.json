@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Common",
+    "image": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/items/70.png",
+    "order": 1,
+    "total": 13
+  },
+  {
+    "name": "Pixelite",
+    "image": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/items/25.png",
+    "order": 2,
+    "total": 54
+  },
+  {
+    "name": "Uncommon",
+    "image": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/items/71.png",
+    "order": 3,
+    "total": 15
+  },
+  {
+    "name": "Dragon",
+    "image": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/items/30.png",
+    "order": 4,
+    "total": 54
+  },
+  {
+    "name": "Spirit",
+    "image": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/items/194.png",
+    "order": 5,
+    "total": 54
+  },
+  {
+    "name": "Degenium",
+    "image": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/items/35.png",
+    "order": 6,
+    "total": 54
+  },
+  {
+    "name": "Diamond",
+    "image": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/items/465.png",
+    "order": 7,
+    "total": 55
+  },
+  {
+    "name": "0xium",
+    "image": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/items/150.png",
+    "order": 8,
+    "total": 63
+  },
+  {
+    "name": "Tokie Trainer",
+    "image": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/items/564.png",
+    "order": 9,
+    "total": 63
+  },
+  {
+    "name": "Binarium",
+    "image": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/items/260.gif",
+    "order": 10,
+    "total": 63
+  },
+  {
+    "name": "Cosmic",
+    "image": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/items/672.gif",
+    "order": 11,
+    "total": 22
+  },
+  {
+    "name": "Upper Class",
+    "image": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/items/72.png",
+    "order": 12,
+    "total": 5
+  },
+  {
+    "name": "Madman",
+    "image": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/items/93.png",
+    "order": 13,
+    "total": 16
+  },
+  {
+    "name": "Bonus",
+    "image": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/items/1.png",
+    "order": 14,
+    "total": 16
+  },
+  {
+    "name": "Incel",
+    "image": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/items/287.png",
+    "order": 15,
+    "total": 15
+  }
+]

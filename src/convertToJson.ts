@@ -148,3 +148,18 @@ try {
 } catch (error: any) {
   console.error(`❌ Error processing all payment tokens: ${error.message}`);
 }
+
+// Process crafting categories
+try {
+  const { CRAFTING_CATEGORIES } = require("./crafting/categories");
+  const craftingOutputDir = resolve(__dirname, "..");
+  const outputPath = resolve(craftingOutputDir, "crafting/categories.json");
+  writeFileSync(
+    outputPath,
+    JSON.stringify(CRAFTING_CATEGORIES, null, 2),
+    "utf-8"
+  );
+  console.log(`✅ JSON file created: ${outputPath}`);
+} catch (error: any) {
+  console.error(`❌ Error processing crafting categories: ${error.message}`);
+}

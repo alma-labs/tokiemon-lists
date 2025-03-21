@@ -30,3 +30,10 @@ export interface PaymentToken {
   decimals: number;
   logoURI: string;
 }
+
+export interface CraftingCategory {
+  name: string;
+  order: number;
+  image: string;
+  total: number;
+}
