@@ -25,6 +25,7 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ETHDEN.png",
     extraPaymentTokens: [],
     tags: ["LIMITED"],
+    inactive: true,
   },
   {
     communityId: "VTINE",
@@ -92,6 +93,15 @@ export const communityTokens: CommunityToken[] = [
     symbol: "TOSHI",
     logoURI:
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/TOSHI.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "MEME"],
+  },
+  {
+    communityId: "SECRET",
+    name: "Satoshi's Secret",
+    symbol: "SECRET",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SECRET.png",
     extraPaymentTokens: [],
     tags: ["BASE", "MEME"],
   },
