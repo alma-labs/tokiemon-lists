@@ -37,3 +37,10 @@ export interface CraftingCategory {
   image: string;
   total: number;
 }
+
+export interface Paintbrush {
+  itemId: string;
+  name: string;
+  selectionType: 'always' | 'random';
+  keywords: string[];
+}

@@ -163,3 +163,15 @@ try {
 } catch (error: any) {
   console.error(`❌ Error processing crafting categories: ${error.message}`);
 }
+
+// Process paintbrushes
+try {
+  const { paintbrushes } = require("./prompts/paintbrushes");
+  const paintbrushesOutputDir = resolve(__dirname, "..");
+  const outputPath = resolve(paintbrushesOutputDir, "painting/paintbrushes.json");
+  ensureDirectoryExists(resolve(paintbrushesOutputDir, "painting"));
+  writeFileSync(outputPath, JSON.stringify(paintbrushes, null, 2), "utf-8");
+  console.log(`✅ JSON file created: ${outputPath}`);
+} catch (error: any) {
+  console.error(`❌ Error processing paintbrushes: ${error.message}`);
+}
