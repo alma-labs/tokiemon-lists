@@ -19,6 +19,11 @@ import {
   dragon as dragonBoda,
   kawaii as kawaiiBoda,
 } from "./BODA";
+import {
+  kawaii as kawaiiAvi,
+  dragon as dragonAvi,
+  degen as degenAvi,
+} from "./AVI";
 
 export const TOKIEMON_PROMPTS = { kawaii, dragon, degen };
 export const HOLIDAY_PROMPTS = {
@@ -40,4 +45,9 @@ export const BODA_PROMPTS = {
   kawaii: kawaiiBoda,
   dragon: dragonBoda,
   degen: degenBoda,
+};
+export const AVI_PROMPTS = {
+  kawaii: kawaiiAvi,
+  dragon: dragonAvi,
+  degen: degenAvi,
 };

@@ -4,6 +4,7 @@ import {
   HOLIDAY_PROMPTS,
   DICKBUTT_PROMPTS,
   BODA_PROMPTS,
+  AVI_PROMPTS,
 } from "../prompts";
 
 export const communityTokens: CommunityToken[] = [
@@ -95,6 +96,16 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/TOSHI.png",
     extraPaymentTokens: [],
     tags: ["BASE", "MEME"],
+  },
+  {
+    communityId: "AVI",
+    name: "Aviator",
+    symbol: "AVI",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/AVI.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "MEME"],
+    prompts: AVI_PROMPTS,
   },
   {
     communityId: "SECRET",

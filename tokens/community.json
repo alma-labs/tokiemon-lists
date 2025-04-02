@@ -59,6 +59,17 @@
     ]
   },
   {
+    "communityId": "AVI",
+    "name": "Aviator",
+    "symbol": "AVI",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/AVI.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "MEME"
+    ]
+  },
+  {
     "communityId": "SECRET",
     "name": "Satoshi's Secret",
     "symbol": "SECRET",
