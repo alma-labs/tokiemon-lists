@@ -90,14 +90,14 @@ export const CRAFTING_CATEGORIES: CraftingCategory[] = [
     image:
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/items/93.png",
     order: 13,
-    total: 16,
+    total: 17,
   },
   {
     name: "Bonus",
     image:
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/items/1.png",
     order: 14,
-    total: 16,
+    total: 15,
   },
   {
     name: "Incel",
