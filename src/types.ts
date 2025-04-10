@@ -63,4 +63,5 @@ export interface Quest {
   rewards: QuestReward[];
   check: string;
   verified: boolean;
+  isActive: boolean;
 }

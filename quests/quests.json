@@ -9,7 +9,8 @@
     "requirements": [],
     "rewards": [],
     "check": "Player has used their free mint allocation",
-    "verified": false
+    "verified": false,
+    "isActive": true
   },
   {
     "id": "craft_item",
@@ -21,7 +22,8 @@
     "requirements": [],
     "rewards": [],
     "check": "Player has earned crafting XP",
-    "verified": false
+    "verified": false,
+    "isActive": true
   },
   {
     "id": "defeat_player",
@@ -40,7 +42,8 @@
       }
     ],
     "check": "Player has won at least one PvP battle",
-    "verified": false
+    "verified": false,
+    "isActive": true
   },
   {
     "id": "gm_streak_5",
@@ -57,7 +60,8 @@
       }
     ],
     "check": "Player GM streak ≥ 5 days",
-    "verified": false
+    "verified": false,
+    "isActive": true
   },
   {
     "id": "gm_streak_25",
@@ -74,7 +78,8 @@
       }
     ],
     "check": "Player GM streak ≥ 25 days",
-    "verified": false
+    "verified": false,
+    "isActive": true
   },
   {
     "id": "gm_streak_50",
@@ -91,7 +96,8 @@
       }
     ],
     "check": "Player GM streak ≥ 50 days",
-    "verified": true
+    "verified": true,
+    "isActive": true
   },
   {
     "id": "gm_streak_100",
@@ -108,7 +114,8 @@
       }
     ],
     "check": "Player GM streak ≥ 100 days",
-    "verified": true
+    "verified": true,
+    "isActive": true
   },
   {
     "id": "free_evolution",
@@ -123,7 +130,8 @@
     ],
     "rewards": [],
     "check": "Player has completed a Free Tier evolution",
-    "verified": false
+    "verified": false,
+    "isActive": true
   },
   {
     "id": "basic_evolution",
@@ -138,7 +146,8 @@
     ],
     "rewards": [],
     "check": "Player has completed a Kawaii+ Tier evolution",
-    "verified": true
+    "verified": true,
+    "isActive": true
   },
   {
     "id": "advanced_evolution",
@@ -153,7 +162,8 @@
     ],
     "rewards": [],
     "check": "Player has completed an Advanced evolution",
-    "verified": true
+    "verified": true,
+    "isActive": true
   },
   {
     "id": "ultimate_evolution",
@@ -168,7 +178,8 @@
     ],
     "rewards": [],
     "check": "Player has completed an Ultimate evolution",
-    "verified": true
+    "verified": true,
+    "isActive": true
   },
   {
     "id": "crafting_stud",
@@ -182,7 +193,8 @@
     ],
     "rewards": [],
     "check": "Player Crafting level ≥ 33",
-    "verified": true
+    "verified": true,
+    "isActive": true
   },
   {
     "id": "crafting_player",
@@ -196,7 +208,8 @@
     ],
     "rewards": [],
     "check": "Player Crafting level ≥ 66",
-    "verified": true
+    "verified": true,
+    "isActive": true
   },
   {
     "id": "crafting_legend",
@@ -210,7 +223,8 @@
     ],
     "rewards": [],
     "check": "Player Crafting level ≥ 99",
-    "verified": true
+    "verified": true,
+    "isActive": true
   },
   {
     "id": "become_degen",
@@ -224,7 +238,8 @@
     ],
     "rewards": [],
     "check": "Player has > 0 Degen XP",
-    "verified": true
+    "verified": true,
+    "isActive": true
   },
   {
     "id": "degeneracy_stud",
@@ -238,7 +253,8 @@
     ],
     "rewards": [],
     "check": "Player Degeneracy level ≥ 33",
-    "verified": true
+    "verified": true,
+    "isActive": true
   },
   {
     "id": "degeneracy_player",
@@ -252,7 +268,8 @@
     ],
     "rewards": [],
     "check": "Player Degeneracy level ≥ 66",
-    "verified": true
+    "verified": true,
+    "isActive": true
   },
   {
     "id": "degeneracy_legend",
@@ -266,6 +283,7 @@
     ],
     "rewards": [],
     "check": "Player Degeneracy level ≥ 99",
-    "verified": true
+    "verified": true,
+    "isActive": true
   }
 ]

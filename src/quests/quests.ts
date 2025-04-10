@@ -16,6 +16,7 @@ export const quests: Quest[] = [
     rewards: [],
     check: "Player has used their free mint allocation",
     verified: false,
+    isActive: true,
   },
   {
     id: "craft_item",
@@ -29,6 +30,7 @@ export const quests: Quest[] = [
     rewards: [],
     check: "Player has earned crafting XP",
     verified: false,
+    isActive: true,
   },
   {
     id: "defeat_player",
@@ -44,6 +46,7 @@ export const quests: Quest[] = [
     ],
     check: "Player has won at least one PvP battle",
     verified: false,
+    isActive: true,
   },
   {
     id: "gm_streak_5",
@@ -58,6 +61,7 @@ export const quests: Quest[] = [
     ],
     check: "Player GM streak ≥ 5 days",
     verified: false,
+    isActive: true,
   },
   {
     id: "gm_streak_25",
@@ -73,6 +77,7 @@ export const quests: Quest[] = [
     ],
     check: "Player GM streak ≥ 25 days",
     verified: false,
+    isActive: true,
   },
   {
     id: "gm_streak_50",
@@ -87,6 +92,7 @@ export const quests: Quest[] = [
     ],
     check: "Player GM streak ≥ 50 days",
     verified: true,
+    isActive: true,
   },
   {
     id: "gm_streak_100",
@@ -101,6 +107,7 @@ export const quests: Quest[] = [
     ],
     check: "Player GM streak ≥ 100 days",
     verified: true,
+    isActive: true,
   },
   {
     id: "free_evolution",
@@ -114,6 +121,7 @@ export const quests: Quest[] = [
     rewards: [],
     check: "Player has completed a Free Tier evolution",
     verified: false,
+    isActive: true,
   },
   {
     id: "basic_evolution",
@@ -127,6 +135,7 @@ export const quests: Quest[] = [
     rewards: [],
     check: "Player has completed a Kawaii+ Tier evolution",
     verified: true,
+    isActive: true,
   },
   {
     id: "advanced_evolution",
@@ -143,6 +152,7 @@ export const quests: Quest[] = [
     rewards: [],
     check: "Player has completed an Advanced evolution",
     verified: true,
+    isActive: true,
   },
   {
     id: "ultimate_evolution",
@@ -159,6 +169,7 @@ export const quests: Quest[] = [
     rewards: [],
     check: "Player has completed an Ultimate evolution",
     verified: true,
+    isActive: true,
   },
   {
     id: "crafting_stud",
@@ -171,6 +182,7 @@ export const quests: Quest[] = [
     rewards: [],
     check: "Player Crafting level ≥ 33",
     verified: true,
+    isActive: true,
   },
   {
     id: "crafting_player",
@@ -183,6 +195,7 @@ export const quests: Quest[] = [
     rewards: [],
     check: "Player Crafting level ≥ 66",
     verified: true,
+    isActive: true,
   },
   {
     id: "crafting_legend",
@@ -195,6 +208,7 @@ export const quests: Quest[] = [
     rewards: [],
     check: "Player Crafting level ≥ 99",
     verified: true,
+    isActive: true,
   },
   {
     id: "become_degen",
@@ -208,6 +222,7 @@ export const quests: Quest[] = [
     rewards: [],
     check: "Player has > 0 Degen XP",
     verified: true,
+    isActive: true,
   },
   {
     id: "degeneracy_stud",
@@ -220,6 +235,7 @@ export const quests: Quest[] = [
     rewards: [],
     check: "Player Degeneracy level ≥ 33",
     verified: true,
+    isActive: true,
   },
   {
     id: "degeneracy_player",
@@ -232,6 +248,7 @@ export const quests: Quest[] = [
     rewards: [],
     check: "Player Degeneracy level ≥ 66",
     verified: true,
+    isActive: true,
   },
   {
     id: "degeneracy_legend",
@@ -244,5 +261,6 @@ export const quests: Quest[] = [
     rewards: [],
     check: "Player Degeneracy level ≥ 99",
     verified: true,
+    isActive: true,
   },
 ];
