@@ -53,6 +53,7 @@ export interface QuestReward {
 }
 
 export interface Quest {
+  questId: number;
   id: string;
   name: string;
   image: string;

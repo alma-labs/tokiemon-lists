@@ -5,6 +5,7 @@ const DEFAULT_IMAGE =
 
 export const quests: Quest[] = [
   {
+    questId: 0,
     id: "first_tokiemon",
     name: "My First Tokiemon",
     image: DEFAULT_IMAGE,
@@ -19,6 +20,7 @@ export const quests: Quest[] = [
     isActive: true,
   },
   {
+    questId: 1,
     id: "craft_item",
     name: "Craft an Item",
     image: DEFAULT_IMAGE,
@@ -33,6 +35,7 @@ export const quests: Quest[] = [
     isActive: true,
   },
   {
+    questId: 2,
     id: "defeat_player",
     name: "Defeat Another Player",
     image: DEFAULT_IMAGE,
@@ -49,6 +52,7 @@ export const quests: Quest[] = [
     isActive: true,
   },
   {
+    questId: 3,
     id: "gm_streak_5",
     name: "5 Day GM Streak",
     image: DEFAULT_IMAGE,
@@ -64,6 +68,7 @@ export const quests: Quest[] = [
     isActive: true,
   },
   {
+    questId: 4,
     id: "gm_streak_25",
     name: "25 Day GM Streak",
     image: DEFAULT_IMAGE,
@@ -80,6 +85,7 @@ export const quests: Quest[] = [
     isActive: true,
   },
   {
+    questId: 5,
     id: "gm_streak_50",
     name: "50 Day GM Streak",
     image: DEFAULT_IMAGE,
@@ -95,6 +101,7 @@ export const quests: Quest[] = [
     isActive: true,
   },
   {
+    questId: 6,
     id: "gm_streak_100",
     name: "100 Day GM Streak",
     image: DEFAULT_IMAGE,
@@ -110,6 +117,7 @@ export const quests: Quest[] = [
     isActive: true,
   },
   {
+    questId: 7,
     id: "free_evolution",
     name: "Free Evolution",
     image: DEFAULT_IMAGE,
@@ -124,6 +132,7 @@ export const quests: Quest[] = [
     isActive: true,
   },
   {
+    questId: 8,
     id: "basic_evolution",
     name: "Basic Evolution",
     image: DEFAULT_IMAGE,
@@ -138,6 +147,7 @@ export const quests: Quest[] = [
     isActive: true,
   },
   {
+    questId: 9,
     id: "advanced_evolution",
     name: "Advanced Evolution",
     image: DEFAULT_IMAGE,
@@ -155,6 +165,7 @@ export const quests: Quest[] = [
     isActive: true,
   },
   {
+    questId: 10,
     id: "ultimate_evolution",
     name: "Ultimate Evolution",
     image: DEFAULT_IMAGE,
@@ -172,6 +183,7 @@ export const quests: Quest[] = [
     isActive: true,
   },
   {
+    questId: 11,
     id: "crafting_stud",
     name: "Crafting Stud",
     image: DEFAULT_IMAGE,
@@ -185,6 +197,7 @@ export const quests: Quest[] = [
     isActive: true,
   },
   {
+    questId: 12,
     id: "crafting_player",
     name: "Crafting Player",
     image: DEFAULT_IMAGE,
@@ -198,6 +211,7 @@ export const quests: Quest[] = [
     isActive: true,
   },
   {
+    questId: 13,
     id: "crafting_legend",
     name: "Crafting Legend",
     image: DEFAULT_IMAGE,
@@ -211,6 +225,7 @@ export const quests: Quest[] = [
     isActive: true,
   },
   {
+    questId: 14,
     id: "become_degen",
     name: "Become a Degen!",
     image: DEFAULT_IMAGE,
@@ -225,6 +240,7 @@ export const quests: Quest[] = [
     isActive: true,
   },
   {
+    questId: 15,
     id: "degeneracy_stud",
     name: "Degeneracy Stud",
     image: DEFAULT_IMAGE,
@@ -238,6 +254,7 @@ export const quests: Quest[] = [
     isActive: true,
   },
   {
+    questId: 16,
     id: "degeneracy_player",
     name: "Degeneracy Player",
     image: DEFAULT_IMAGE,
@@ -251,6 +268,7 @@ export const quests: Quest[] = [
     isActive: true,
   },
   {
+    questId: 17,
     id: "degeneracy_legend",
     name: "Degeneracy Legend",
     image: DEFAULT_IMAGE,
