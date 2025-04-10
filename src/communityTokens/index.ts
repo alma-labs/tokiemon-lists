@@ -5,6 +5,7 @@ import {
   DICKBUTT_PROMPTS,
   BODA_PROMPTS,
   AVI_PROMPTS,
+  EASTER_PROMPTS,
 } from "../prompts";
 
 export const communityTokens: CommunityToken[] = [
@@ -17,6 +18,16 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
     tags: [],
     prompts: TOKIEMON_PROMPTS,
+  },
+  {
+    communityId: "EASTER",
+    name: "Easter",
+    symbol: "EASTER",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/EASTER.png",
+    extraPaymentTokens: [],
+    tags: [],
+    prompts: EASTER_PROMPTS,
   },
   {
     communityId: "ETHDEN",

@@ -24,6 +24,11 @@ import {
   dragon as dragonAvi,
   degen as degenAvi,
 } from "./AVI";
+import {
+  kawaii as kawaiiEaster,
+  dragon as dragonEaster,
+  degen as degenEaster,
+} from "./EASTER";
 
 export const TOKIEMON_PROMPTS = { kawaii, dragon, degen };
 export const HOLIDAY_PROMPTS = {
@@ -50,4 +55,10 @@ export const AVI_PROMPTS = {
   kawaii: kawaiiAvi,
   dragon: dragonAvi,
   degen: degenAvi,
+};
+
+export const EASTER_PROMPTS = {
+  kawaii: kawaiiEaster,
+  dragon: dragonEaster,
+  degen: degenEaster,
 };
