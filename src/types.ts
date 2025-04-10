@@ -44,3 +44,23 @@ export interface Paintbrush {
   selectionType: 'always' | 'random';
   keywords: string[];
 }
+
+export type QuestType = 'Task' | 'Story' | 'Skilling';
+
+export interface QuestReward {
+  itemId: string;
+  amount: number;
+}
+
+export interface Quest {
+  id: string;
+  name: string;
+  image: string;
+  type: QuestType;
+  questPoints: number;
+  description: string;
+  requirements: string[];
+  rewards: QuestReward[];
+  check: string;
+  verified: boolean;
+}

@@ -168,10 +168,25 @@ try {
 try {
   const { paintbrushes } = require("./prompts/paintbrushes");
   const paintbrushesOutputDir = resolve(__dirname, "..");
-  const outputPath = resolve(paintbrushesOutputDir, "painting/paintbrushes.json");
+  const outputPath = resolve(
+    paintbrushesOutputDir,
+    "painting/paintbrushes.json"
+  );
   ensureDirectoryExists(resolve(paintbrushesOutputDir, "painting"));
   writeFileSync(outputPath, JSON.stringify(paintbrushes, null, 2), "utf-8");
   console.log(`✅ JSON file created: ${outputPath}`);
 } catch (error: any) {
   console.error(`❌ Error processing paintbrushes: ${error.message}`);
+}
+
+// Process quests
+try {
+  const { quests } = require("./quests/quests");
+  const questsOutputDir = resolve(__dirname, "..");
+  const outputPath = resolve(questsOutputDir, "quests/quests.json");
+  ensureDirectoryExists(resolve(questsOutputDir, "quests"));
+  writeFileSync(outputPath, JSON.stringify(quests, null, 2), "utf-8");
+  console.log(`✅ JSON file created: ${outputPath}`);
+} catch (error: any) {
+  console.error(`❌ Error processing quests: ${error.message}`);
 }
