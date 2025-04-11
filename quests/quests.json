@@ -78,6 +78,10 @@
     "requirements": [],
     "rewards": [
       {
+        "itemId": "727",
+        "amount": 2
+      },
+      {
         "itemId": "728",
         "amount": 1
       }

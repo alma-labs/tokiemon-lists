@@ -78,6 +78,7 @@ export const quests: Quest[] = [
       "Maintain your GM streak for 25 days to prove your commitment.",
     requirements: [],
     rewards: [
+      { itemId: "727", amount: 2 }, // Common Shard Cluster
       { itemId: "728", amount: 1 }, // Large Common Shard Cluster
     ],
     check: "Player GM streak ≥ 25 days",
