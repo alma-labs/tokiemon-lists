@@ -29,6 +29,11 @@ import {
   dragon as dragonEaster,
   degen as degenEaster,
 } from "./EASTER";
+import {
+  kawaii as kawaiiCatTown,
+  dragon as dragonCatTown,
+  degen as degenCatTown,
+} from "./CATTOWN";
 
 export const TOKIEMON_PROMPTS = { kawaii, dragon, degen };
 export const HOLIDAY_PROMPTS = {
@@ -56,9 +61,13 @@ export const AVI_PROMPTS = {
   dragon: dragonAvi,
   degen: degenAvi,
 };
-
 export const EASTER_PROMPTS = {
   kawaii: kawaiiEaster,
   dragon: dragonEaster,
   degen: degenEaster,
+};
+export const CATTOWN_PROMPTS = {
+  kawaii: kawaiiCatTown,
+  dragon: dragonCatTown,
+  degen: degenCatTown,
 };

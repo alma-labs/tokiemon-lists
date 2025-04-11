@@ -49,6 +49,17 @@
     "inactive": true
   },
   {
+    "communityId": "CATTOWN",
+    "name": "Cat Town",
+    "symbol": "CATTOWN",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/CATTOWN.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "PARTNER"
+    ]
+  },
+  {
     "communityId": "BRETT",
     "name": "Brett",
     "symbol": "BRETT",

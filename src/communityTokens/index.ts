@@ -6,6 +6,7 @@ import {
   BODA_PROMPTS,
   AVI_PROMPTS,
   EASTER_PROMPTS,
+  CATTOWN_PROMPTS,
 } from "../prompts";
 
 export const communityTokens: CommunityToken[] = [
@@ -62,6 +63,16 @@ export const communityTokens: CommunityToken[] = [
   },
 
   // Prominent Base Memecoins & Partners
+  {
+    communityId: "CATTOWN",
+    name: "Cat Town",
+    symbol: "CATTOWN",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/CATTOWN.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "PARTNER"],
+    prompts: CATTOWN_PROMPTS,
+  },
   {
     communityId: "BRETT",
     name: "Brett",
