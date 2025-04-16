@@ -1,14 +1,12 @@
 import { Quest } from "../types";
 
-const DEFAULT_IMAGE =
-  "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/placeholder-egg.png";
-
 export const quests: Quest[] = [
   {
     questId: 0,
     id: "first_tokiemon",
     name: "My First Tokiemon",
-    image: DEFAULT_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/first-tokiemon.png",
     type: "Task",
     questPoints: 1,
     description:
@@ -23,7 +21,8 @@ export const quests: Quest[] = [
     questId: 1,
     id: "craft_item",
     name: "Craft an Item",
-    image: DEFAULT_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/crafting-start.png",
     type: "Story",
     questPoints: 1,
     description:
@@ -38,7 +37,8 @@ export const quests: Quest[] = [
     questId: 2,
     id: "defeat_player",
     name: "Defeat Another Player",
-    image: DEFAULT_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/first-battle.png",
     type: "Task",
     questPoints: 1,
     description:
@@ -55,7 +55,8 @@ export const quests: Quest[] = [
     questId: 3,
     id: "gm_streak_5",
     name: "5 Day GM Streak",
-    image: DEFAULT_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/GM-5-day.png",
     type: "Task",
     questPoints: 1,
     description: "Show your dedication by maintaining a GM streak for 5 days.",
@@ -71,7 +72,8 @@ export const quests: Quest[] = [
     questId: 4,
     id: "gm_streak_25",
     name: "25 Day GM Streak",
-    image: DEFAULT_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/GM-25-day.png",
     type: "Task",
     questPoints: 1,
     description:
@@ -89,7 +91,8 @@ export const quests: Quest[] = [
     questId: 5,
     id: "gm_streak_50",
     name: "50 Day GM Streak",
-    image: DEFAULT_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/GM-50-day.png",
     type: "Task",
     questPoints: 1,
     description: "Keep your GM streak alive for an impressive 50 days.",
@@ -105,7 +108,8 @@ export const quests: Quest[] = [
     questId: 6,
     id: "gm_streak_100",
     name: "100 Day GM Streak",
-    image: DEFAULT_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/GM-100-day.png",
     type: "Task",
     questPoints: 2,
     description: "Achieve legendary status with a 100-day GM streak.",
@@ -121,7 +125,8 @@ export const quests: Quest[] = [
     questId: 7,
     id: "free_evolution",
     name: "Free Evolution",
-    image: DEFAULT_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/evo-free.png",
     type: "Task",
     questPoints: 1,
     description:
@@ -136,7 +141,8 @@ export const quests: Quest[] = [
     questId: 8,
     id: "basic_evolution",
     name: "Basic Evolution",
-    image: DEFAULT_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/evo-basic.png",
     type: "Task",
     questPoints: 1,
     description:
@@ -151,7 +157,8 @@ export const quests: Quest[] = [
     questId: 9,
     id: "advanced_evolution",
     name: "Advanced Evolution",
-    image: DEFAULT_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/evo-advanced.png",
     type: "Task",
     questPoints: 2,
     description:
@@ -169,7 +176,8 @@ export const quests: Quest[] = [
     questId: 10,
     id: "ultimate_evolution",
     name: "Ultimate Evolution",
-    image: DEFAULT_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/evo-ultimate.png",
     type: "Task",
     questPoints: 3,
     description:
@@ -187,7 +195,8 @@ export const quests: Quest[] = [
     questId: 11,
     id: "crafting_stud",
     name: "Crafting Stud",
-    image: DEFAULT_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/crafting-novice.png",
     type: "Skilling",
     questPoints: 1,
     description: "Develop your crafting abilities to reach level 33.",
@@ -201,7 +210,8 @@ export const quests: Quest[] = [
     questId: 12,
     id: "crafting_player",
     name: "Crafting Player",
-    image: DEFAULT_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/crafting-stud.png",
     type: "Skilling",
     questPoints: 2,
     description: "Hone your crafting skills to achieve level 66.",
@@ -215,7 +225,8 @@ export const quests: Quest[] = [
     questId: 13,
     id: "crafting_legend",
     name: "Crafting Legend",
-    image: DEFAULT_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/crafting-legend.png",
     type: "Skilling",
     questPoints: 3,
     description: "Master the art of crafting by reaching level 99.",
@@ -229,7 +240,8 @@ export const quests: Quest[] = [
     questId: 14,
     id: "become_degen",
     name: "Become a Degen!",
-    image: DEFAULT_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/degen-start.png",
     type: "Task",
     questPoints: 1,
     description:
@@ -244,7 +256,8 @@ export const quests: Quest[] = [
     questId: 15,
     id: "degeneracy_stud",
     name: "Degeneracy Stud",
-    image: DEFAULT_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/degen-novice.png",
     type: "Skilling",
     questPoints: 1,
     description: "Embrace the degen life and reach level 33 Degeneracy.",
@@ -258,7 +271,8 @@ export const quests: Quest[] = [
     questId: 16,
     id: "degeneracy_player",
     name: "Degeneracy Player",
-    image: DEFAULT_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/degen-stud.png",
     type: "Skilling",
     questPoints: 2,
     description: "Further your degen mastery to level 66.",
@@ -272,7 +286,8 @@ export const quests: Quest[] = [
     questId: 17,
     id: "degeneracy_legend",
     name: "Degeneracy Legend",
-    image: DEFAULT_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/degen-legend.png",
     type: "Skilling",
     questPoints: 3,
     description: "Become a true degen legend by reaching level 99.",
