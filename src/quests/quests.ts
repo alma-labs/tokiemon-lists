@@ -16,6 +16,7 @@ export const quests: Quest[] = [
     check: "Player has used their free mint allocation",
     verified: false,
     isActive: true,
+    hint: "Visit the Mint tab and select a community to mint your first Tokiemon for free!",
   },
   {
     questId: 1,
@@ -32,6 +33,7 @@ export const quests: Quest[] = [
     check: "Player has earned crafting XP",
     verified: false,
     isActive: true,
+    hint: "Head to the Crafting Workshop and talk to Rick - he'll teach you the basics of crafting.",
   },
   {
     questId: 2,
@@ -50,6 +52,7 @@ export const quests: Quest[] = [
     check: "Player has won at least one PvP battle",
     verified: false,
     isActive: true,
+    hint: "You can also click on the weights rack in your room to get recommended battles!",
   },
   {
     questId: 3,
@@ -67,6 +70,7 @@ export const quests: Quest[] = [
     check: "Player GM streak ≥ 5 days",
     verified: false,
     isActive: true,
+    hint: "Say GM in chat once per day to keep your streak going!",
   },
   {
     questId: 4,
@@ -86,6 +90,7 @@ export const quests: Quest[] = [
     check: "Player GM streak ≥ 25 days",
     verified: false,
     isActive: true,
+    hint: "Keep saying GM daily - set a reminder if needed to maintain your streak!",
   },
   {
     questId: 5,
@@ -103,6 +108,7 @@ export const quests: Quest[] = [
     check: "Player GM streak ≥ 50 days",
     verified: true,
     isActive: true,
+    hint: "Don't break that streak now!",
   },
   {
     questId: 6,
@@ -120,6 +126,7 @@ export const quests: Quest[] = [
     check: "Player GM streak ≥ 100 days",
     verified: true,
     isActive: true,
+    hint: "Keep GMing babyyyy!",
   },
   {
     questId: 7,
@@ -136,6 +143,7 @@ export const quests: Quest[] = [
     check: "Player has completed a Free Tier evolution",
     verified: false,
     isActive: true,
+    hint: "Get a Shrooom and bring your Free Tier Tokiemon to Professor Pollak for evolution!",
   },
   {
     questId: 8,
@@ -152,6 +160,7 @@ export const quests: Quest[] = [
     check: "Player has completed a Kawaii+ Tier evolution",
     verified: true,
     isActive: true,
+    hint: "Train your Kawaii+ Tokiemon to level 50 and gather Basic Essence for evolution.",
   },
   {
     questId: 9,
@@ -171,6 +180,7 @@ export const quests: Quest[] = [
     check: "Player has completed an Advanced evolution",
     verified: true,
     isActive: true,
+    hint: "Level 100 and Advanced Essence are needed - keep training and gathering resources!",
   },
   {
     questId: 10,
@@ -190,6 +200,7 @@ export const quests: Quest[] = [
     check: "Player has completed an Ultimate evolution",
     verified: true,
     isActive: true,
+    hint: "The pinnacle of evolution requires level 200 and Ultimate Essence - a true test of dedication!",
   },
   {
     questId: 11,
@@ -205,6 +216,7 @@ export const quests: Quest[] = [
     check: "Player Crafting level ≥ 33",
     verified: true,
     isActive: true,
+    hint: "Keep crafting items at the Workshop to gain XP - practice makes perfect!",
   },
   {
     questId: 12,
@@ -220,6 +232,7 @@ export const quests: Quest[] = [
     check: "Player Crafting level ≥ 66",
     verified: true,
     isActive: true,
+    hint: "Try crafting higher-tier items for better XP rates!",
   },
   {
     questId: 13,
@@ -235,6 +248,7 @@ export const quests: Quest[] = [
     check: "Player Crafting level ≥ 99",
     verified: true,
     isActive: true,
+    hint: "The path to 99 is long - focus on the most efficient crafting methods and rare materials!",
   },
   {
     questId: 14,
@@ -251,6 +265,7 @@ export const quests: Quest[] = [
     check: "Player has > 0 Degen XP",
     verified: true,
     isActive: true,
+    hint: "Find and consume any Degen item to start your journey into degeneracy!",
   },
   {
     questId: 15,
@@ -266,6 +281,7 @@ export const quests: Quest[] = [
     check: "Player Degeneracy level ≥ 33",
     verified: true,
     isActive: true,
+    hint: "Keep consuming Degen items regularly to build up that XP!",
   },
   {
     questId: 16,
@@ -281,6 +297,7 @@ export const quests: Quest[] = [
     check: "Player Degeneracy level ≥ 66",
     verified: true,
     isActive: true,
+    hint: "Mix different types of Degen items for optimal XP gains!",
   },
   {
     questId: 17,
@@ -296,5 +313,6 @@ export const quests: Quest[] = [
     check: "Player Degeneracy level ≥ 99",
     verified: true,
     isActive: true,
+    hint: "The ultimate degen challenge - use rare and powerful Degen items to reach the top!",
   },
 ];

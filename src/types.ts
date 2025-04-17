@@ -65,4 +65,5 @@ export interface Quest {
   check: string;
   verified: boolean;
   isActive: boolean;
+  hint: string;
 }
