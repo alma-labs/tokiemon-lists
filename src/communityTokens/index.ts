@@ -7,6 +7,7 @@ import {
   AVI_PROMPTS,
   EASTER_PROMPTS,
   CATTOWN_PROMPTS,
+  AIP_PROMPTS,
 } from "../prompts";
 
 export const communityTokens: CommunityToken[] = [
@@ -72,6 +73,16 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
     tags: ["BASE", "PARTNER"],
     prompts: CATTOWN_PROMPTS,
+  },
+  {
+    communityId: "AIP",
+    name: "PettAI",
+    symbol: "AIP",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/AIP.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "PARTNER"],
+    prompts: AIP_PROMPTS,
   },
   {
     communityId: "BRETT",

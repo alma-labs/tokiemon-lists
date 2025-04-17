@@ -27,6 +27,17 @@
     ]
   },
   {
+    "communityId": "AIP",
+    "name": "PettAI",
+    "symbol": "AIP",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/AIP.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "PARTNER"
+    ]
+  },
+  {
     "communityId": "BRETT",
     "name": "Brett",
     "symbol": "BRETT",
