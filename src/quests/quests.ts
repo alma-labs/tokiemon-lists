@@ -142,7 +142,7 @@ export const quests: Quest[] = [
     rewards: [],
     check: "Player has completed a Free Tier evolution",
     verified: false,
-    isActive: true,
+    isActive: false,
     hint: "Get a Shrooom and bring your Free Tier Tokiemon to Professor Pollak for evolution!",
   },
   {
@@ -159,7 +159,7 @@ export const quests: Quest[] = [
     rewards: [],
     check: "Player has completed a Kawaii+ Tier evolution",
     verified: true,
-    isActive: true,
+    isActive: false,
     hint: "Train your Kawaii+ Tokiemon to level 50 and gather Basic Essence for evolution.",
   },
   {
@@ -179,7 +179,7 @@ export const quests: Quest[] = [
     rewards: [],
     check: "Player has completed an Advanced evolution",
     verified: true,
-    isActive: true,
+    isActive: false,
     hint: "Level 100 and Advanced Essence are needed - keep training and gathering resources!",
   },
   {
@@ -199,7 +199,7 @@ export const quests: Quest[] = [
     rewards: [],
     check: "Player has completed an Ultimate evolution",
     verified: true,
-    isActive: true,
+    isActive: false,
     hint: "The pinnacle of evolution requires level 200 and Ultimate Essence - a true test of dedication!",
   },
   {
