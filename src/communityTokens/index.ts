@@ -8,6 +8,7 @@ import {
   EASTER_PROMPTS,
   CATTOWN_PROMPTS,
   AIP_PROMPTS,
+  SQUIRT_PROMPTS,
 } from "../prompts";
 
 export const communityTokens: CommunityToken[] = [
@@ -64,6 +65,16 @@ export const communityTokens: CommunityToken[] = [
   },
 
   // Prominent Base Memecoins & Partners
+  {
+    communityId: "SQUIRT",
+    name: "Base is for...",
+    symbol: "SQUIRT",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SQUIRT.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "MEME"],
+    prompts: SQUIRT_PROMPTS,
+  },
   {
     communityId: "CATTOWN",
     name: "Cat Town",

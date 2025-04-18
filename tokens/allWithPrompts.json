@@ -306,6 +306,31 @@
     }
   },
   {
+    "communityId": "SQUIRT",
+    "name": "Base is for...",
+    "symbol": "SQUIRT",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SQUIRT.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "MEME"
+    ],
+    "prompts": {
+      "kawaii": [
+        "blastoise very aggressive vicious pokemon"
+      ],
+      "dragon": [
+        "royal blue turtle dragon pokemon with wings and claws",
+        "royal blue turtle dragon pokemon with wings"
+      ],
+      "degen": [
+        "kawaii squirtle inspired pokemon with a dark blue hat",
+        "royal blue turtle kawaii pokemon with a blue cap on",
+        "royal blue turtle kawaii pokemon with clothes on"
+      ]
+    }
+  },
+  {
     "communityId": "CATTOWN",
     "name": "Cat Town",
     "symbol": "CATTOWN",

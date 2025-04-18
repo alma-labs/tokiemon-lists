@@ -49,6 +49,17 @@
     "inactive": true
   },
   {
+    "communityId": "SQUIRT",
+    "name": "Base is for...",
+    "symbol": "SQUIRT",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SQUIRT.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "MEME"
+    ]
+  },
+  {
     "communityId": "CATTOWN",
     "name": "Cat Town",
     "symbol": "CATTOWN",

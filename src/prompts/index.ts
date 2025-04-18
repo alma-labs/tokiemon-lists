@@ -39,6 +39,11 @@ import {
   dragon as dragonAip,
   degen as degenAip,
 } from "./AIP";
+import {
+  kawaii as kawaiiSquirt,
+  dragon as dragonSquirt,
+  degen as degenSquirt,
+} from "./SQUIRT";
 
 export const TOKIEMON_PROMPTS = { kawaii, dragon, degen };
 export const HOLIDAY_PROMPTS = {
@@ -80,4 +85,10 @@ export const AIP_PROMPTS = {
   kawaii: kawaiiAip,
   dragon: dragonAip,
   degen: degenAip,
+};
+
+export const SQUIRT_PROMPTS = {
+  kawaii: kawaiiSquirt,
+  dragon: dragonSquirt,
+  degen: degenSquirt,
 };
