@@ -41,11 +41,11 @@ export interface CraftingCategory {
 export interface Paintbrush {
   itemId: string;
   name: string;
-  selectionType: 'always' | 'random';
+  selectionType: "always" | "random";
   keywords: string[];
 }
 
-export type QuestType = 'Task' | 'Story' | 'Skilling';
+export type QuestType = "Task" | "Story" | "Skilling";
 
 export interface QuestReward {
   itemId: string;
