@@ -143,15 +143,15 @@
     "rewards": [
       {
         "itemId": "126",
+        "amount": 2
+      },
+      {
+        "itemId": "127",
+        "amount": 1
+      },
+      {
+        "itemId": "791",
         "amount": 3
-      },
-      {
-        "itemId": "732",
-        "amount": 1
-      },
-      {
-        "itemId": "734",
-        "amount": 1
       }
     ],
     "check": "Player GM streak ≥ 50 days",
@@ -165,7 +165,7 @@
     "name": "100 Day GM Streak",
     "image": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/GM-100-day.png",
     "type": "Task",
-    "questPoints": 2,
+    "questPoints": 1,
     "description": "Achieve master status with a 100-day GM streak.",
     "requirements": [],
     "rewards": [
@@ -174,7 +174,11 @@
         "amount": 3
       },
       {
-        "itemId": "131",
+        "itemId": "130",
+        "amount": 1
+      },
+      {
+        "itemId": "792",
         "amount": 1
       }
     ],
@@ -189,21 +193,21 @@
     "name": "200 Day GM Streak",
     "image": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/placeholder.png",
     "type": "Task",
-    "questPoints": 3,
+    "questPoints": 2,
     "description": "Achieve legendary status with a 200-day GM streak.",
     "requirements": [],
     "rewards": [
       {
         "itemId": "3",
-        "amount": 100
+        "amount": 50
       },
       {
         "itemId": "128",
-        "amount": 10
+        "amount": 5
       },
       {
         "itemId": "131",
-        "amount": 2
+        "amount": 1
       }
     ],
     "check": "Player GM streak ≥ 200 days",
@@ -217,20 +221,24 @@
     "name": "1 Year GM Streak",
     "image": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/placeholder.png",
     "type": "Task",
-    "questPoints": 5,
+    "questPoints": 3,
     "description": "Achieve god tier status with a 365-day GM streak.",
     "requirements": [],
     "rewards": [
       {
         "itemId": "3",
-        "amount": 500
+        "amount": 100
       },
       {
         "itemId": "128",
-        "amount": 25
+        "amount": 10
       },
       {
         "itemId": "172",
+        "amount": 1
+      },
+      {
+        "itemId": "793",
         "amount": 1
       }
     ],
@@ -382,7 +390,12 @@
     "requirements": [
       "Level 99 Crafting"
     ],
-    "rewards": [],
+    "rewards": [
+      {
+        "itemId": "796",
+        "amount": 1
+      }
+    ],
     "check": "Player Crafting level ≥ 99",
     "verified": true,
     "isActive": true,
@@ -403,8 +416,8 @@
     ],
     "rewards": [
       {
-        "itemId": "129",
-        "amount": 3
+        "itemId": "1",
+        "amount": 10
       }
     ],
     "check": "Player has captured a Kawaii Tokiemon",
@@ -427,8 +440,8 @@
     ],
     "rewards": [
       {
-        "itemId": "129",
-        "amount": 5
+        "itemId": "2",
+        "amount": 10
       }
     ],
     "check": "Player has captured a Dragon Tokiemon",
@@ -451,7 +464,7 @@
     ],
     "rewards": [
       {
-        "itemId": "129",
+        "itemId": "3",
         "amount": 10
       }
     ],
@@ -500,7 +513,7 @@
     "rewards": [
       {
         "itemId": "128",
-        "amount": 3
+        "amount": 1
       },
       {
         "itemId": "3",
@@ -549,7 +562,12 @@
     "requirements": [
       "Level 99 Degeneracy"
     ],
-    "rewards": [],
+    "rewards": [
+      {
+        "itemId": "797",
+        "amount": 1
+      }
+    ],
     "check": "Player Degeneracy level ≥ 99",
     "verified": true,
     "isActive": true,

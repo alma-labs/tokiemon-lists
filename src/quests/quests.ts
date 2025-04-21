@@ -129,8 +129,7 @@ export const quests: Quest[] = [
     rewards: [
       { itemId: "126", amount: 2 }, // 2 Kawaii Passes
       { itemId: "127", amount: 1 }, // 1 Dragon Pass
-      { itemId: "732", amount: 1 }, // 1 Large Uncommon Shard Cluster
-      { itemId: "734", amount: 1 }, // 1 Large Dragon Fragment Cluster
+      { itemId: "791", amount: 3 }, // 3 Uncommon Geodes
     ],
     check: "Player GM streak ≥ 50 days",
     verified: true,
@@ -144,12 +143,13 @@ export const quests: Quest[] = [
     image:
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/GM-100-day.png",
     type: "Task",
-    questPoints: 2,
+    questPoints: 1,
     description: "Achieve master status with a 100-day GM streak.",
     requirements: [],
     rewards: [
       { itemId: "128", amount: 3 }, // 3 degen passes
-      { itemId: "131", amount: 1 }, // 1 moonball
+      { itemId: "130", amount: 1 }, // 1 Blueball
+      { itemId: "792", amount: 1 }, // 1 rare geode
     ],
     check: "Player GM streak ≥ 100 days",
     verified: true,
@@ -162,13 +162,13 @@ export const quests: Quest[] = [
     name: "200 Day GM Streak",
     image: PLACEHOLDER_IMAGE,
     type: "Task",
-    questPoints: 3,
+    questPoints: 2,
     description: "Achieve legendary status with a 200-day GM streak.",
     requirements: [],
     rewards: [
-      { itemId: "3", amount: 100 }, // 100 degen keys
-      { itemId: "128", amount: 10 }, // 10 degen passes
-      { itemId: "131", amount: 2 }, // 2 moonballs
+      { itemId: "3", amount: 50 }, // 50 degen keys
+      { itemId: "128", amount: 5 }, // 5 degen passes
+      { itemId: "131", amount: 1 }, // 1 moonball
     ],
     check: "Player GM streak ≥ 200 days",
     verified: true,
@@ -181,13 +181,14 @@ export const quests: Quest[] = [
     name: "1 Year GM Streak",
     image: PLACEHOLDER_IMAGE,
     type: "Task",
-    questPoints: 5,
+    questPoints: 3,
     description: "Achieve god tier status with a 365-day GM streak.",
     requirements: [],
     rewards: [
-      { itemId: "3", amount: 500 }, // 500 degen keys
-      { itemId: "128", amount: 25 }, // 25 degen passes
+      { itemId: "3", amount: 100 }, // 100 degen keys
+      { itemId: "128", amount: 10 }, // 10 degen passes
       { itemId: "172", amount: 1 }, // 1 masterbater ball
+      { itemId: "793", amount: 1 }, // 1 epic geode
     ],
     check: "Player GM streak ≥ 365 days",
     verified: true,
@@ -318,7 +319,9 @@ export const quests: Quest[] = [
     questPoints: 3,
     description: "Master the art of crafting by reaching level 99.",
     requirements: ["Level 99 Crafting"],
-    rewards: [],
+    rewards: [
+      { itemId: "796", amount: 1 }, // Crafting Cloak
+    ],
     check: "Player Crafting level ≥ 99",
     verified: true,
     isActive: true,
@@ -339,7 +342,7 @@ export const quests: Quest[] = [
       "Tokieball or Other Capture Item",
     ],
     rewards: [
-      { itemId: "129", amount: 3 }, // 3 Free Passes
+      { itemId: "1", amount: 10 }, // 10 Kawaii Keys
     ],
     check: "Player has captured a Kawaii Tokiemon",
     verified: false,
@@ -361,7 +364,7 @@ export const quests: Quest[] = [
       "Tokieball or Other Capture Item",
     ],
     rewards: [
-      { itemId: "129", amount: 5 }, // 5 Free Passes
+      { itemId: "2", amount: 10 }, // 10 Dragon Keys
     ],
     check: "Player has captured a Dragon Tokiemon",
     verified: true,
@@ -383,7 +386,7 @@ export const quests: Quest[] = [
       "Tokieball or Other Capture Item",
     ],
     rewards: [
-      { itemId: "129", amount: 10 }, // 10 Free Passes
+      { itemId: "3", amount: 10 }, // 10 Degen Keys
     ],
     check: "Player has captured a Degen Tokiemon",
     verified: true,
@@ -421,7 +424,7 @@ export const quests: Quest[] = [
     description: "Embrace the degen life and reach level 33 Degeneracy.",
     requirements: ["Level 33 Degeneracy"],
     rewards: [
-      { itemId: "128", amount: 3 }, // 3 degen passes
+      { itemId: "128", amount: 1 }, // 1 degen pass
       { itemId: "3", amount: 10 }, // 10 degen keys
     ],
     check: "Player Degeneracy level ≥ 33",
@@ -458,7 +461,9 @@ export const quests: Quest[] = [
     questPoints: 3,
     description: "Become a true degen legend by reaching level 99.",
     requirements: ["Level 99 Degeneracy"],
-    rewards: [],
+    rewards: [
+      { itemId: "797", amount: 1 }, // Degen Cloak
+    ],
     check: "Player Degeneracy level ≥ 99",
     verified: true,
     isActive: true,
