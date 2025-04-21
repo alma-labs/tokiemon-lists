@@ -202,7 +202,8 @@
         "Bright colored easter bunny human pokemon",
         "large majestic bright colored easter pokemon"
       ]
-    }
+    },
+    "inactive": true
   },
   {
     "communityId": "ETHDEN",
@@ -328,7 +329,8 @@
         "royal blue turtle kawaii pokemon with a blue cap on",
         "royal blue turtle kawaii pokemon with clothes on"
       ]
-    }
+    },
+    "inactive": true
   },
   {
     "communityId": "CATTOWN",

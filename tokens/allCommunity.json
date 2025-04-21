@@ -13,7 +13,8 @@
     "symbol": "EASTER",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/EASTER.png",
     "extraPaymentTokens": [],
-    "tags": []
+    "tags": [],
+    "inactive": true
   },
   {
     "communityId": "ETHDEN",
@@ -57,7 +58,8 @@
     "tags": [
       "BASE",
       "MEME"
-    ]
+    ],
+    "inactive": true
   },
   {
     "communityId": "CATTOWN",

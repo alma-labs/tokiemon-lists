@@ -31,6 +31,7 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
     tags: [],
     prompts: EASTER_PROMPTS,
+    inactive: true,
   },
   {
     communityId: "ETHDEN",
@@ -74,6 +75,7 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
     tags: ["BASE", "MEME"],
     prompts: SQUIRT_PROMPTS,
+    inactive: true,
   },
   {
     communityId: "CATTOWN",
