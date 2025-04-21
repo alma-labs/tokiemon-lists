@@ -127,7 +127,8 @@ export const quests: Quest[] = [
     description: "Keep your GM streak alive for an impressive 50 days.",
     requirements: [],
     rewards: [
-      { itemId: "126", amount: 3 }, // 3 Kawaii Passes
+      { itemId: "126", amount: 2 }, // 2 Kawaii Passes
+      { itemId: "127", amount: 1 }, // 1 Dragon Pass
       { itemId: "732", amount: 1 }, // 1 Large Uncommon Shard Cluster
       { itemId: "734", amount: 1 }, // 1 Large Dragon Fragment Cluster
     ],
