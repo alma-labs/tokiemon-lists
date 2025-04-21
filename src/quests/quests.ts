@@ -160,7 +160,8 @@ export const quests: Quest[] = [
     questId: 8,
     id: "gm_streak_200",
     name: "200 Day GM Streak",
-    image: PLACEHOLDER_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/GM-200-day.png",
     type: "Task",
     questPoints: 2,
     description: "Achieve legendary status with a 200-day GM streak.",
@@ -179,7 +180,8 @@ export const quests: Quest[] = [
     questId: 9,
     id: "gm_streak_365",
     name: "1 Year GM Streak",
-    image: PLACEHOLDER_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/GM-1-year.png",
     type: "Task",
     questPoints: 3,
     description: "Achieve god tier status with a 365-day GM streak.",
@@ -331,7 +333,8 @@ export const quests: Quest[] = [
     questId: 17,
     id: "capture_kawaii",
     name: "Capture a Kawaii Tokiemon",
-    image: PLACEHOLDER_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/capture-kawaii.png",
     type: "Task",
     questPoints: 1,
     description:
@@ -353,7 +356,8 @@ export const quests: Quest[] = [
     questId: 18,
     id: "capture_dragon",
     name: "Capture a Dragon Tokiemon",
-    image: PLACEHOLDER_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/capture-dragon.png",
     type: "Task",
     questPoints: 1,
     description:
@@ -375,7 +379,8 @@ export const quests: Quest[] = [
     questId: 19,
     id: "capture_degen",
     name: "Capture a Degen Tokiemon",
-    image: PLACEHOLDER_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/capture-degen.png",
     type: "Task",
     questPoints: 1,
     description:
@@ -473,7 +478,8 @@ export const quests: Quest[] = [
     questId: 24,
     id: "sacrifice_tokiemon",
     name: "Sacrifice a Tokiemon",
-    image: PLACEHOLDER_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/sacrifice-tokiemon.png",
     type: "Task",
     questPoints: 1,
     description: "Sacrifice a Tokiemon to the altar.",
