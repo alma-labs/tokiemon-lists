@@ -62,7 +62,8 @@ export const quests: Quest[] = [
     questId: 3,
     id: "say_gm",
     name: "Say GM!",
-    image: PLACEHOLDER_IMAGE,
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/GM-1-day.png",
     type: "Task",
     questPoints: 1,
     description: "Open your account tab and say GM!",
