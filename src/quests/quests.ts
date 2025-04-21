@@ -469,4 +469,22 @@ export const quests: Quest[] = [
     isActive: true,
     hint: "The ultimate degen challenge - use rare and powerful Degen items to reach the top!",
   },
+  {
+    questId: 24,
+    id: "sacrifice_tokiemon",
+    name: "Sacrifice a Tokiemon",
+    image: PLACEHOLDER_IMAGE,
+    type: "Task",
+    questPoints: 1,
+    description: "Sacrifice a Tokiemon to the altar.",
+    requirements: ["A Tokiemon"],
+    rewards: [
+      { itemId: "256", amount: 4 }, // 4 Lube
+      { itemId: "727", amount: 1 }, // 1 Common Shard Cluster
+    ],
+    check: "Player has sacrificed a Tokiemon",
+    verified: false,
+    isActive: true,
+    hint: "Go to the Crafting Workshop and sacrifice a Tokiemon to the altar!",
+  },
 ];

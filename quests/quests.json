@@ -572,5 +572,31 @@
     "verified": true,
     "isActive": true,
     "hint": "The ultimate degen challenge - use rare and powerful Degen items to reach the top!"
+  },
+  {
+    "questId": 24,
+    "id": "sacrifice_tokiemon",
+    "name": "Sacrifice a Tokiemon",
+    "image": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/placeholder.png",
+    "type": "Task",
+    "questPoints": 1,
+    "description": "Sacrifice a Tokiemon to the altar.",
+    "requirements": [
+      "A Tokiemon"
+    ],
+    "rewards": [
+      {
+        "itemId": "256",
+        "amount": 4
+      },
+      {
+        "itemId": "727",
+        "amount": 1
+      }
+    ],
+    "check": "Player has sacrificed a Tokiemon",
+    "verified": false,
+    "isActive": true,
+    "hint": "Go to the Crafting Workshop and sacrifice a Tokiemon to the altar!"
   }
 ]
