@@ -491,7 +491,7 @@ export const quests: Quest[] = [
     ],
     check: "Player has sacrificed a Tokiemon",
     verified: false,
-    isActive: true,
+    isActive: false,
     hint: "Go to the Crafting Workshop and sacrifice a Tokiemon to the altar!",
   },
 ];
