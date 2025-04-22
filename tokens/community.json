@@ -19,6 +19,17 @@
     ]
   },
   {
+    "communityId": "MNRY",
+    "name": "Moonray",
+    "symbol": "MNRY",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MNRY.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "PARTNER"
+    ]
+  },
+  {
     "communityId": "AIP",
     "name": "PettAI",
     "symbol": "AIP",

@@ -9,6 +9,7 @@ import {
   CATTOWN_PROMPTS,
   AIP_PROMPTS,
   SQUIRT_PROMPTS,
+  MNRY_PROMPTS,
 } from "../prompts";
 
 export const communityTokens: CommunityToken[] = [
@@ -86,6 +87,16 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
     tags: ["BASE", "PARTNER"],
     prompts: CATTOWN_PROMPTS,
+  },
+  {
+    communityId: "MNRY",
+    name: "Moonray",
+    symbol: "MNRY",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MNRY.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "PARTNER"],
+    prompts: MNRY_PROMPTS,
   },
   {
     communityId: "AIP",
