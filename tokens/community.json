@@ -8,6 +8,17 @@
     "tags": []
   },
   {
+    "communityId": "PACAAI",
+    "name": "Alpaca Network",
+    "symbol": "PACAAI",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/PACAAI.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "PARTNER"
+    ]
+  },
+  {
     "communityId": "CATTOWN",
     "name": "Cat Town",
     "symbol": "CATTOWN",

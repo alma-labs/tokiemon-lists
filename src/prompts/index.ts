@@ -49,6 +49,11 @@ import {
   dragon as dragonMnry,
   degen as degenMnry,
 } from "./MNRY";
+import {
+  kawaii as kawaiiPacai,
+  dragon as dragonPacai,
+  degen as degenPacai,
+} from "./PACAAI";
 
 export const TOKIEMON_PROMPTS = { kawaii, dragon, degen };
 export const HOLIDAY_PROMPTS = {
@@ -102,4 +107,10 @@ export const MNRY_PROMPTS = {
   kawaii: kawaiiMnry,
   dragon: dragonMnry,
   degen: degenMnry,
+};
+
+export const PACAAI_PROMPTS = {
+  kawaii: kawaiiPacai,
+  dragon: dragonPacai,
+  degen: degenPacai,
 };

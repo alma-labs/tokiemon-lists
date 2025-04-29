@@ -10,6 +10,7 @@ import {
   AIP_PROMPTS,
   SQUIRT_PROMPTS,
   MNRY_PROMPTS,
+  PACAAI_PROMPTS,
 } from "../prompts";
 
 export const communityTokens: CommunityToken[] = [
@@ -77,6 +78,16 @@ export const communityTokens: CommunityToken[] = [
     tags: ["BASE", "MEME"],
     prompts: SQUIRT_PROMPTS,
     inactive: true,
+  },
+  {
+    communityId: "PACAAI",
+    name: "Alpaca Network",
+    symbol: "PACAAI",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/PACAAI.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "PARTNER"],
+    prompts: PACAAI_PROMPTS,
   },
   {
     communityId: "CATTOWN",
