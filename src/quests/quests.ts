@@ -5,6 +5,25 @@ const PLACEHOLDER_IMAGE =
 
 export const quests: Quest[] = [
   {
+    questId: 25,
+    id: "become_based",
+    name: "Become Based",
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/become-based.png",
+    type: "Story",
+    questPoints: 1,
+    description: "Craft a Base Shirt.",
+    requirements: ["A Base Shirt"],
+    rewards: [
+      { itemId: "803", amount: 1 }, // 1 Base Blue Boy Skin
+      { itemId: "808", amount: 1 }, // 1 Base Blue Girl Skin
+    ],
+    check: "Player has crafted a Base Shirt",
+    verified: false,
+    isActive: false,
+    hint: "Go to the Crafting Workshop and craft a Base Shirt!",
+  },
+  {
     questId: 0,
     id: "first_tokiemon",
     name: "My First Tokiemon",
