@@ -20,7 +20,7 @@ export const quests: Quest[] = [
     ],
     check: "Player has crafted a Base Shirt",
     verified: false,
-    isActive: false,
+    isActive: true,
     hint: "Go to the Crafting Workshop and craft a Base Shirt!",
   },
   {
