@@ -11,6 +11,8 @@ import {
   SQUIRT_PROMPTS,
   MNRY_PROMPTS,
   PACAAI_PROMPTS,
+  BARIO_PROMPTS,
+  FOXARIA_PROMPTS,
 } from "../prompts";
 
 export const communityTokens: CommunityToken[] = [
@@ -78,6 +80,26 @@ export const communityTokens: CommunityToken[] = [
     tags: ["BASE", "MEME"],
     prompts: SQUIRT_PROMPTS,
     inactive: true,
+  },
+  {
+    communityId: "BARIO",
+    name: "Bario",
+    symbol: "BARIO",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BARIO.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "PARTNER"],
+    prompts: BARIO_PROMPTS,
+  },
+  {
+    communityId: "FOXARIA",
+    name: "Foxaria",
+    symbol: "FOXARIA",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/FOXARIA.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "PARTNER"],
+    prompts: FOXARIA_PROMPTS,
   },
   {
     communityId: "PACAAI",

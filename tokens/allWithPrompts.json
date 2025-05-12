@@ -333,6 +333,69 @@
     "inactive": true
   },
   {
+    "communityId": "BARIO",
+    "name": "Bario",
+    "symbol": "BARIO",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BARIO.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "PARTNER"
+    ],
+    "prompts": {
+      "kawaii": [
+        "red small monster cryptopunk pokemon in overalls and royal blue cap",
+        "Royal blue small monster cryptopunk pokemon in overalls and red cap",
+        "green small monster pokemon in overalls and red cap",
+        "Red small monster pokemon in overalls and cowboy hat",
+        "royal blue small monster pokemon in overalls and cowboy hat",
+        "Green small monster pokemon in overalls and cowboy hat"
+      ],
+      "dragon": [
+        "red vicious monster cryptopunk dragon pokemon in overalls and royal blue cap",
+        "Royal blue vicious monster cryptopunk dragon pokemon in overalls and red cap",
+        "green vicious monster cryptopunk dragon pokemon in overalls and red cap",
+        "green vicious monster cryptopunk dragon pokemon in overalls and cowboy hat",
+        "blue vicious monster cryptopunk dragon pokemon in overalls and cowboy hat",
+        "yellow vicious monster cryptopunk dragon pokemon in overalls and cowboy hat"
+      ],
+      "degen": [
+        "red vicious monster cryptopunk pokemon in overalls and cowboy hat",
+        "royal blue vicious monster cryptopunk pokemon in overalls and red cap",
+        "red monster cryptopunk pokemon in overalls and royal blue cap",
+        "green monster cryptopunk pokemon in overalls and royal blue cap",
+        "yellow monster cryptopunk pokemon in overalls and royal blue cap",
+        "Royal blue vicious monster cryptopunk pokemon in overalls and cowboy hat",
+        "green vicious monster cryptopunk pokemon in overalls and cowboy hat"
+      ]
+    }
+  },
+  {
+    "communityId": "FOXARIA",
+    "name": "Foxaria",
+    "symbol": "FOXARIA",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/FOXARIA.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "PARTNER"
+    ],
+    "prompts": {
+      "kawaii": [
+        "all black shadowy kawaii fox pokemon",
+        "all black shadowy kawaii fox pokemon in clothes"
+      ],
+      "dragon": [
+        "black shadowy fox dragon pokemon with wings",
+        "black shadowy fox dragon pokemon with wings and claws"
+      ],
+      "degen": [
+        "vicious black shadowy fox monster pokemon in clothes",
+        "vicious black shadowy fox monster pokemon"
+      ]
+    }
+  },
+  {
     "communityId": "PACAAI",
     "name": "Alpaca Network",
     "symbol": "PACAAI",
