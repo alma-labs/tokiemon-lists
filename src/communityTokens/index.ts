@@ -1,4 +1,9 @@
-import { CommunityToken } from "../types";
+import {
+  CommunityToken,
+  DEGEN_PREFIX,
+  DRAGON_PREFIX,
+  KAWAII_PREFIX,
+} from "../types";
 import {
   TOKIEMON_PROMPTS,
   HOLIDAY_PROMPTS,
@@ -80,6 +85,31 @@ export const communityTokens: CommunityToken[] = [
     tags: ["BASE", "MEME"],
     prompts: SQUIRT_PROMPTS,
     inactive: true,
+  },
+  {
+    communityId: "REGENERATES",
+    name: "Regenerates",
+    symbol: "REGENERATES",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/REGENERATES.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "PARTNER"],
+    artOverrides: {
+      kawaii: [
+        `${KAWAII_PREFIX}/REGENERATES1.png`,
+        `${KAWAII_PREFIX}/REGENERATES2.png`,
+      ],
+      dragon: [
+        `${DRAGON_PREFIX}/REGENERATES1.png`,
+        `${DRAGON_PREFIX}/REGENERATES2.png`,
+        `${DRAGON_PREFIX}/REGENERATES3.png`,
+      ],
+      degen: [
+        `${DEGEN_PREFIX}/REGENERATES1.png`,
+        `${DEGEN_PREFIX}/REGENERATES2.png`,
+        `${DEGEN_PREFIX}/REGENERATES3.png`,
+      ],
+    },
   },
   {
     communityId: "BARIO",
