@@ -307,6 +307,28 @@
     }
   },
   {
+    "communityId": "UPTOPIA",
+    "name": "UpTopia",
+    "symbol": "UPTOPIA",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/UPTOPIA.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "MEME"
+    ],
+    "prompts": {
+      "kawaii": [
+        "royal blue jellyfish kawaii pokemon with bubbles"
+      ],
+      "dragon": [
+        "large royal blue cute happy dragon jellyfish pokemon with big eyes"
+      ],
+      "degen": [
+        "large royal blue cute happy jellyfish pokemon with big eyes"
+      ]
+    }
+  },
+  {
     "communityId": "SQUIRT",
     "name": "Base is for...",
     "symbol": "SQUIRT",
