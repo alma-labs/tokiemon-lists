@@ -315,7 +315,18 @@
     "tags": [
       "BASE",
       "MEME"
-    ]
+    ],
+    "prompts": {
+      "kawaii": [
+        "royal blue jellyfish kawaii pokemon with bubbles"
+      ],
+      "dragon": [
+        "large royal blue cute happy dragon jellyfish pokemon with big eyes"
+      ],
+      "degen": [
+        "large royal blue cute happy jellyfish pokemon with big eyes"
+      ]
+    }
   },
   {
     "communityId": "SQUIRT",
