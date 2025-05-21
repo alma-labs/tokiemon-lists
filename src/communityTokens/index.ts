@@ -18,6 +18,7 @@ import {
   PACAAI_PROMPTS,
   BARIO_PROMPTS,
   FOXARIA_PROMPTS,
+  UPTOPIA_PROMPTS,
 } from "../prompts";
 
 export const communityTokens: CommunityToken[] = [
@@ -83,6 +84,7 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/UPTOPIA.png",
     extraPaymentTokens: [],
     tags: ["BASE", "MEME"],
+    prompts: UPTOPIA_PROMPTS,
   },
   {
     communityId: "SQUIRT",
