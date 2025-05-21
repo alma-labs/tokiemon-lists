@@ -55,7 +55,7 @@ export const CRAFTING_CATEGORIES: CraftingCategory[] = [
     image:
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/items/150.png",
     order: 8,
-    total: 63,
+    total: 64,
   },
   {
     name: "Tokie Trainer",

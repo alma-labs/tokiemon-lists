@@ -55,6 +55,16 @@ import {
   degen as degenPacai,
 } from "./PACAAI";
 import {
+  kawaii as kawaiiBario,
+  dragon as dragonBario,
+  degen as degenBario,
+} from "./BARIO";
+import {
+  kawaii as kawaiiFoxaria,
+  dragon as dragonFoxaria,
+  degen as degenFoxaria,
+} from "./FOXARIA";
+import {
   kawaii as kawaiiUpTopia,
   dragon as dragonUpTopia,
   degen as degenUpTopia,
@@ -118,6 +128,18 @@ export const PACAAI_PROMPTS = {
   kawaii: kawaiiPacai,
   dragon: dragonPacai,
   degen: degenPacai,
+};
+
+export const BARIO_PROMPTS = {
+  kawaii: kawaiiBario,
+  dragon: dragonBario,
+  degen: degenBario,
+};
+
+export const FOXARIA_PROMPTS = {
+  kawaii: kawaiiFoxaria,
+  dragon: dragonFoxaria,
+  degen: degenFoxaria,
 };
 
 export const UPTOPIA_PROMPTS = {

@@ -73,6 +73,55 @@
     "inactive": true
   },
   {
+    "communityId": "REGENERATES",
+    "name": "Regenerates",
+    "symbol": "REGENERATES",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/REGENERATES.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "PARTNER"
+    ],
+    "artOverrides": {
+      "kawaii": [
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/REGENERATES1.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/REGENERATES2.png"
+      ],
+      "dragon": [
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-dragon/REGENERATES1.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-dragon/REGENERATES2.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-dragon/REGENERATES3.png"
+      ],
+      "degen": [
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-degen/REGENERATES1.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-degen/REGENERATES2.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-degen/REGENERATES3.png"
+      ]
+    }
+  },
+  {
+    "communityId": "BARIO",
+    "name": "Bario",
+    "symbol": "BARIO",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BARIO.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "PARTNER"
+    ]
+  },
+  {
+    "communityId": "FOXARIA",
+    "name": "Foxaria",
+    "symbol": "FOXARIA",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/FOXARIA.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "PARTNER"
+    ]
+  },
+  {
     "communityId": "PACAAI",
     "name": "Alpaca Network",
     "symbol": "PACAAI",

@@ -20,6 +20,11 @@ export interface CommunityToken {
     dragon?: string[];
     degen?: string[];
   };
+  artOverrides?: {
+    kawaii?: string[];
+    dragon?: string[];
+    degen?: string[];
+  };
 }
 
 export interface PaymentToken {
@@ -67,3 +72,10 @@ export interface Quest {
   isActive: boolean;
   hint: string;
 }
+
+export const KAWAII_PREFIX =
+  "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii";
+export const DRAGON_PREFIX =
+  "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-dragon";
+export const DEGEN_PREFIX =
+  "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-degen";
