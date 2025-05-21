@@ -11,6 +11,7 @@ import {
   SQUIRT_PROMPTS,
   MNRY_PROMPTS,
   PACAAI_PROMPTS,
+  UPTOPIA_PROMPTS,
 } from "../prompts";
 
 export const communityTokens: CommunityToken[] = [
@@ -68,6 +69,16 @@ export const communityTokens: CommunityToken[] = [
   },
 
   // Prominent Base Memecoins & Partners
+  {
+    communityId: "UPTOPIA",
+    name: "UpTopia",
+    symbol: "UPTOPIA",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/UPTOPIA.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "MEME"],
+    prompts: UPTOPIA_PROMPTS,
+  },
   {
     communityId: "SQUIRT",
     name: "Base is for...",
