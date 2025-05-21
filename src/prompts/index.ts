@@ -64,6 +64,11 @@ import {
   dragon as dragonFoxaria,
   degen as degenFoxaria,
 } from "./FOXARIA";
+import {
+  kawaii as kawaiiUpTopia,
+  dragon as dragonUpTopia,
+  degen as degenUpTopia,
+} from "./UPTOPIA";
 
 export const TOKIEMON_PROMPTS = { kawaii, dragon, degen };
 export const HOLIDAY_PROMPTS = {
@@ -135,4 +140,10 @@ export const FOXARIA_PROMPTS = {
   kawaii: kawaiiFoxaria,
   dragon: dragonFoxaria,
   degen: degenFoxaria,
+};
+
+export const UPTOPIA_PROMPTS = {
+  kawaii: kawaiiUpTopia,
+  dragon: dragonUpTopia,
+  degen: degenUpTopia,
 };
