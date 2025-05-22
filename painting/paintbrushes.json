@@ -4,7 +4,6 @@
     "name": "Ninja",
     "selectionType": "random",
     "keywords": [
-      "Black ninja pokemon",
       "Ninja pokemon"
     ]
   },
@@ -21,7 +20,7 @@
     "name": "Starry",
     "selectionType": "always",
     "keywords": [
-      "Celestial Starry Pokemon"
+      "Starry Pokemon"
     ]
   },
   {
@@ -29,8 +28,7 @@
     "name": "Fossil",
     "selectionType": "random",
     "keywords": [
-      "Skeleton Pokemon",
-      "Bone Pokemon"
+      "Skeleton Pokemon"
     ]
   },
   {
@@ -38,7 +36,7 @@
     "name": "Electric",
     "selectionType": "always",
     "keywords": [
-      "Electric Lightning Pokemon"
+      "Electric Pokemon"
     ]
   }
 ]
