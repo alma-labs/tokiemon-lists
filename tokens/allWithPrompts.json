@@ -307,6 +307,35 @@
     }
   },
   {
+    "communityId": "BASEDMC",
+    "name": "Based Minecraft",
+    "symbol": "BASEDMC",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BASEDMC.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "MEME"
+    ],
+    "prompts": {
+      "kawaii": [
+        "minecraft creeper kawaii",
+        "minecraft creeper baby",
+        "minecraft enderman baby"
+      ],
+      "dragon": [
+        "minecraft creeper with wings and claws",
+        "minecraft enderman with wings and claws",
+        "minecraft creeper with wings"
+      ],
+      "degen": [
+        "minecraft zombie",
+        "minecraft enderman giant monster",
+        "minecraft creeper giant monster",
+        "minecraft enderman monster"
+      ]
+    }
+  },
+  {
     "communityId": "UPTOPIA",
     "name": "UpTopia",
     "symbol": "UPTOPIA",

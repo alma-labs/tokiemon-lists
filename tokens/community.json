@@ -8,6 +8,17 @@
     "tags": []
   },
   {
+    "communityId": "BASEDMC",
+    "name": "Based Minecraft",
+    "symbol": "BASEDMC",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BASEDMC.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "MEME"
+    ]
+  },
+  {
     "communityId": "UPTOPIA",
     "name": "UpTopia",
     "symbol": "UPTOPIA",
