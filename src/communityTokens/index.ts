@@ -19,6 +19,7 @@ import {
   BARIO_PROMPTS,
   FOXARIA_PROMPTS,
   UPTOPIA_PROMPTS,
+  BASEDMC_PROMPTS,
 } from "../prompts";
 
 export const communityTokens: CommunityToken[] = [
@@ -76,6 +77,16 @@ export const communityTokens: CommunityToken[] = [
   },
 
   // Prominent Base Memecoins & Partners
+  {
+    communityId: "BASEDMC",
+    name: "Based Minecraft",
+    symbol: "BASEDMC",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BASEDMC.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "MEME"],
+    prompts: BASEDMC_PROMPTS,
+  },
   {
     communityId: "UPTOPIA",
     name: "UpTopia",
