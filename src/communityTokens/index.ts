@@ -20,6 +20,7 @@ import {
   FOXARIA_PROMPTS,
   UPTOPIA_PROMPTS,
   BASEDMC_PROMPTS,
+  DAEMONS_PROMPTS,
 } from "../prompts";
 
 export const communityTokens: CommunityToken[] = [
@@ -77,6 +78,16 @@ export const communityTokens: CommunityToken[] = [
   },
 
   // Prominent Base Memecoins & Partners
+  {
+    communityId: "DAEMONS",
+    name: "Daemons",
+    symbol: "DAEMONS",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DAEMONS.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "PARTNER"],
+    prompts: DAEMONS_PROMPTS,
+  },
   {
     communityId: "BASEDMC",
     name: "Based Minecraft",

@@ -307,6 +307,29 @@
     }
   },
   {
+    "communityId": "DAEMONS",
+    "name": "Daemons",
+    "symbol": "DAEMONS",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DAEMONS.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "PARTNER"
+    ],
+    "prompts": {
+      "kawaii": [
+        "charmander t-rex kawaii pokemon with dark blue spikes on head and back"
+      ],
+      "dragon": [
+        "orange dinosaur dragon baby pokemon with dark blue spikes on head and back, wings",
+        "bright orange T-rex baby dragon body pokemon, blue spikes, orange wings, cream belly"
+      ],
+      "degen": [
+        "Bright orange T-rex Pokémon body with sharp blue spikes, cream colored belly"
+      ]
+    }
+  },
+  {
     "communityId": "BASEDMC",
     "name": "Based Minecraft",
     "symbol": "BASEDMC",

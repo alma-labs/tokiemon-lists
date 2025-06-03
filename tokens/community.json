@@ -8,6 +8,17 @@
     "tags": []
   },
   {
+    "communityId": "DAEMONS",
+    "name": "Daemons",
+    "symbol": "DAEMONS",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DAEMONS.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "PARTNER"
+    ]
+  },
+  {
     "communityId": "BASEDMC",
     "name": "Based Minecraft",
     "symbol": "BASEDMC",
