@@ -74,6 +74,11 @@ import {
   dragon as dragonBasedmc,
   degen as degenBasedmc,
 } from "./BASEDMC";
+import {
+  kawaii as kawaiiDaemons,
+  dragon as dragonDaemons,
+  degen as degenDaemons,
+} from "./DAEMONS";
 
 export const TOKIEMON_PROMPTS = { kawaii, dragon, degen };
 export const HOLIDAY_PROMPTS = {
@@ -157,4 +162,10 @@ export const BASEDMC_PROMPTS = {
   kawaii: kawaiiBasedmc,
   dragon: dragonBasedmc,
   degen: degenBasedmc,
+};
+
+export const DAEMONS_PROMPTS = {
+  kawaii: kawaiiDaemons,
+  dragon: dragonDaemons,
+  degen: degenDaemons,
 };
