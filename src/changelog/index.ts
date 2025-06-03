@@ -1,0 +1,15 @@
+import { Changelog } from "../types";
+
+export const changelogs: Changelog[] = [
+  {
+    title: "Changelog Notes 6/3",
+    date: "June 3, 2025",
+    changes: [
+      "Daemons Tokiemon Breed added",
+      "Iridescent Boy & Girl Skins added to Kawaii Capture. Paper Boy & Girl Skins removed from Kawaii Capture",
+      "Green Alien Skin added to Degen Capture (Total Supply 10). Sketch Book Boy and Girl Skins removed from Degen Capture",
+      "Grey Alien Skin Legendary Item added to Lootbox (Total Supply 10)",
+      "Base Blue Alien Skin added to Crafting (Total Supply 5)",
+    ],
+  },
+];

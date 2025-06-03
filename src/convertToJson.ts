@@ -190,3 +190,15 @@ try {
 } catch (error: any) {
   console.error(`❌ Error processing quests: ${error.message}`);
 }
+
+// Process changelogs
+try {
+  const { changelogs } = require("./changelog");
+  const changelogOutputDir = resolve(__dirname, "..");
+  const outputPath = resolve(changelogOutputDir, "changelog/changelog.json");
+  ensureDirectoryExists(resolve(changelogOutputDir, "changelog"));
+  writeFileSync(outputPath, JSON.stringify(changelogs, null, 2), "utf-8");
+  console.log(`✅ JSON file created: ${outputPath}`);
+} catch (error: any) {
+  console.error(`❌ Error processing changelogs: ${error.message}`);
+}
