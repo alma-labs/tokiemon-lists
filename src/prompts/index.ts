@@ -79,6 +79,11 @@ import {
   dragon as dragonDaemons,
   degen as degenDaemons,
 } from "./DAEMONS";
+import {
+  kawaii as kawaiiFarcaster,
+  dragon as dragonFarcaster,
+  degen as degenFarcaster,
+} from "./FARCASTER";
 
 export const TOKIEMON_PROMPTS = { kawaii, dragon, degen };
 export const HOLIDAY_PROMPTS = {
@@ -121,51 +126,48 @@ export const AIP_PROMPTS = {
   dragon: dragonAip,
   degen: degenAip,
 };
-
 export const SQUIRT_PROMPTS = {
   kawaii: kawaiiSquirt,
   dragon: dragonSquirt,
   degen: degenSquirt,
 };
-
 export const MNRY_PROMPTS = {
   kawaii: kawaiiMnry,
   dragon: dragonMnry,
   degen: degenMnry,
 };
-
 export const PACAAI_PROMPTS = {
   kawaii: kawaiiPacai,
   dragon: dragonPacai,
   degen: degenPacai,
 };
-
 export const BARIO_PROMPTS = {
   kawaii: kawaiiBario,
   dragon: dragonBario,
   degen: degenBario,
 };
-
 export const FOXARIA_PROMPTS = {
   kawaii: kawaiiFoxaria,
   dragon: dragonFoxaria,
   degen: degenFoxaria,
 };
-
 export const UPTOPIA_PROMPTS = {
   kawaii: kawaiiUpTopia,
   dragon: dragonUpTopia,
   degen: degenUpTopia,
 };
-
 export const BASEDMC_PROMPTS = {
   kawaii: kawaiiBasedmc,
   dragon: dragonBasedmc,
   degen: degenBasedmc,
 };
-
 export const DAEMONS_PROMPTS = {
   kawaii: kawaiiDaemons,
   dragon: dragonDaemons,
   degen: degenDaemons,
+};
+export const FARCASTER_PROMPTS = {
+  kawaii: kawaiiFarcaster,
+  dragon: dragonFarcaster,
+  degen: degenFarcaster,
 };
