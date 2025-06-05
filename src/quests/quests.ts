@@ -4,25 +4,26 @@ const PLACEHOLDER_IMAGE =
   "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/placeholder.png";
 
 export const quests: Quest[] = [
+// CURRENT HIGHEST QUEST ID = 26
   {
-    questId: 25,
-    id: "become_based",
-    name: "Become Based",
+    questId: 26,
+    id: "farcaster_master",
+    name: "Farcaster Master",
     image:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/become-based.png",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/farcaster-master.png",
     type: "Story",
     questPoints: 1,
-    description: "Craft a Base Shirt.",
-    requirements: ["A Base Shirt"],
+    description: "Mint or Capture a premium Farcaster Tokiemon & gain some of its magic prowess!",
+    requirements: ["Mint or Capture a Farcaster Kawaii, Dragon, or Degen Tokiemon"],
     rewards: [
-      { itemId: "803", amount: 1 }, // 1 Base Blue Boy Skin
-      { itemId: "808", amount: 1 }, // 1 Base Blue Girl Skin
+      { itemId: "844", amount: 1 }, // 1 Farcaster Wizard Skin
+      { itemId: "845", amount: 1 }, // 1 Farcaster Witch Skin
     ],
-    check: "Player has crafted a Base Shirt",
+    check: "Player has minted or captured a Farcaster Kawaii, Dragon, or Degen Tokiemon",
     verified: false,
     isActive: true,
-    hint: "Go to the Crafting Workshop and craft a Base Shirt!",
-  },
+    hint: "Go to the Mint or Capture tab and mint or capture a Farcaster Kawaii, Dragon, or Degen Tokiemon!",
+  }, 
   {
     questId: 0,
     id: "first_tokiemon",
@@ -512,5 +513,24 @@ export const quests: Quest[] = [
     verified: false,
     isActive: false,
     hint: "Go to the Crafting Workshop and sacrifice a Tokiemon to the altar!",
+  },
+  {
+    questId: 25,
+    id: "become_based",
+    name: "Become Based",
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/become-based.png",
+    type: "Story",
+    questPoints: 1,
+    description: "Craft a Base Shirt.",
+    requirements: ["A Base Shirt"],
+    rewards: [
+      { itemId: "803", amount: 1 }, // 1 Base Blue Boy Skin
+      { itemId: "808", amount: 1 }, // 1 Base Blue Girl Skin
+    ],
+    check: "Player has crafted a Base Shirt",
+    verified: false,
+    isActive: true,
+    hint: "Go to the Crafting Workshop and craft a Base Shirt!",
   },
 ];
