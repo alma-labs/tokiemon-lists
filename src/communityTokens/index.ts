@@ -21,6 +21,7 @@ import {
   UPTOPIA_PROMPTS,
   BASEDMC_PROMPTS,
   DAEMONS_PROMPTS,
+  FARCASTER_PROMPTS,
 } from "../prompts";
 
 export const communityTokens: CommunityToken[] = [
@@ -78,6 +79,16 @@ export const communityTokens: CommunityToken[] = [
   },
 
   // Prominent Base Memecoins & Partners
+  {
+    communityId: "FARCASTER",
+    name: "Farcaster",
+    symbol: "FARCASTER",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/FARCASTER.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "PARTNER"],
+    prompts: FARCASTER_PROMPTS,
+  },
   {
     communityId: "DAEMONS",
     name: "Daemons",
