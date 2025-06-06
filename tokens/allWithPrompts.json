@@ -307,6 +307,30 @@
     }
   },
   {
+    "communityId": "SOS",
+    "name": "SOS",
+    "symbol": "SOS",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SOS.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "PARTNER"
+    ],
+    "prompts": {
+      "kawaii": [
+        "pirate parrot kawaii pokemon with pirate hat",
+        "pirate skeleton kawaii pokemon with pirate hat and red beard"
+      ],
+      "dragon": [
+        "pirate skeleton dragon pokemon with red beard and pirate hat, wings"
+      ],
+      "degen": [
+        "pirate skeleton pokemon with red beard and pirate hat",
+        "pirate skeleton pokemon with red beard and pirate hat, and pirate sword"
+      ]
+    }
+  },
+  {
     "communityId": "FARCASTER",
     "name": "Farcaster",
     "symbol": "FARCASTER",

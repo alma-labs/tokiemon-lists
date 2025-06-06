@@ -50,6 +50,17 @@
     "inactive": true
   },
   {
+    "communityId": "SOS",
+    "name": "SOS",
+    "symbol": "SOS",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SOS.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "PARTNER"
+    ]
+  },
+  {
     "communityId": "FARCASTER",
     "name": "Farcaster",
     "symbol": "FARCASTER",

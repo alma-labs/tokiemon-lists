@@ -79,11 +79,16 @@ import {
   dragon as dragonDaemons,
   degen as degenDaemons,
 } from "./DAEMONS";
+  import {
+    kawaii as kawaiiFarcaster,
+    dragon as dragonFarcaster,
+    degen as degenFarcaster,
+  } from "./FARCASTER";
 import {
-  kawaii as kawaiiFarcaster,
-  dragon as dragonFarcaster,
-  degen as degenFarcaster,
-} from "./FARCASTER";
+  kawaii as kawaiiSos,
+  dragon as dragonSos,
+  degen as degenSos,
+} from "./SOS";
 
 export const TOKIEMON_PROMPTS = { kawaii, dragon, degen };
 export const HOLIDAY_PROMPTS = {
@@ -170,4 +175,9 @@ export const FARCASTER_PROMPTS = {
   kawaii: kawaiiFarcaster,
   dragon: dragonFarcaster,
   degen: degenFarcaster,
+};
+export const SOS_PROMPTS = {
+  kawaii: kawaiiSos,
+  dragon: dragonSos,
+  degen: degenSos,
 };
