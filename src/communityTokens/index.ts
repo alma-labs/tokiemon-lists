@@ -22,6 +22,7 @@ import {
   BASEDMC_PROMPTS,
   DAEMONS_PROMPTS,
   FARCASTER_PROMPTS,
+  SOS_PROMPTS,
 } from "../prompts";
 
 export const communityTokens: CommunityToken[] = [
@@ -79,6 +80,16 @@ export const communityTokens: CommunityToken[] = [
   },
 
   // Prominent Base Memecoins & Partners
+  {
+    communityId: "SOS",
+    name: "SOS",
+    symbol: "SOS",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SOS.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "PARTNER"],
+    prompts: SOS_PROMPTS,
+  },
   {
     communityId: "FARCASTER",
     name: "Farcaster",
