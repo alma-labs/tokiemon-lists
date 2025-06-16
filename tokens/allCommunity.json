@@ -25,7 +25,13 @@
     "tags": [
       "LIMITED"
     ],
-    "inactive": true
+    "hunting": {
+      "capture": true,
+      "scene": "TOWN",
+      "only": true,
+      "premium": false
+    },
+    "inactive": false
   },
   {
     "communityId": "VTINE",
