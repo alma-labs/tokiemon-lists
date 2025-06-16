@@ -15,10 +15,10 @@ export interface CommunityToken {
   >;
   extraPaymentTokens?: PaymentToken[];
   hunting?: {
-    capture?: boolean;
-    scene?: string;
-    only?: boolean;
-    premium?: boolean;
+    capture?: boolean; // If the token can be captured via hunting encounters
+    scene?: string; // The scene where the token can be captured (TOWN, WOODS, FARM, BEACH, ISLAND)
+    only?: boolean; // If the token is only available via hunting encounters (not mintable)
+    premium?: boolean; // If the token is a premium breed (requires a v-card to encounter)
   };
   inactive?: boolean;
   prompts?: {
