@@ -14,7 +14,12 @@ export interface CommunityToken {
     | "LIMITED"
   >;
   extraPaymentTokens?: PaymentToken[];
-  captureOnly?: boolean;
+  hunting?: {
+    capture?: boolean;
+    scene?: string;
+    only?: boolean;
+    premium?: boolean;
+  };
   inactive?: boolean;
   prompts?: {
     kawaii?: string[];
