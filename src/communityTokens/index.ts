@@ -23,6 +23,7 @@ import {
   DAEMONS_PROMPTS,
   FARCASTER_PROMPTS,
   SOS_PROMPTS,
+  TOPI_PROMPTS,
 } from "../prompts";
 
 export const communityTokens: CommunityToken[] = [
@@ -86,6 +87,16 @@ export const communityTokens: CommunityToken[] = [
   },
 
   // Prominent Base Memecoins & Partners
+  {
+    communityId: "TOPI",
+    name: "Topi",
+    symbol: "TOPI",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/TOPI.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "PARTNER"],
+    prompts: TOPI_PROMPTS,
+  },
   {
     communityId: "SOS",
     name: "SOS",

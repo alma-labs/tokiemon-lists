@@ -313,6 +313,30 @@
     }
   },
   {
+    "communityId": "TOPI",
+    "name": "Topi",
+    "symbol": "TOPI",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/TOPI.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "PARTNER"
+    ],
+    "prompts": {
+      "kawaii": [
+        "royal blue shy guy monster pokemon with white mask. Royal blue clothes"
+      ],
+      "dragon": [
+        "giant vicious royal blue shy guy dragon pokemon with white mask. Royal blue clothes",
+        "royal blue shy guy dragon pokemon with white mask. Royal blue clothes",
+        "royal blue shy guy dragon pokemon with white mask and wings. Royal blue clothes"
+      ],
+      "degen": [
+        "giant vicious royal blue shy guy pokemon with white mask. Royal blue clothes"
+      ]
+    }
+  },
+  {
     "communityId": "SOS",
     "name": "SOS",
     "symbol": "SOS",

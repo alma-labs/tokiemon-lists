@@ -25,6 +25,17 @@
     "inactive": false
   },
   {
+    "communityId": "TOPI",
+    "name": "Topi",
+    "symbol": "TOPI",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/TOPI.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "PARTNER"
+    ]
+  },
+  {
     "communityId": "SOS",
     "name": "SOS",
     "symbol": "SOS",
