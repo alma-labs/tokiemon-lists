@@ -48,22 +48,22 @@ export const communityTokens: CommunityToken[] = [
     prompts: EASTER_PROMPTS,
     inactive: true,
   },
-  {
-    communityId: "ETHDEN",
-    name: "Eth Denver",
-    symbol: "ETHDEN",
-    logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ETHDEN.png",
-    extraPaymentTokens: [],
-    tags: ["LIMITED"],
-    hunting: {
-      capture: true,
-      scene: "TOWN",
-      only: true,
-      premium: false,
-    },
-    inactive: false,
-  },
+  // {
+  //   communityId: "ETHDEN",
+  //   name: "Eth Denver",
+  //   symbol: "ETHDEN",
+  //   logoURI:
+  //     "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ETHDEN.png",
+  //   extraPaymentTokens: [],
+  //   tags: ["LIMITED"],
+  //   hunting: {
+  //     capture: true,
+  //     scene: "TOWN",
+  //     only: true,
+  //     premium: false,
+  //   },
+  //   inactive: false,
+  // },
   {
     communityId: "VTINE",
     name: "Valentine's",
@@ -985,5 +985,21 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DEVCON.png",
     extraPaymentTokens: [],
     tags: [],
+  },
+  {
+    communityId: "ETHDEN",
+    name: "Eth Denver",
+    symbol: "ETHDEN",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ETHDEN.png",
+    extraPaymentTokens: [],
+    tags: ["LIMITED"],
+    hunting: {
+      capture: true,
+      scene: "TOWN",
+      only: true,
+      premium: false,
+    },
+    inactive: false,
   },
 ];
