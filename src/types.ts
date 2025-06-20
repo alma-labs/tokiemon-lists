@@ -33,7 +33,7 @@ export interface CommunityToken {
   };
 }
 
-export type HuntingScene = "TOWN" | "WOODS";
+export type HuntingScene = "TOWN" | "WOODS" | "FARM";
 
 export interface PaymentToken {
   name: string;

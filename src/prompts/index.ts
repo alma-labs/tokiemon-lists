@@ -94,6 +94,11 @@ import {
   dragon as dragonTopi,
   degen as degenTopi,
 } from "./TOPI";
+import {
+  kawaii as kawaiiLoffy,
+  dragon as dragonLoffy,
+  degen as degenLoffy,
+} from "./LOFFY";
 
 export const TOKIEMON_PROMPTS = { kawaii, dragon, degen };
 export const HOLIDAY_PROMPTS = {
@@ -190,4 +195,9 @@ export const TOPI_PROMPTS = {
   kawaii: kawaiiTopi,
   dragon: dragonTopi,
   degen: degenTopi,
+};
+export const LOFFY_PROMPTS = {
+  kawaii: kawaiiLoffy,
+  dragon: dragonLoffy,
+  degen: degenLoffy,
 };
