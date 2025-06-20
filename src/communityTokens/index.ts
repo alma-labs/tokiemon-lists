@@ -718,7 +718,7 @@ export const communityTokens: CommunityToken[] = [
     name: "ApeBond",
     symbol: "ABOND",
     logoURI:
-      "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ABOND.png",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ABOND.png",
     extraPaymentTokens: [],
     tags: ["PARTNER"],
     hunting: {
