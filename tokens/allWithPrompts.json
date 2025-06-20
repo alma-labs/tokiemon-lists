@@ -162,6 +162,12 @@
         "Scorpioneagle pokemon with missile array",
         "Cobradrake pokemon with venom breath"
       ]
+    },
+    "hunting": {
+      "capture": true,
+      "scene": "TOWN",
+      "only": false,
+      "premium": false
     }
   },
   {
@@ -433,6 +439,12 @@
       "degen": [
         "Bright orange T-rex Pokémon body with sharp blue spikes, cream colored belly"
       ]
+    },
+    "hunting": {
+      "capture": true,
+      "scene": "WOODS",
+      "only": false,
+      "premium": false
     }
   },
   {
@@ -737,7 +749,13 @@
     "tags": [
       "BASE",
       "MEME"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "TOWN",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "AERO",
@@ -766,7 +784,13 @@
     ],
     "tags": [
       "BASE"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "TOWN",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "TOSHI",
@@ -777,7 +801,13 @@
     "tags": [
       "BASE",
       "MEME"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "TOWN",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "AVI",
@@ -850,7 +880,13 @@
     "tags": [
       "BASE",
       "MEME"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "TOWN",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "BASEDPEPE",
@@ -1011,7 +1047,13 @@
       "PARTNER",
       "MEME",
       "BASE"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "TOWN",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "MIGGLES",
@@ -1044,7 +1086,13 @@
       "PARTNER",
       "MEME",
       "BASE"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "WOODS",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "UNLUCKY",
@@ -1056,7 +1104,13 @@
       "PARTNER",
       "MEME",
       "BASE"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "TOWN",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "HIGHER",
@@ -1109,7 +1163,13 @@
     "tags": [
       "BASE",
       "MEME"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "WOODS",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "RGOAT",
@@ -1161,7 +1221,13 @@
     "tags": [
       "BASE",
       "MEME"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "WOODS",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "GMR",
@@ -1239,7 +1305,13 @@
     "extraPaymentTokens": [],
     "tags": [
       "PARTNER"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "WOODS",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "DMAIL",
@@ -1291,7 +1363,13 @@
     "extraPaymentTokens": [],
     "tags": [
       "BASE"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "WOODS",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "PRIME",
@@ -1321,7 +1399,13 @@
     "extraPaymentTokens": [],
     "tags": [
       "DEFI"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "WOODS",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "AAVE",
@@ -1412,7 +1496,13 @@
     "extraPaymentTokens": [],
     "tags": [
       "BLUECHIP"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "TOWN",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "ETH",
@@ -1422,7 +1512,13 @@
     "extraPaymentTokens": [],
     "tags": [
       "BLUECHIP"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "TOWN",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "USDC",
@@ -1432,7 +1528,13 @@
     "extraPaymentTokens": [],
     "tags": [
       "BLUECHIP"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "WOODS",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "DAI",
@@ -1483,7 +1585,13 @@
     "tags": [
       "BLUECHIP",
       "MEME"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "WOODS",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "SHIB",
@@ -1513,7 +1621,13 @@
     "extraPaymentTokens": [],
     "tags": [
       "MEME"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "WOODS",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "SOL",
@@ -1579,9 +1693,9 @@
     "tags": [],
     "hunting": {
       "capture": true,
-      "scene": "WOODS",
+      "scene": "TOWN",
       "only": false,
-      "premium": false
+      "premium": true
     }
   },
   {
