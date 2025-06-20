@@ -24,6 +24,7 @@ import {
   FARCASTER_PROMPTS,
   SOS_PROMPTS,
   TOPI_PROMPTS,
+  LOFFY_PROMPTS,
 } from "../prompts";
 
 export const communityTokens: CommunityToken[] = [
@@ -87,6 +88,22 @@ export const communityTokens: CommunityToken[] = [
   },
 
   // Prominent Base Memecoins & Partners
+  {
+    communityId: "LOFFY",
+    name: "Loffy",
+    symbol: "LOFFY",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/LOFFY.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "PARTNER"],
+    hunting: {
+      capture: true,
+      scene: "FARM",
+      only: false,
+      premium: false,
+    },
+    prompts: LOFFY_PROMPTS,
+  },
   {
     communityId: "TOPI",
     name: "Topi",
