@@ -62,6 +62,17 @@
     "inactive": true
   },
   {
+    "communityId": "FACTOR",
+    "name": "FactorFi",
+    "symbol": "FACTOR",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/FACTOR.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "PARTNER"
+    ]
+  },
+  {
     "communityId": "LOFFY",
     "name": "Loffy",
     "symbol": "LOFFY",
