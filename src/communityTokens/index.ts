@@ -25,6 +25,7 @@ import {
   SOS_PROMPTS,
   TOPI_PROMPTS,
   LOFFY_PROMPTS,
+  FACTOR_PROMPTS,
 } from "../prompts";
 
 export const communityTokens: CommunityToken[] = [
@@ -213,6 +214,16 @@ export const communityTokens: CommunityToken[] = [
       only: true,
       premium: true,
     },
+  },
+  {
+    communityId: "FACTOR",
+    name: "FactorFi",
+    symbol: "FACTOR",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/FACTOR.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "PARTNER"],
+    prompts: FACTOR_PROMPTS,
   },
   {
     communityId: "LOFFY",
