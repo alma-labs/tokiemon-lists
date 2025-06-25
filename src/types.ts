@@ -12,6 +12,7 @@ export interface CommunityToken {
     | "MEME"
     | "AI"
     | "LIMITED"
+    | "HUNTER"
   >;
   extraPaymentTokens?: PaymentToken[];
   hunting?: {
