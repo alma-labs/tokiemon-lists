@@ -31,12 +31,6 @@
     "tags": [
       "LIMITED"
     ],
-    "hunting": {
-      "capture": true,
-      "scene": "TOWN",
-      "only": true,
-      "premium": false
-    },
     "inactive": true
   },
   {
