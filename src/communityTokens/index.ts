@@ -64,12 +64,6 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ETHDEN.png",
     extraPaymentTokens: [],
     tags: ["LIMITED"],
-    hunting: {
-      capture: true,
-      scene: "TOWN",
-      only: true,
-      premium: false,
-    },
     inactive: true,
   },
   {
