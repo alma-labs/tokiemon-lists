@@ -2,6 +2,11 @@ import { Changelog } from "../types";
 
 export const changelogs: Changelog[] = [
   {
+    title: "Changelog Notes 6/27",
+    date: "June 27, 2025",
+    changes: ["Hunter Skill Soft Launch, gg."],
+  },
+  {
     title: "Changelog Notes 6/17",
     date: "June 17, 2025",
     changes: [
