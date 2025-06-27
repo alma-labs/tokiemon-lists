@@ -88,131 +88,129 @@ export const communityTokens: CommunityToken[] = [
     prompts: HOLIDAY_PROMPTS,
   },
 
+  // Premium Hunter Tokens
+  {
+    communityId: "BEETLE",
+    name: "Beetle",
+    symbol: "BEETLE",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BEETLE.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+    hunting: {
+      capture: true,
+      scene: "WOODS",
+      only: true,
+      premium: true,
+    },
+  },
+  {
+    communityId: "MANTIS",
+    name: "Mantis",
+    symbol: "MANTIS",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MANTIS.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+    hunting: {
+      capture: true,
+      scene: "WOODS",
+      only: true,
+      premium: true,
+    },
+  },
+  {
+    communityId: "BEE",
+    name: "Bee",
+    symbol: "BEE",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BEE.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+    hunting: {
+      capture: true,
+      scene: "WOODS",
+      only: true,
+      premium: true,
+    },
+  },
+  {
+    communityId: "WOODS",
+    name: "Woods",
+    symbol: "WOODS",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/WOODS.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+    hunting: {
+      capture: true,
+      scene: "WOODS",
+      only: true,
+      premium: true,
+    },
+  },
+  {
+    communityId: "ELECTRIC",
+    name: "Electric",
+    symbol: "ELECTRIC",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ELECTRIC.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+    hunting: {
+      capture: true,
+      scene: "TOWN",
+      only: true,
+      premium: true,
+    },
+  },
+  {
+    communityId: "FIRE",
+    name: "Fire",
+    symbol: "FIRE",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/FIRE.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+    hunting: {
+      capture: true,
+      scene: "TOWN",
+      only: true,
+      premium: true,
+    },
+  },
+  {
+    communityId: "LEAF",
+    name: "Leaf",
+    symbol: "LEAF",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/LEAF.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+    hunting: {
+      capture: true,
+      scene: "TOWN",
+      only: true,
+      premium: true,
+    },
+  },
+  {
+    communityId: "BASETOWN",
+    name: "Basetown",
+    symbol: "BASETOWN",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BASETOWN.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+    hunting: {
+      capture: true,
+      scene: "TOWN",
+      only: true,
+      premium: true,
+    },
+  },
+
   // Prominent Base Memecoins & Partners
-
-  // Premium hunting tokens
-  // {
-  //   communityId: "BEETLE",
-  //   name: "Beetle",
-  //   symbol: "BEETLE",
-  //   logoURI:
-  //     "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BEETLE.png",
-  //   extraPaymentTokens: [],
-  //   tags: ["HUNTER"],
-  //   hunting: {
-  //     capture: true,
-  //     scene: "WOODS",
-  //     only: true,
-  //     premium: true,
-  //   },
-  // },
-  // {
-  //   communityId: "MANTIS",
-  //   name: "Mantis",
-  //   symbol: "MANTIS",
-  //   logoURI:
-  //     "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MANTIS.png",
-  //   extraPaymentTokens: [],
-  //   tags: ["HUNTER"],
-  //   hunting: {
-  //     capture: true,
-  //     scene: "WOODS",
-  //     only: true,
-  //     premium: true,
-  //   },
-  // },
-  // {
-  //   communityId: "BEE",
-  //   name: "Bee",
-  //   symbol: "BEE",
-  //   logoURI:
-  //     "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BEE.png",
-  //   extraPaymentTokens: [],
-  //   tags: ["HUNTER"],
-  //   hunting: {
-  //     capture: true,
-  //     scene: "WOODS",
-  //     only: true,
-  //     premium: true,
-  //   },
-  // },
-  // {
-  //   communityId: "WOODS",
-  //   name: "Woods",
-  //   symbol: "WOODS",
-  //   logoURI:
-  //     "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/WOODS.png",
-  //   extraPaymentTokens: [],
-  //   tags: ["HUNTER"],
-  //   hunting: {
-  //     capture: true,
-  //     scene: "WOODS",
-  //     only: true,
-  //     premium: true,
-  //   },
-  // },
-  // {
-  //   communityId: "ELECTRIC",
-  //   name: "Electric",
-  //   symbol: "ELECTRIC",
-  //   logoURI:
-  //     "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ELECTRIC.png",
-  //   extraPaymentTokens: [],
-  //   tags: ["HUNTER"],
-  //   hunting: {
-  //     capture: true,
-  //     scene: "TOWN",
-  //     only: true,
-  //     premium: true,
-  //   },
-  // },
-  // {
-  //   communityId: "FIRE",
-  //   name: "Fire",
-  //   symbol: "FIRE",
-  //   logoURI:
-  //     "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/FIRE.png",
-  //   extraPaymentTokens: [],
-  //   tags: ["HUNTER"],
-  //   hunting: {
-  //     capture: true,
-  //     scene: "TOWN",
-  //     only: true,
-  //     premium: true,
-  //   },
-  // },
-  // {
-  //   communityId: "LEAF",
-  //   name: "Leaf",
-  //   symbol: "LEAF",
-  //   logoURI:
-  //     "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/LEAF.png",
-  //   extraPaymentTokens: [],
-  //   tags: ["HUNTER"],
-  //   hunting: {
-  //     capture: true,
-  //     scene: "TOWN",
-  //     only: true,
-  //     premium: true,
-  //   },
-  // },
-  // {
-  //   communityId: "BASETOWN",
-  //   name: "Basetown",
-  //   symbol: "BASETOWN",
-  //   logoURI:
-  //     "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BASETOWN.png",
-  //   extraPaymentTokens: [],
-  //   tags: ["HUNTER"],
-  //   hunting: {
-  //     capture: true,
-  //     scene: "TOWN",
-  //     only: true,
-  //     premium: true,
-  //   },
-  //},
-
-  // Add any new tokens before the hunting update here for the time being
   {
     communityId: "FACTOR",
     name: "FactorFi",
