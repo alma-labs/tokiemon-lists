@@ -26,6 +26,14 @@ import {
   TOPI_PROMPTS,
   LOFFY_PROMPTS,
   FACTOR_PROMPTS,
+  BEETLE_PROMPTS,
+  MANTIS_PROMPTS,
+  BEE_PROMPTS,
+  WOODS_PROMPTS,
+  ELECTRIC_PROMPTS,
+  FIRE_PROMPTS,
+  LEAF_PROMPTS,
+  BASETOWN_PROMPTS,
 } from "../prompts";
 
 export const communityTokens: CommunityToken[] = [
@@ -103,6 +111,7 @@ export const communityTokens: CommunityToken[] = [
       only: true,
       premium: true,
     },
+    prompts: BEETLE_PROMPTS,
   },
   {
     communityId: "MANTIS",
@@ -118,6 +127,7 @@ export const communityTokens: CommunityToken[] = [
       only: true,
       premium: true,
     },
+    prompts: MANTIS_PROMPTS,
   },
   {
     communityId: "BEE",
@@ -133,6 +143,7 @@ export const communityTokens: CommunityToken[] = [
       only: true,
       premium: true,
     },
+    prompts: BEE_PROMPTS,
   },
   {
     communityId: "WOODS",
@@ -148,6 +159,7 @@ export const communityTokens: CommunityToken[] = [
       only: true,
       premium: true,
     },
+    prompts: WOODS_PROMPTS,
   },
   {
     communityId: "ELECTRIC",
@@ -163,6 +175,7 @@ export const communityTokens: CommunityToken[] = [
       only: true,
       premium: true,
     },
+    prompts: ELECTRIC_PROMPTS,
   },
   {
     communityId: "FIRE",
@@ -178,6 +191,7 @@ export const communityTokens: CommunityToken[] = [
       only: true,
       premium: true,
     },
+    prompts: FIRE_PROMPTS,
   },
   {
     communityId: "LEAF",
@@ -193,6 +207,7 @@ export const communityTokens: CommunityToken[] = [
       only: true,
       premium: true,
     },
+    prompts: LEAF_PROMPTS,
   },
   {
     communityId: "BASETOWN",
@@ -208,6 +223,7 @@ export const communityTokens: CommunityToken[] = [
       only: true,
       premium: true,
     },
+    prompts: BASETOWN_PROMPTS,
   },
 
   // Prominent Base Memecoins & Partners

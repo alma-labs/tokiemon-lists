@@ -326,6 +326,29 @@
       "scene": "WOODS",
       "only": true,
       "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "Stag beetle kawaii pokemon",
+        "Beetle kawaii pokemon",
+        "Stag beetle",
+        "cute stag beetle kawaii pokemon",
+        "Cute beetle kawaii pokemon"
+      ],
+      "dragon": [
+        "Stag beetle dragon",
+        "Stag beetle dragon pokemon",
+        "Beetle dragon",
+        "Beetle dragon pokemon"
+      ],
+      "degen": [
+        "Beetle monster pokemon",
+        "Stag beetle monster pokemon",
+        "Vicious beetle pokemon with fangs and wings",
+        "Vicious beetle pokemon",
+        "Vicious stag beetle pokemon with fangs",
+        "majestic evolved stag beetle monster pokemon"
+      ]
     }
   },
   {
@@ -342,6 +365,29 @@
       "scene": "WOODS",
       "only": true,
       "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "Mantis kawaii pokemon",
+        "Cute mantis kawaii pokemon",
+        "Cute mantis",
+        "Cute praying mantis"
+      ],
+      "dragon": [
+        "Mantis dragon pokemon",
+        "Praying mantis dragon pokemon",
+        "Praying mantis dragon pokemon with fangs and wings",
+        "Mantis dragon pokemon with fangs and wings"
+      ],
+      "degen": [
+        "vicious mantis monster pokemon",
+        "vicious praying mantis monster pokemon",
+        "vicious praying mantis monster pokemon with fangs and wings",
+        "vicious mantis monster pokemon with fangs and wings",
+        "red hulking vicious praying mantis monster pokemon with fangs and wings",
+        "hulking vicious mantis monster pokemon with blade arms",
+        "majestic evolved mantis pokemon"
+      ]
     }
   },
   {
@@ -358,6 +404,24 @@
       "scene": "WOODS",
       "only": true,
       "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "Bee pokemon",
+        "Cute bee pokemon",
+        "Cute bee kawaii pokemon"
+      ],
+      "dragon": [
+        "bee dragon pokemon",
+        "bee dragon pokemon with wings and fangs"
+      ],
+      "degen": [
+        "hulking vicious bee monster pokemon",
+        "vicious bee monster pokemon",
+        "large vicious bee pokemon",
+        "large vicious bee pokemon with fangs and claws",
+        "majestic evolved bee pokemon with stinger"
+      ]
     }
   },
   {
@@ -374,6 +438,28 @@
       "scene": "WOODS",
       "only": true,
       "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "kawaii caterpie pokemon",
+        "cute caterpillar",
+        "cute caterpillar pokemon",
+        "cute woods caterpillar",
+        "cute green chrysalis pokemon"
+      ],
+      "dragon": [
+        "dragon caterpillar pokemon",
+        "dragon caterpillar pokemon with wings",
+        "dragon chrysalis pokemon"
+      ],
+      "degen": [
+        "caterpillar monster pokemon",
+        "vicious caterpillar monster pokemon",
+        "vicious caterpillar monster pokemon with fangs and claws",
+        "majestic evolved caterpillar pokemon",
+        "majestic evolved chrysalis pokemon",
+        "chrysalis monster pokemon"
+      ]
     }
   },
   {
@@ -390,6 +476,25 @@
       "scene": "TOWN",
       "only": true,
       "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "red kawaii chick pokemon covered in lightning and electricity",
+        "red kawaii chick pokemon covered in lightning",
+        "red kawaii chick pokemon covered in electricity",
+        "red kawaii chicken pokemon covered in electricity"
+      ],
+      "dragon": [
+        "red chick dragon pokemon covered in electricity",
+        "red chick dragon pokemon covered in electricity and lightning",
+        "red chicken dragon pokemon covered in electricity and lightning"
+      ],
+      "degen": [
+        "red chicken monster pokemon covered in electricity and lightning",
+        "vicious red chick monster pokemon covered in electricity and lightning",
+        "vicious red chicken fighting monster pokemon covered in electricity and lightning",
+        "vicious red chick fighting monster pokemon covered in electricity and lightning"
+      ]
     }
   },
   {
@@ -406,6 +511,25 @@
       "scene": "TOWN",
       "only": true,
       "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "cute yellow turtle fire kawaii pokemon covered in flames standing upright",
+        "cute yellow lava fire turtle kawaii pokemon with flames on its back",
+        "cute yellow lava fire turtle kawaii pokemon with flames"
+      ],
+      "dragon": [
+        "yellow dragon turtle pokemon with flames on its back",
+        "yellow turtle fire pokemon covered in flames standing upright",
+        "yellow turtle dragon pokemon with flames and wings",
+        "yellow dragon turtle pokemon with flames and wings",
+        "yellow turtle dragon pokemon covered in flames and wings"
+      ],
+      "degen": [
+        "yellow turtle monster pokemon covered in flames",
+        "majestic evolved yellow turtle monster pokemon covered in flames",
+        "majestic evolved yellow turtle monster pokemon covered in flames standing upright"
+      ]
     }
   },
   {
@@ -422,6 +546,25 @@
       "scene": "TOWN",
       "only": true,
       "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "green kawaii green leafy pokemon",
+        "leaf covered pokemon",
+        "kawaii pokemon covered in leaves"
+      ],
+      "dragon": [
+        "green leafy dragon pokemon",
+        "vicious leafy dragon pokemon",
+        "green vicious leafy dragon pokemon"
+      ],
+      "degen": [
+        "vicious leafy monster pokemon",
+        "leaf monster pokemon",
+        "vicious leaf pokemon",
+        "majestic evolved leaf pokemon",
+        "majestic evolved leaf monster pokemon"
+      ]
     }
   },
   {
@@ -438,6 +581,23 @@
       "scene": "TOWN",
       "only": true,
       "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "blue dragon kawaii pokemon with baseball cap",
+        "dragon kawaii pokemon with baseball cap",
+        "dragon kawaii with baseball cap"
+      ],
+      "dragon": [
+        "dragon pokemon with baseball cap",
+        "large dragon pokemon with baseball cap"
+      ],
+      "degen": [
+        "large dragon monster pokemon with baseball cap",
+        "large dragon monster pokemon with baseball cap with baseball",
+        "vicious dragon monster pokemon with baseball cap",
+        "majestic evolved dragon pokemon with baseball cap"
+      ]
     }
   },
   {
