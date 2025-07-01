@@ -49,4 +49,22 @@ export const paintbrushes: Paintbrush[] = [
     selectionType: "always",
     keywords: ["Green Zombie Pokemon"],
   },
+  {
+    itemId: "867",
+    name: "Feather",
+    selectionType: "always",
+    keywords: ["Bird Pokemon"],
+  },
+  {
+    itemId: "868",
+    name: "Insect",
+    selectionType: "random",
+    keywords: ["Stag Beetle Pokemon", "Spider Pokemon", "Bee Pokemon"],
+  },
+  {
+    itemId: "869",
+    name: "Berserker",
+    selectionType: "always",
+    keywords: ["Berserker Pokemon with Axes"],
+  },
 ];
