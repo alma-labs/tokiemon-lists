@@ -104,6 +104,46 @@ import {
   dragon as dragonFactor,
   degen as degenFactor,
 } from "./FACTOR";
+import {
+  kawaii as kawaiiBasetown,
+  dragon as dragonBasetown,
+  degen as degenBasetown,
+} from "./BASETOWN";
+import {
+  kawaii as kawaiiLeaf,
+  dragon as dragonLeaf,
+  degen as degenLeaf,
+} from "./LEAF";
+import {
+  kawaii as kawaiiFire,
+  dragon as dragonFire,
+  degen as degenFire,
+} from "./FIRE";
+import {
+  kawaii as kawaiiElectric,
+  dragon as dragonElectric,
+  degen as degenElectric,
+} from "./ELECTRIC";
+import {
+  kawaii as kawaiiWoods,
+  dragon as dragonWoods,
+  degen as degenWoods,
+} from "./WOODS";
+import {
+  kawaii as kawaiiBee,
+  dragon as dragonBee,
+  degen as degenBee,
+} from "./BEE";
+import {
+  kawaii as kawaiiMantis,
+  dragon as dragonMantis,
+  degen as degenMantis,
+} from "./MANTIS";
+import {
+  kawaii as kawaiiBeetle,
+  dragon as dragonBeetle,
+  degen as degenBeetle,
+} from "./BEETLE";
 
 export const TOKIEMON_PROMPTS = { kawaii, dragon, degen };
 export const HOLIDAY_PROMPTS = {
@@ -205,9 +245,49 @@ export const LOFFY_PROMPTS = {
   kawaii: kawaiiLoffy,
   dragon: dragonLoffy,
   degen: degenLoffy,
+  };
+  export const FACTOR_PROMPTS = {
+    kawaii: kawaiiFactor,
+    dragon: dragonFactor,
+    degen: degenFactor,
 };
-export const FACTOR_PROMPTS = {
-  kawaii: kawaiiFactor,
-  dragon: dragonFactor,
-  degen: degenFactor,
+export const BASETOWN_PROMPTS = {
+  kawaii: kawaiiBasetown,
+  dragon: dragonBasetown,
+  degen: degenBasetown,
+};
+export const LEAF_PROMPTS = {
+  kawaii: kawaiiLeaf,
+  dragon: dragonLeaf,
+  degen: degenLeaf,
+};
+export const FIRE_PROMPTS = {
+  kawaii: kawaiiFire,
+  dragon: dragonFire,
+  degen: degenFire,
+};
+export const ELECTRIC_PROMPTS = {
+  kawaii: kawaiiElectric,
+  dragon: dragonElectric,
+  degen: degenElectric,
+};
+export const WOODS_PROMPTS = {
+  kawaii: kawaiiWoods,
+  dragon: dragonWoods,
+  degen: degenWoods,
+};
+export const BEE_PROMPTS = {
+  kawaii: kawaiiBee,
+  dragon: dragonBee,
+  degen: degenBee,
+};
+export const MANTIS_PROMPTS = {
+  kawaii: kawaiiMantis,
+  dragon: dragonMantis,
+  degen: degenMantis,
+};
+export const BEETLE_PROMPTS = {
+  kawaii: kawaiiBeetle,
+  dragon: dragonBeetle,
+  degen: degenBeetle,
 };
