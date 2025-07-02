@@ -239,7 +239,13 @@
     "tags": [
       "BASE",
       "MEME"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "REGENERATES",
@@ -277,7 +283,13 @@
     "tags": [
       "BASE",
       "PARTNER"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "FARM",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "FOXARIA",
@@ -288,7 +300,13 @@
     "tags": [
       "BASE",
       "PARTNER"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "FARM",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "PACAAI",
@@ -299,7 +317,13 @@
     "tags": [
       "BASE",
       "PARTNER"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "FARM",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "CATTOWN",
@@ -310,7 +334,13 @@
     "tags": [
       "BASE",
       "PARTNER"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "FARM",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "MNRY",
@@ -359,7 +389,13 @@
     "extraPaymentTokens": [],
     "tags": [
       "BASE"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "DEGEN",
@@ -423,7 +459,13 @@
     "tags": [
       "BASE",
       "MEME"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "COOKIE",
@@ -473,7 +515,13 @@
     "tags": [
       "BASE",
       "MEME"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "FARM",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "SKI",
@@ -496,7 +544,13 @@
       "BASE",
       "SOLANA",
       "MEME"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "DICKBUTT",
@@ -518,7 +572,13 @@
     "tags": [
       "BASE",
       "MEME"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "FARM",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "SPX",
@@ -610,7 +670,13 @@
       "PARTNER",
       "MEME",
       "BASE"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "FARM",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "TIMI",
@@ -726,7 +792,13 @@
       "PARTNER",
       "MEME",
       "BASE"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "FARM",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "MCADE",
@@ -831,7 +903,13 @@
     "tags": [
       "PARTNER",
       "BASE"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "ABOND",
@@ -961,7 +1039,13 @@
     "extraPaymentTokens": [],
     "tags": [
       "DEFI"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "COMP",
@@ -1011,7 +1095,13 @@
     "tags": [
       "DEFI",
       "BASE"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "COW",
@@ -1022,7 +1112,13 @@
     "tags": [
       "DEFI",
       "BASE"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "FARM",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "BTC",
@@ -1147,7 +1243,13 @@
     "extraPaymentTokens": [],
     "tags": [
       "MEME"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "FLOKI",
@@ -1174,7 +1276,13 @@
     "tags": [
       "SOLANA",
       "BLUECHIP"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "FARM",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "WIF",
@@ -1218,7 +1326,13 @@
     "tags": [
       "SOLANA",
       "MEME"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "OMNI",
@@ -1226,7 +1340,13 @@
     "symbol": "OMNI",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/OMNI.png",
     "extraPaymentTokens": [],
-    "tags": []
+    "tags": [],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "COPI",

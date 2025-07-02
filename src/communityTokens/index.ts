@@ -317,6 +317,12 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/UPTOPIA.png",
     extraPaymentTokens: [],
     tags: ["BASE", "MEME"],
+    hunting: {
+      capture: true,
+      scene: "BEACH",
+      only: false,
+      premium: false,
+    },
     prompts: UPTOPIA_PROMPTS,
   },
   {
@@ -363,6 +369,12 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BARIO.png",
     extraPaymentTokens: [],
     tags: ["BASE", "PARTNER"],
+    hunting: {
+      capture: true,
+      scene: "FARM",
+      only: false,
+      premium: false,
+    },
     prompts: BARIO_PROMPTS,
   },
   {
@@ -373,6 +385,12 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/FOXARIA.png",
     extraPaymentTokens: [],
     tags: ["BASE", "PARTNER"],
+    hunting: {
+      capture: true,
+      scene: "FARM",
+      only: false,
+      premium: false,
+    },
     prompts: FOXARIA_PROMPTS,
   },
   {
@@ -383,6 +401,12 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/PACAAI.png",
     extraPaymentTokens: [],
     tags: ["BASE", "PARTNER"],
+    hunting: {
+      capture: true,
+      scene: "FARM",
+      only: false,
+      premium: false,
+    },
     prompts: PACAAI_PROMPTS,
   },
   {
@@ -393,6 +417,12 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/CATTOWN.png",
     extraPaymentTokens: [],
     tags: ["BASE", "PARTNER"],
+    hunting: {
+      capture: true,
+      scene: "FARM",
+      only: false,
+      premium: false,
+    },
     prompts: CATTOWN_PROMPTS,
   },
   {
@@ -438,6 +468,12 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/AERO.png",
     extraPaymentTokens: [],
     tags: ["BASE"],
+    hunting: {
+      capture: true,
+      scene: "BEACH",
+      only: false,
+      premium: false,
+    },
   },
   {
     communityId: "DEGEN",
@@ -497,6 +533,12 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SECRET.png",
     extraPaymentTokens: [],
     tags: ["BASE", "MEME"],
+    hunting: {
+      capture: true,
+      scene: "BEACH",
+      only: false,
+      premium: false,
+    },
   },
   {
     communityId: "COOKIE",
@@ -539,6 +581,12 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BODA.png",
     extraPaymentTokens: [],
     tags: ["BASE", "MEME"],
+    hunting: {
+      capture: true,
+      scene: "FARM",
+      only: false,
+      premium: false,
+    },
     prompts: BODA_PROMPTS,
   },
   {
@@ -558,6 +606,12 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MOG.png",
     extraPaymentTokens: [],
     tags: ["BASE", "SOLANA", "MEME"],
+    hunting: {
+      capture: true,
+      scene: "BEACH",
+      only: false,
+      premium: false,
+    },
   },
   {
     communityId: "DICKBUTT",
@@ -577,6 +631,12 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ALB.png",
     extraPaymentTokens: [],
     tags: ["BASE", "MEME"],
+    hunting: {
+      capture: true,
+      scene: "FARM",
+      only: false,
+      premium: false,
+    },
   },
   {
     communityId: "SPX",
@@ -657,6 +717,12 @@ export const communityTokens: CommunityToken[] = [
       },
     ],
     tags: ["PARTNER", "MEME", "BASE"],
+    hunting: {
+      capture: true,
+      scene: "FARM",
+      only: false,
+      premium: false,
+    },
   },
   {
     communityId: "TIMI",
@@ -758,6 +824,12 @@ export const communityTokens: CommunityToken[] = [
       },
     ],
     tags: ["PARTNER", "MEME", "BASE"],
+    hunting: {
+      capture: true,
+      scene: "FARM",
+      only: false,
+      premium: false,
+    },
   },
   {
     communityId: "MCADE",
@@ -855,6 +927,12 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MONEY.png",
     extraPaymentTokens: [],
     tags: ["PARTNER", "BASE"],
+    hunting: {
+      capture: true,
+      scene: "BEACH",
+      only: false,
+      premium: false,
+    },
   },
   {
     communityId: "ABOND",
@@ -976,6 +1054,12 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/CRV.png",
     extraPaymentTokens: [],
     tags: ["DEFI"],
+    hunting: {
+      capture: true,
+      scene: "BEACH",
+      only: false,
+      premium: false,
+    },
   },
   {
     communityId: "COMP",
@@ -1022,6 +1106,12 @@ export const communityTokens: CommunityToken[] = [
       },
     ],
     tags: ["DEFI", "BASE"],
+    hunting: {
+      capture: true,
+      scene: "BEACH",
+      only: false,
+      premium: false,
+    },
   },
   {
     communityId: "COW",
@@ -1031,6 +1121,12 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/COW.png",
     extraPaymentTokens: [],
     tags: ["DEFI", "BASE"],
+    hunting: {
+      capture: true,
+      scene: "FARM",
+      only: false,
+      premium: false,
+    },
   },
 
   // Bluechips & Stables
@@ -1149,6 +1245,12 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/PEPE.png",
     extraPaymentTokens: [],
     tags: ["MEME"],
+    hunting: {
+      capture: true,
+      scene: "BEACH",
+      only: false,
+      premium: false,
+    },
   },
   {
     communityId: "FLOKI",
@@ -1175,6 +1277,12 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SOL.png",
     extraPaymentTokens: [],
     tags: ["SOLANA", "BLUECHIP"],
+    hunting: {
+      capture: true,
+      scene: "FARM",
+      only: false,
+      premium: false,
+    },
   },
   {
     communityId: "WIF",
@@ -1211,6 +1319,12 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MOODENG.png",
     extraPaymentTokens: [],
     tags: ["SOLANA", "MEME"],
+    hunting: {
+      capture: true,
+      scene: "BEACH",
+      only: false,
+      premium: false,
+    },
   },
   {
     communityId: "OMNI",
@@ -1220,12 +1334,12 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/OMNI.png",
     extraPaymentTokens: [],
     tags: [],
-    // hunting: {
-    //   capture: true,
-    //   scene: "BEACH",
-    //   only: false,
-    //   premium: false,
-    // },
+    hunting: {
+      capture: true,
+      scene: "BEACH",
+      only: false,
+      premium: false,
+    },
   },
   {
     communityId: "COPI",
