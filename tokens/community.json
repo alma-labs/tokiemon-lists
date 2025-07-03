@@ -14,6 +14,134 @@
     }
   },
   {
+    "communityId": "SHARK",
+    "name": "Shark",
+    "symbol": "SHARK",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SHARK.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": true,
+      "premium": true
+    }
+  },
+  {
+    "communityId": "CROC",
+    "name": "Croc",
+    "symbol": "CROC",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/CROC.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": true,
+      "premium": true
+    }
+  },
+  {
+    "communityId": "SEAHORSE",
+    "name": "Seahorse",
+    "symbol": "SEAHORSE",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SEAHORSE.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": true,
+      "premium": true
+    }
+  },
+  {
+    "communityId": "BEACH",
+    "name": "Beach",
+    "symbol": "BEACH",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BEACH.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": true,
+      "premium": true
+    }
+  },
+  {
+    "communityId": "HORSE",
+    "name": "Horse",
+    "symbol": "HORSE",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/HORSE.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "FARM",
+      "only": true,
+      "premium": true
+    }
+  },
+  {
+    "communityId": "PIG",
+    "name": "Pig",
+    "symbol": "PIG",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/PIG.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "FARM",
+      "only": true,
+      "premium": true
+    }
+  },
+  {
+    "communityId": "SHEEP",
+    "name": "Sheep",
+    "symbol": "SHEEP",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SHEEP.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "FARM",
+      "only": true,
+      "premium": true
+    }
+  },
+  {
+    "communityId": "FARM",
+    "name": "Farm",
+    "symbol": "FARM",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/FARM.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "FARM",
+      "only": true,
+      "premium": true
+    }
+  },
+  {
     "communityId": "BEETLE",
     "name": "Beetle",
     "symbol": "BEETLE",

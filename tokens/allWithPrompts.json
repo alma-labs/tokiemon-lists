@@ -313,6 +313,283 @@
     }
   },
   {
+    "communityId": "SHARK",
+    "name": "Shark",
+    "symbol": "SHARK",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SHARK.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": true,
+      "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "red kawaii shark pokemon",
+        "cute red kawaii shark pokemon",
+        "cute red kawaii baby shark",
+        "cute red kawaii shark",
+        "cute red shark pokemon"
+      ],
+      "dragon": [
+        "red shark dragon pokemon",
+        "red dragon shark pokemon with wings",
+        "red dragon shark pokemon with wings and fangs",
+        "dragon shark pokemon with wings and fangs"
+      ],
+      "degen": [
+        "red shark monster pokemon",
+        "vicious red shark monster pokemon",
+        "hulking vicious red shark monster pokemon",
+        "angry hulking vicious red shark monster pokemon"
+      ]
+    }
+  },
+  {
+    "communityId": "CROC",
+    "name": "Croc",
+    "symbol": "CROC",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/CROC.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": true,
+      "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "purple crocodile kawaii pokemon",
+        "cute purple crocodile kawaii pokemon",
+        "cute purple kawaii crocodile",
+        "vicious cute purple kawaii crocodile pokemon"
+      ],
+      "dragon": [
+        "purple crocodile dragon pokemon",
+        "purple dragon crocodile pokemon",
+        "purple dragon crocodile pokemon with wings and fangs"
+      ],
+      "degen": [
+        "purple crocodile monster pokemon",
+        "purple monster crocodile pokemon",
+        "vicious purple monster crocodile pokemon",
+        "majestic evolved purple crocodile pokemon"
+      ]
+    }
+  },
+  {
+    "communityId": "SEAHORSE",
+    "name": "Seahorse",
+    "symbol": "SEAHORSE",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SEAHORSE.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": true,
+      "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "kawaii seahorse pokemon",
+        "cute kawaii seahorse pokemon",
+        "happy kawaii seahorse pokemon"
+      ],
+      "dragon": [
+        "seahorse dragon pokemon",
+        "dragon seahorse pokemon",
+        "dragon seahorse pokemon with wings and claws"
+      ],
+      "degen": [
+        "seahorse monster pokemon",
+        "vicious seahorse monster pokemon",
+        "angry vicious seahorse monster pokemon"
+      ]
+    }
+  },
+  {
+    "communityId": "BEACH",
+    "name": "Beach",
+    "symbol": "BEACH",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BEACH.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": true,
+      "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "bright colored hermit crab kawaii pokemon",
+        "happy bright colored hermit crab kawaii pokemon",
+        "happy bright colored hermit crab pokemon"
+      ],
+      "dragon": [
+        "happy bright colored hermit crab dragon pokemon",
+        "happy bright colored dragon hermit crab pokemon",
+        "happy bright colored dragon hermit crab pokemon with wings",
+        "bright colored dragon hermit crab pokemon with wings"
+      ],
+      "degen": [
+        "bright colored hermit crab monster pokemon",
+        "large vicious bright colored hermit crab monster pokemon",
+        "angry large vicious bright colored hermit crab monster pokemon",
+        "majestic evolved bright colored hermit crab monster pokemon"
+      ]
+    }
+  },
+  {
+    "communityId": "HORSE",
+    "name": "Horse",
+    "symbol": "HORSE",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/HORSE.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "FARM",
+      "only": true,
+      "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "cute blue and white kawaii icy horse pokemon",
+        "blue and white kawaii icy horse pokemon",
+        "cute blue and white kawaii icy horse pokemon covered in ice"
+      ],
+      "dragon": [
+        "blue and white horse dragon pokemon covered in ice",
+        "blue and white dragon horse pokemon",
+        "blue and white horse pokemon with wings covered in ice",
+        "blue and white horse pokemon with wings covered in ice"
+      ],
+      "degen": [
+        "blue and white horse pokemon with wings covered in ice",
+        "blue and white horse pokemon covered in ice",
+        "blue and white horse monster pokemon covered in ice",
+        "vicious blue and white horse monster pokemon covered in ice"
+      ]
+    }
+  },
+  {
+    "communityId": "PIG",
+    "name": "Pig",
+    "symbol": "PIG",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/PIG.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "FARM",
+      "only": true,
+      "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "purple kawaii pig pokemon",
+        "purple cute pig pokemon",
+        "Purple pig pokemon",
+        "Purple pig"
+      ],
+      "dragon": [
+        "purple pig dragon pokemon",
+        "purple dragon pig pokemon",
+        "purple dragon pig pokemon with wings and fangs"
+      ],
+      "degen": [
+        "Purple pig monster pokemon",
+        "vicious purple pig monster pokemon",
+        "hulking vicious purple pig monster pokemon",
+        "majestic evolved purple pig monster pokemon",
+        "Large majestic evolved purple pig pokemon"
+      ]
+    }
+  },
+  {
+    "communityId": "SHEEP",
+    "name": "Sheep",
+    "symbol": "SHEEP",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SHEEP.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "FARM",
+      "only": true,
+      "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "red and white kawaii ram pokemon",
+        "cute red and white kawaii ram pokemon",
+        "happy cute red and white kawaii ram pokemon"
+      ],
+      "dragon": [
+        "red and white ram dragon pokemon",
+        "red and white dragon ram pokemon with wings"
+      ],
+      "degen": [
+        "red and white monster ram pokemon",
+        "large vicious red and white monster ram pokemon",
+        "large vicious red and white ram monster pokemon"
+      ]
+    }
+  },
+  {
+    "communityId": "FARM",
+    "name": "Farm",
+    "symbol": "FARM",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/FARM.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "FARM",
+      "only": true,
+      "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "kawaii scarecrow farm pokemon",
+        "Kawaii scarecrow pokemon",
+        "cute kawaii scarecrow monster pokemon",
+        "Cute scarecrow pokemon"
+      ],
+      "dragon": [
+        "scarecrow dragon pokemon",
+        "cute scarecrow dragon pokemon",
+        "Dragon scarecrow pokemon"
+      ],
+      "degen": [
+        "monster scarecrow pokemon",
+        "vicious monster scarecrow pokemon",
+        "evolved majestic scarecrow pokemon"
+      ]
+    }
+  },
+  {
     "communityId": "BEETLE",
     "name": "Beetle",
     "symbol": "BEETLE",

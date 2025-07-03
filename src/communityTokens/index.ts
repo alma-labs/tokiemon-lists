@@ -34,6 +34,14 @@ import {
   FIRE_PROMPTS,
   LEAF_PROMPTS,
   BASETOWN_PROMPTS,
+  FARM_PROMPTS,
+  SHEEP_PROMPTS,
+  PIG_PROMPTS,
+  HORSE_PROMPTS,
+  BEACH_PROMPTS,
+  SEAHORSE_PROMPTS,
+  CROC_PROMPTS,
+  SHARK_PROMPTS,
 } from "../prompts";
 
 export const communityTokens: CommunityToken[] = [
@@ -97,6 +105,134 @@ export const communityTokens: CommunityToken[] = [
   },
 
   // Premium Hunter Tokens
+  {
+    communityId: "SHARK",
+    name: "Shark",
+    symbol: "SHARK",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SHARK.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+    hunting: {
+      capture: true,
+      scene: "BEACH",
+      only: true,
+      premium: true,
+    },
+    prompts: SHARK_PROMPTS,
+  },
+  {
+    communityId: "CROC",
+    name: "Croc",
+    symbol: "CROC",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/CROC.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+    hunting: {
+      capture: true,
+      scene: "BEACH",
+      only: true,
+      premium: true,
+    },
+    prompts: CROC_PROMPTS,
+  },
+  {
+    communityId: "SEAHORSE",
+    name: "Seahorse",
+    symbol: "SEAHORSE",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SEAHORSE.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+    hunting: {
+      capture: true,
+      scene: "BEACH",
+      only: true,
+      premium: true,
+    },
+    prompts: SEAHORSE_PROMPTS,
+  },
+  {
+    communityId: "BEACH",
+    name: "Beach",
+    symbol: "BEACH",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BEACH.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+    hunting: {
+      capture: true,
+      scene: "BEACH",
+      only: true,
+      premium: true,
+    },
+    prompts: BEACH_PROMPTS,
+  },
+  {
+    communityId: "HORSE",
+    name: "Horse",
+    symbol: "HORSE",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/HORSE.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+    hunting: {
+      capture: true,
+      scene: "FARM",
+      only: true,
+      premium: true,
+    },
+    prompts: HORSE_PROMPTS,
+  },
+  {
+    communityId: "PIG",
+    name: "Pig",
+    symbol: "PIG",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/PIG.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+    hunting: {
+      capture: true,
+      scene: "FARM",
+      only: true,
+      premium: true,
+    },
+    prompts: PIG_PROMPTS,
+  },
+  {
+    communityId: "SHEEP",
+    name: "Sheep",
+    symbol: "SHEEP",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SHEEP.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+    hunting: {
+      capture: true,
+      scene: "FARM",
+      only: true,
+      premium: true,
+    },
+    prompts: SHEEP_PROMPTS,
+  },
+  {
+    communityId: "FARM",
+    name: "Farm",
+    symbol: "FARM",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/FARM.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+    hunting: {
+      capture: true,
+      scene: "FARM",
+      only: true,
+      premium: true,
+    },
+    prompts: FARM_PROMPTS,
+  },
   {
     communityId: "BEETLE",
     name: "Beetle",
