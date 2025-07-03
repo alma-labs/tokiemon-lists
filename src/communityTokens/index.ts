@@ -537,12 +537,6 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/PACAAI.png",
     extraPaymentTokens: [],
     tags: ["BASE", "PARTNER"],
-    hunting: {
-      capture: true,
-      scene: "FARM",
-      only: false,
-      premium: false,
-    },
     prompts: PACAAI_PROMPTS,
   },
   {

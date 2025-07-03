@@ -445,13 +445,7 @@
     "tags": [
       "BASE",
       "PARTNER"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "FARM",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "CATTOWN",
