@@ -184,6 +184,16 @@ import {
   dragon as dragonShark,
   degen as degenShark,
 } from "./SHARK";
+import {
+  kawaii as kawaiiSummer,
+  dragon as dragonSummer,
+  degen as degenSummer,
+} from "./SUMMER";
+import {
+  kawaii as kawaiiHydrex,
+  dragon as dragonHydrex,
+  degen as degenHydrex,
+} from "./HYDREX";
 
 export const TOKIEMON_PROMPTS = { kawaii, dragon, degen };
 export const HOLIDAY_PROMPTS = {
@@ -370,4 +380,14 @@ export const SHARK_PROMPTS = {
   kawaii: kawaiiShark,
   dragon: dragonShark,
   degen: degenShark,
+};
+export const SUMMER_PROMPTS = {
+  kawaii: kawaiiSummer,
+  dragon: dragonSummer,
+  degen: degenSummer,
+};
+export const HYDREX_PROMPTS = {
+  kawaii: kawaiiHydrex,
+  dragon: dragonHydrex,
+  degen: degenHydrex,
 };

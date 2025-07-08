@@ -171,6 +171,43 @@
     }
   },
   {
+    "communityId": "SUMMER",
+    "name": "Hot Onchain Summer",
+    "symbol": "SUMMER",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SUMMER.png",
+    "extraPaymentTokens": [],
+    "tags": [],
+    "prompts": {
+      "kawaii": [
+        "colorful monster Pokemon, holding a colorful ice cream cone",
+        "colorful cute popsicle pokemon with face and eyes",
+        "colorful baby shark pokemon",
+        "colorful dolphin kawaii pokemon",
+        "colorful kawaii crab pokemon"
+      ],
+      "dragon": [
+        "dragon Pokemon with vibrant scales and wings, holding a colorful ice cream cone",
+        "summer sand castle dragon pokemon",
+        "colorful summer crab dragon pokemon with wings",
+        "colorful summer shark dragon pokemon with wings",
+        "summer multi colorful dolphin dragon pokemon with wings"
+      ],
+      "degen": [
+        "summer sand castle monster pokemon",
+        "vicious large colorful summer monster pokemon holding ice cream cone",
+        "large summer multi colored colorful vicious shark monster pokemon",
+        "large summer multi colored colorful vicious dolphin monster pokemon",
+        "large summer multi colored colorful vicious crab monster pokemon"
+      ]
+    },
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": false,
+      "premium": false
+    }
+  },
+  {
     "communityId": "EASTER",
     "name": "Easter",
     "symbol": "EASTER",
@@ -878,6 +915,34 @@
     }
   },
   {
+    "communityId": "HYDREX",
+    "name": "Hydrex",
+    "symbol": "HYDREX",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/HYDREX.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "PARTNER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": false,
+      "premium": false
+    },
+    "prompts": {
+      "kawaii": [
+        "royal blue multi head hydra kawaii pokemon with multiple heads"
+      ],
+      "dragon": [
+        "royal blue hydra dragon pokemon with multiple heads"
+      ],
+      "degen": [
+        "royal blue hydra pokemon with multiple heads"
+      ]
+    }
+  },
+  {
     "communityId": "FACTOR",
     "name": "FactorFi",
     "symbol": "FACTOR",
@@ -1372,13 +1437,7 @@
     "extraPaymentTokens": [],
     "tags": [
       "BASE"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "BEACH",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "DEGEN",
@@ -1570,13 +1629,7 @@
       "BASE",
       "SOLANA",
       "MEME"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "BEACH",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "DICKBUTT",

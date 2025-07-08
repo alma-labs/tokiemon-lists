@@ -14,6 +14,20 @@
     }
   },
   {
+    "communityId": "SUMMER",
+    "name": "Hot Onchain Summer",
+    "symbol": "SUMMER",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SUMMER.png",
+    "extraPaymentTokens": [],
+    "tags": [],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": false,
+      "premium": false
+    }
+  },
+  {
     "communityId": "SHARK",
     "name": "Shark",
     "symbol": "SHARK",
@@ -270,6 +284,23 @@
     }
   },
   {
+    "communityId": "HYDREX",
+    "name": "Hydrex",
+    "symbol": "HYDREX",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/HYDREX.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "PARTNER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": false,
+      "premium": false
+    }
+  },
+  {
     "communityId": "FACTOR",
     "name": "FactorFi",
     "symbol": "FACTOR",
@@ -511,13 +542,7 @@
     "extraPaymentTokens": [],
     "tags": [
       "BASE"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "BEACH",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "DEGEN",
@@ -666,13 +691,7 @@
       "BASE",
       "SOLANA",
       "MEME"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "BEACH",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "DICKBUTT",
