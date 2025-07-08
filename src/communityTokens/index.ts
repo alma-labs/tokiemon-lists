@@ -42,6 +42,8 @@ import {
   SEAHORSE_PROMPTS,
   CROC_PROMPTS,
   SHARK_PROMPTS,
+  SUMMER_PROMPTS,
+  HYDREX_PROMPTS,
 } from "../prompts";
 
 export const communityTokens: CommunityToken[] = [
@@ -57,6 +59,22 @@ export const communityTokens: CommunityToken[] = [
     hunting: {
       capture: true,
       scene: "TOWN",
+      only: false,
+      premium: false,
+    },
+  },
+  {
+    communityId: "SUMMER",
+    name: "Hot Onchain Summer",
+    symbol: "SUMMER",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SUMMER.png",
+    extraPaymentTokens: [],
+    tags: [],
+    prompts: SUMMER_PROMPTS,
+    hunting: {
+      capture: true,
+      scene: "BEACH",
       only: false,
       premium: false,
     },
@@ -364,6 +382,22 @@ export const communityTokens: CommunityToken[] = [
 
   // Prominent Base Memecoins & Partners
   {
+    communityId: "HYDREX",
+    name: "Hydrex",
+    symbol: "HYDREX",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/HYDREX.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "PARTNER"],
+    hunting: {
+      capture: true,
+      scene: "BEACH",
+      only: false,
+      premium: false,
+    },
+    prompts: HYDREX_PROMPTS,
+  },
+  {
     communityId: "FACTOR",
     name: "FactorFi",
     symbol: "FACTOR",
@@ -598,12 +632,6 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/AERO.png",
     extraPaymentTokens: [],
     tags: ["BASE"],
-    hunting: {
-      capture: true,
-      scene: "BEACH",
-      only: false,
-      premium: false,
-    },
   },
   {
     communityId: "DEGEN",
@@ -736,12 +764,6 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MOG.png",
     extraPaymentTokens: [],
     tags: ["BASE", "SOLANA", "MEME"],
-    hunting: {
-      capture: true,
-      scene: "BEACH",
-      only: false,
-      premium: false,
-    },
   },
   {
     communityId: "DICKBUTT",

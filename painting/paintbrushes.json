@@ -90,5 +90,37 @@
     "keywords": [
       "Berserker Pokemon with Axes"
     ]
+  },
+  {
+    "itemId": "913",
+    "name": "Summer",
+    "selectionType": "always",
+    "keywords": [
+      "Summer Beach Pokemon"
+    ]
+  },
+  {
+    "itemId": "914",
+    "name": "Sea Serpent",
+    "selectionType": "always",
+    "keywords": [
+      "Gyarados Serpent Pokemon"
+    ]
+  },
+  {
+    "itemId": "915",
+    "name": "Mermaid",
+    "selectionType": "always",
+    "keywords": [
+      "Mermaid Pokemon"
+    ]
+  },
+  {
+    "itemId": "916",
+    "name": "Surfer",
+    "selectionType": "always",
+    "keywords": [
+      "Surfing Pokemon"
+    ]
   }
 ]

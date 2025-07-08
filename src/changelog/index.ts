@@ -2,6 +2,15 @@ import { Changelog } from "../types";
 
 export const changelogs: Changelog[] = [
   {
+    title: "Changelog Notes 7/8",
+    date: "July 8, 2025",
+    changes: ["Summer Items added to lootboxes and capture.",
+      "Added Summer & Hydrex Tokiemon Breeds.",
+      "Added Farm & Beach areas with Hunter encounters.",
+      "Added Onchain Summer Quest."
+      ],
+  },
+  {
     title: "Changelog Notes 7/1",
     date: "July 1, 2025",
     changes: ["Icy Blue Boy & Girl Skins added to Kawaii Capture and Shadow Boy & Girl Skins removed from Kawaii Capture. Feather Paintbrush added to Kawaii Capture and Fairy Paintbrush removed from Kawaii Capture.",

@@ -4,8 +4,26 @@ const PLACEHOLDER_IMAGE =
   "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/placeholder.png";
 
 export const quests: Quest[] = [
-// CURRENT HIGHEST QUEST ID = 26
-  {
+// CURRENT HIGHEST QUEST ID = 27
+{
+  questId: 27,
+  id: "onchain_summer",
+  name: "Onchain Summer",
+  image:
+    "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/onchain-summer.png",
+  type: "Task",
+  questPoints: 1,
+  description: "Mint or Capture a premium Onchain Summer Tokiemon & take in some summer vibes!",
+  requirements: ["Mint or Capture a Summer Kawaii, Dragon, or Degen Tokiemon"],
+  rewards: [
+    { itemId: "870", amount: 5 }, // 5 Summer Shards
+  ],
+  check: "Player has minted or captured a Summer Kawaii, Dragon, or Degen Tokiemon",
+  verified: false,
+  isActive: true,
+  hint: "Go to the Mint or Capture tab and mint or capture a Summer Kawaii, Dragon, or Degen Tokiemon!",
+},  
+{
     questId: 26,
     id: "farcaster_master",
     name: "Farcaster Master",
