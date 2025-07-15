@@ -943,6 +943,66 @@
     }
   },
   {
+    "communityId": "PANIC",
+    "name": "Panic",
+    "symbol": "PANIC",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/PANIC.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "PARTNER"
+    ],
+    "artOverrides": {
+      "kawaii": [
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/PANICKAWAII1.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/PANICKAWAII2.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/PANICKAWAII3.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/PANICKAWAII4.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/PANICKAWAII5.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/PANICKAWAII6.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/PANICKAWAII7.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/PANICKAWAII8.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/PANICKAWAII9.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/PANICKAWAII10.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/PANICKAWAII11.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/PANICKAWAII12.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/PANICKAWAII13.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/PANICKAWAII14.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/PANICKAWAII15.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/PANICKAWAII16.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/PANICKAWAII17.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/PANICKAWAII18.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/PANICKAWAII19.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/PANICKAWAII20.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/PANICKAWAII21.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/PANICKAWAII22.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/PANICKAWAII23.png"
+      ],
+      "dragon": [
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-dragon/PANICDRAGON1.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-dragon/PANICDRAGON2.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-dragon/PANICDRAGON3.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-dragon/PANICDRAGON4.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-dragon/PANICDRAGON5.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-dragon/PANICDRAGON6.png"
+      ],
+      "degen": [
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-degen/PANICDEGEN1.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-degen/PANICDEGEN2.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-degen/PANICDEGEN3.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-degen/PANICDEGEN4.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-degen/PANICDEGEN5.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-degen/PANICDEGEN6.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-degen/PANICDEGEN7.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-degen/PANICDEGEN8.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-degen/PANICDEGEN9.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-degen/PANICDEGEN10.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-degen/PANICDEGEN11.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-degen/PANICDEGEN12.png"
+      ]
+    }
+  },
+  {
     "communityId": "FACTOR",
     "name": "FactorFi",
     "symbol": "FACTOR",
