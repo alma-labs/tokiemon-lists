@@ -91,4 +91,22 @@ export const paintbrushes: Paintbrush[] = [
     selectionType: "always",
     keywords: ["Surfing Pokemon"],
   },
+  {
+    itemId: "939",
+    name: "Leafy",
+    selectionType: "random",
+    keywords: ["Leafy Nature Pokemon", "Leaf Type Pokemon"],
+  },
+  {
+    itemId: "940",
+    name: "Sword Master",
+    selectionType: "always",
+    keywords: ["Swordmaster Pokemon"],
+  },
+  {
+    itemId: "941",
+    name: "Valkyrie",
+    selectionType: "always",
+    keywords: ["Valkyrie goddess Pokemon"],
+  },
 ];
