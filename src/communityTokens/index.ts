@@ -398,6 +398,36 @@ export const communityTokens: CommunityToken[] = [
     prompts: HYDREX_PROMPTS,
   },
   {
+    communityId: "HUNGRYDEGEN",
+    name: "Hungry Degens",
+    symbol: "HUNGRYDEGEN",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/HUNGRYDEGEN.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "PARTNER"],
+    artOverrides: {
+      kawaii: [
+        `${KAWAII_PREFIX}/HUNGRYDEGENKAWAII1.png`,
+        `${KAWAII_PREFIX}/HUNGRYDEGENKAWAII2.png`,
+        `${KAWAII_PREFIX}/HUNGRYDEGENKAWAII3.png`,
+        `${KAWAII_PREFIX}/HUNGRYDEGENKAWAII4.png`,
+        `${KAWAII_PREFIX}/HUNGRYDEGENKAWAII5.png`,
+      ],
+      dragon: [
+        `${DRAGON_PREFIX}/HUNGRYDEGENDRAGON1.png`,
+        `${DRAGON_PREFIX}/HUNGRYDEGENDRAGON2.png`,
+        `${DRAGON_PREFIX}/HUNGRYDEGENDRAGON3.png`,
+        `${DRAGON_PREFIX}/HUNGRYDEGENDRAGON4.png`,
+      ],
+      degen: [
+        `${DEGEN_PREFIX}/HUNGRYDEGENDEGEN1.png`,
+        `${DEGEN_PREFIX}/HUNGRYDEGENDEGEN2.png`,
+        `${DEGEN_PREFIX}/HUNGRYDEGENDEGEN3.png`,
+        `${DEGEN_PREFIX}/HUNGRYDEGENDEGEN4.png`,
+      ],
+    },
+  },
+  {
     communityId: "PANIC",
     name: "Panic",
     symbol: "PANIC",

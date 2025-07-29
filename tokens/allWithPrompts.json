@@ -943,6 +943,38 @@
     }
   },
   {
+    "communityId": "HUNGRYDEGEN",
+    "name": "Hungry Degens",
+    "symbol": "HUNGRYDEGEN",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/HUNGRYDEGEN.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "PARTNER"
+    ],
+    "artOverrides": {
+      "kawaii": [
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/HUNGRYDEGENKAWAII1.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/HUNGRYDEGENKAWAII2.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/HUNGRYDEGENKAWAII3.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/HUNGRYDEGENKAWAII4.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-kawaii/HUNGRYDEGENKAWAII5.png"
+      ],
+      "dragon": [
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-dragon/HUNGRYDEGENDRAGON1.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-dragon/HUNGRYDEGENDRAGON2.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-dragon/HUNGRYDEGENDRAGON3.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-dragon/HUNGRYDEGENDRAGON4.png"
+      ],
+      "degen": [
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-degen/HUNGRYDEGENDEGEN1.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-degen/HUNGRYDEGENDEGEN2.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-degen/HUNGRYDEGENDEGEN3.png",
+        "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokiemon-degen/HUNGRYDEGENDEGEN4.png"
+      ]
+    }
+  },
+  {
     "communityId": "PANIC",
     "name": "Panic",
     "symbol": "PANIC",
