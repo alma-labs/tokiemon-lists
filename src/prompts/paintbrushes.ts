@@ -109,4 +109,22 @@ export const paintbrushes: Paintbrush[] = [
     selectionType: "always",
     keywords: ["Valkyrie goddess Pokemon"],
   },
+  {
+    itemId: "947",
+    name: "Icy",
+    selectionType: "random",
+    keywords: ["Icy glacier pokemon", "Frozen pokemon"],
+  },
+  {
+    itemId: "948",
+    name: "Sorcerer",
+    selectionType: "random",
+    keywords: ["Wizard Pokemon", "Wizard Pokemon with Staff"],
+  },
+  {
+    itemId: "949",
+    name: "Eldritch",
+    selectionType: "always",
+    keywords: ["Eldritch Cthulhu Pokemon"],
+  },
 ];
