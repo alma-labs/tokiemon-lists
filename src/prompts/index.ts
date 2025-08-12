@@ -194,6 +194,11 @@ import {
   dragon as dragonHydrex,
   degen as degenHydrex,
 } from "./HYDREX";
+import {
+  kawaii as kawaiiQuickswap,
+  dragon as dragonQuickswap,
+  degen as degenQuickswap,
+} from "./QUICKSWAP";
 
 export const TOKIEMON_PROMPTS = { kawaii, dragon, degen };
 export const HOLIDAY_PROMPTS = {
@@ -390,4 +395,9 @@ export const HYDREX_PROMPTS = {
   kawaii: kawaiiHydrex,
   dragon: dragonHydrex,
   degen: degenHydrex,
+};
+export const QUICKSWAP_PROMPTS = {
+  kawaii: kawaiiQuickswap,
+  dragon: dragonQuickswap,
+  degen: degenQuickswap,
 };

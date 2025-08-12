@@ -44,6 +44,7 @@ import {
   SHARK_PROMPTS,
   SUMMER_PROMPTS,
   HYDREX_PROMPTS,
+  QUICKSWAP_PROMPTS,
 } from "../prompts";
 
 export const communityTokens: CommunityToken[] = [
@@ -396,6 +397,16 @@ export const communityTokens: CommunityToken[] = [
       premium: false,
     },
     prompts: HYDREX_PROMPTS,
+  },
+  {
+    communityId: "QUICKSWAP",
+    name: "QuickSwap",
+    symbol: "QUICKSWAP",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/QUICKSWAP.png",
+    extraPaymentTokens: [],
+    tags: ["BASE", "PARTNER"],
+    prompts: QUICKSWAP_PROMPTS,
   },
   {
     communityId: "HUNGRYDEGEN",
