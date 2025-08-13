@@ -301,6 +301,17 @@
     }
   },
   {
+    "communityId": "QUICKSWAP",
+    "name": "QuickSwap",
+    "symbol": "QUICKSWAP",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/QUICKSWAP.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "PARTNER"
+    ]
+  },
+  {
     "communityId": "HUNGRYDEGEN",
     "name": "Hungry Degens",
     "symbol": "HUNGRYDEGEN",

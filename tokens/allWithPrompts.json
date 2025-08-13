@@ -943,6 +943,31 @@
     }
   },
   {
+    "communityId": "QUICKSWAP",
+    "name": "QuickSwap",
+    "symbol": "QUICKSWAP",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/QUICKSWAP.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "BASE",
+      "PARTNER"
+    ],
+    "prompts": {
+      "kawaii": [
+        "silver kawaii baby dragon standing up with dark blue accents",
+        "silver kawaii baby dragon with dark blue accents"
+      ],
+      "dragon": [
+        "silver cute dragon standing up with dark blue accents",
+        "silver cute dragon with dark blue accents"
+      ],
+      "degen": [
+        "silver monster dragon standing up with dark blue accents, breathing fire",
+        "silver monster dragon with dark blue accents, breathing fire"
+      ]
+    }
+  },
+  {
     "communityId": "HUNGRYDEGEN",
     "name": "Hungry Degens",
     "symbol": "HUNGRYDEGEN",
