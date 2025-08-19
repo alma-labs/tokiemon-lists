@@ -72,12 +72,7 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
     tags: [],
     prompts: SUMMER_PROMPTS,
-    hunting: {
-      capture: true,
-      scene: "BEACH",
-      only: false,
-      premium: false,
-    },
+    inactive: true,
   },
   {
     communityId: "EASTER",

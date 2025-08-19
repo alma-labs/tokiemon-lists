@@ -200,12 +200,7 @@
         "large summer multi colored colorful vicious crab monster pokemon"
       ]
     },
-    "hunting": {
-      "capture": true,
-      "scene": "BEACH",
-      "only": false,
-      "premium": false
-    }
+    "inactive": true
   },
   {
     "communityId": "EASTER",
