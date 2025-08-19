@@ -20,7 +20,7 @@ export const quests: Quest[] = [
   ],
   check: "Player has minted or captured a Summer Kawaii, Dragon, or Degen Tokiemon",
   verified: false,
-  isActive: true,
+  isActive: false,
   hint: "Go to the Mint or Capture tab and mint or capture a Summer Kawaii, Dragon, or Degen Tokiemon!",
 },  
 {

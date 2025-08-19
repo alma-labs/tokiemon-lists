@@ -127,4 +127,22 @@ export const paintbrushes: Paintbrush[] = [
     selectionType: "always",
     keywords: ["Eldritch Cthulhu Pokemon"],
   },
+  {
+    itemId: "956",
+    name: "Water",
+    selectionType: "random",
+    keywords: ["Water Type Pokemon", "Watery Pokemon"],
+  },
+  {
+    itemId: "957",
+    name: "Demon",
+    selectionType: "always",
+    keywords: ["Blood Demon Pokemon"],
+  },
+  {
+    itemId: "958",
+    name: "Genie",
+    selectionType: "random",
+    keywords: ["Genie Pokemon", "Djinn Pokemon"],
+  },
 ];

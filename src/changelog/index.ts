@@ -2,6 +2,13 @@ import { Changelog } from "../types";
 
 export const changelogs: Changelog[] = [
   {
+    title: "Changelog Notes 8/19",
+    date: "August 19, 2025",
+    changes: ["Summer Breed remove from capture and mint. Summer Quest removed",
+      "Added new items to Kawaii, Dragon, & Degen capture",
+      ],
+  },
+  {
     title: "Changelog Notes 7/22",
     date: "July 22, 2025",
     changes: ["Summer Items removed from lootbox and capture",

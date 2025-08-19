@@ -14,20 +14,6 @@
     }
   },
   {
-    "communityId": "SUMMER",
-    "name": "Hot Onchain Summer",
-    "symbol": "SUMMER",
-    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SUMMER.png",
-    "extraPaymentTokens": [],
-    "tags": [],
-    "hunting": {
-      "capture": true,
-      "scene": "BEACH",
-      "only": false,
-      "premium": false
-    }
-  },
-  {
     "communityId": "SHARK",
     "name": "Shark",
     "symbol": "SHARK",
