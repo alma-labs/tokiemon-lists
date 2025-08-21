@@ -14,6 +14,38 @@
     }
   },
   {
+    "communityId": "GOOCH",
+    "name": "Gooch",
+    "symbol": "GOOCH",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/GOOCH.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "GOOCH",
+      "only": true,
+      "premium": true
+    }
+  },
+  {
+    "communityId": "DICKBOT",
+    "name": "Dickbot",
+    "symbol": "DICKBOT",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DICKBOT.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "GOOCH",
+      "only": true,
+      "premium": true
+    }
+  },
+  {
     "communityId": "SHARK",
     "name": "Shark",
     "symbol": "SHARK",
@@ -791,7 +823,13 @@
     "tags": [
       "BASE",
       "MEME"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "GOOCH",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "ALB",
@@ -984,7 +1022,13 @@
     "tags": [
       "BASE",
       "MEME"
-    ]
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "GOOCH",
+      "only": false,
+      "premium": false
+    }
   },
   {
     "communityId": "TOBY",
