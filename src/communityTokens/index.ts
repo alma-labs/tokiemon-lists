@@ -120,6 +120,36 @@ export const communityTokens: CommunityToken[] = [
 
   // Premium Hunter Tokens
   {
+    communityId: "GOOCH",
+    name: "Gooch",
+    symbol: "GOOCH",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/GOOCH.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+    hunting: {
+      capture: true,
+      scene: "GOOCH",
+      only: true,
+      premium: true,
+    },
+  },
+  {
+    communityId: "DICKBOT",
+    name: "Dickbot",
+    symbol: "DICKBOT",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DICKBOT.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+    hunting: {
+      capture: true,
+      scene: "GOOCH",
+      only: true,
+      premium: true,
+    },
+  },
+  {
     communityId: "SHARK",
     name: "Shark",
     symbol: "SHARK",
@@ -867,6 +897,12 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/DICKBUTT.png",
     extraPaymentTokens: [],
     tags: ["BASE", "MEME"],
+    hunting: {
+      capture: true,
+      scene: "GOOCH",
+      only: false,
+      premium: false,
+    },
     prompts: DICKBUTT_PROMPTS,
   },
   {
@@ -1036,6 +1072,12 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/MFER.png",
     extraPaymentTokens: [],
     tags: ["BASE", "MEME"],
+    hunting: {
+      capture: true,
+      scene: "GOOCH",
+      only: false,
+      premium: false,
+    },
   },
   {
     communityId: "TOBY",
