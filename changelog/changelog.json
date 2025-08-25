@@ -3,6 +3,17 @@
     "title": "Changelog Notes 8/19",
     "date": "August 19, 2025",
     "changes": [
+      "The Capture page results UI should now properly show the rarity of each captured tokiemon so no more 'Gotcha! Wild 0 {tokiemon.name} was caught!' and instead it will show 'Gotcha! Wild {tokiemon.rarity} {tokiemon.name} was caught!'",
+      "Fixed the paintbrush table in the Painting Studio menu so large numbers of brushes no longer extend beyond the edge of the menu. The desktop version now includes a scrollbar while the mobile version now utilizes point-and-click functionality to allow for scrolling through the array of available brushes.",
+      "Added additional tx confirmation support on every tx to help combat the syncing issues y'all reported",
+      "Fixed a missing Base Network logo on the settings menu",
+      "Gooch Island Talisman item added & Gooch Island Map added. Hunter Tokiemon Breeds added to Gooch Island"
+    ]
+  },
+  {
+    "title": "Changelog Notes 8/19",
+    "date": "August 19, 2025",
+    "changes": [
       "Summer Breed remove from capture and mint. Summer Quest removed",
       "Added new items to Kawaii, Dragon, & Degen capture"
     ]
