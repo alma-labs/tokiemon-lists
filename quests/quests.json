@@ -18,7 +18,7 @@
     ],
     "check": "Player has captured a Beach Starter Tokiemon",
     "verified": false,
-    "isActive": false,
+    "isActive": true,
     "hint": "Go to the tall grass at the Beach and Capture a Beach Starter Tokiemon!"
   },
   {
@@ -40,7 +40,7 @@
     ],
     "check": "Player has captured a Farm Starter Tokiemon",
     "verified": false,
-    "isActive": false,
+    "isActive": true,
     "hint": "Go to the tall grass at Yield's Farm and Capture a Farm Starter Tokiemon!"
   },
   {
@@ -62,7 +62,7 @@
     ],
     "check": "Player has captured a Woods Starter Tokiemon",
     "verified": false,
-    "isActive": false,
+    "isActive": true,
     "hint": "Go to the tall grass in the Woods to the East and Capture a Woods Starter Tokiemon!"
   },
   {

@@ -4,80 +4,86 @@ const PLACEHOLDER_IMAGE =
   "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/placeholder.png";
 
 export const quests: Quest[] = [
-// CURRENT HIGHEST QUEST ID = 30
-{
-  questId: 30,
-  id: "salt_life",
-  name: "Salt Life",
-  image:
-    "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/salt-life.png",
-  type: "Story",
-  questPoints: 1,
-  description: "Show your Hunting Prowess by Capturing a Beach Starter Tokiemon!",
-  requirements: ["Capture a Beach Starter Tokiemon"],
-  rewards: [
-    { itemId: "962", amount: 1 }, // 1 Beach Talisman
-  ],
-  check: "Player has captured a Beach Starter Tokiemon",
-  verified: false,
-  isActive: false,
-  hint: "Go to the tall grass at the Beach and Capture a Beach Starter Tokiemon!",
-},  
-{
-  questId: 29,
-  id: "it_ain't_much",
-  name: "It Ain't Much",
-  image:
-    "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/it-ain't-much.png",
-  type: "Story",
-  questPoints: 1,
-  description: "Help Farmer Todd by Capturing a Farm Starter Tokiemon!",
-  requirements: ["Capture a Farm Starter Tokiemon"],
-  rewards: [
-    { itemId: "961", amount: 1 }, // 1 Yield's Farm Talisman
-  ],
-  check: "Player has captured a Farm Starter Tokiemon",
-  verified: false,
-  isActive: false,
-  hint: "Go to the tall grass at Yield's Farm and Capture a Farm Starter Tokiemon!",
-},  
-{
-  questId: 28,
-  id: "nature's_calling",
-  name: "Nature's Calling",
-  image:
-    "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/nature's-calling.png",
-  type: "Story",
-  questPoints: 1,
-  description: "Show your Hunting Prowess by Capturing a Woods Starter Tokiemon!",
-  requirements: ["Capture a Woods Starter Tokiemon"],
-  rewards: [
-    { itemId: "960", amount: 1 }, // 1 Woods Talisman
-  ],
-  check: "Player has captured a Woods Starter Tokiemon",
-  verified: false,
-  isActive: false,
-  hint: "Go to the tall grass in the Woods to the East and Capture a Woods Starter Tokiemon!",
-},  
-{
-  questId: 27,
-  id: "onchain_summer",
-  name: "Onchain Summer",
-  image:
-    "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/onchain-summer.png",
-  type: "Task",
-  questPoints: 1,
-  description: "Mint or Capture a premium Onchain Summer Tokiemon & take in some summer vibes!",
-  requirements: ["Mint or Capture a Summer Kawaii, Dragon, or Degen Tokiemon"],
-  rewards: [
-    { itemId: "870", amount: 5 }, // 5 Summer Shards
-  ],
-  check: "Player has minted or captured a Summer Kawaii, Dragon, or Degen Tokiemon",
-  verified: false,
-  isActive: false,
-  hint: "Go to the Mint or Capture tab and mint or capture a Summer Kawaii, Dragon, or Degen Tokiemon!",
-},  
-{
+  // CURRENT HIGHEST QUEST ID = 30
+  {
+    questId: 30,
+    id: "salt_life",
+    name: "Salt Life",
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/salt-life.png",
+    type: "Story",
+    questPoints: 1,
+    description:
+      "Show your Hunting Prowess by Capturing a Beach Starter Tokiemon!",
+    requirements: ["Capture a Beach Starter Tokiemon"],
+    rewards: [
+      { itemId: "962", amount: 1 }, // 1 Beach Talisman
+    ],
+    check: "Player has captured a Beach Starter Tokiemon",
+    verified: false,
+    isActive: true,
+    hint: "Go to the tall grass at the Beach and Capture a Beach Starter Tokiemon!",
+  },
+  {
+    questId: 29,
+    id: "it_ain't_much",
+    name: "It Ain't Much",
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/it-ain't-much.png",
+    type: "Story",
+    questPoints: 1,
+    description: "Help Farmer Todd by Capturing a Farm Starter Tokiemon!",
+    requirements: ["Capture a Farm Starter Tokiemon"],
+    rewards: [
+      { itemId: "961", amount: 1 }, // 1 Yield's Farm Talisman
+    ],
+    check: "Player has captured a Farm Starter Tokiemon",
+    verified: false,
+    isActive: true,
+    hint: "Go to the tall grass at Yield's Farm and Capture a Farm Starter Tokiemon!",
+  },
+  {
+    questId: 28,
+    id: "nature's_calling",
+    name: "Nature's Calling",
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/nature's-calling.png",
+    type: "Story",
+    questPoints: 1,
+    description:
+      "Show your Hunting Prowess by Capturing a Woods Starter Tokiemon!",
+    requirements: ["Capture a Woods Starter Tokiemon"],
+    rewards: [
+      { itemId: "960", amount: 1 }, // 1 Woods Talisman
+    ],
+    check: "Player has captured a Woods Starter Tokiemon",
+    verified: false,
+    isActive: true,
+    hint: "Go to the tall grass in the Woods to the East and Capture a Woods Starter Tokiemon!",
+  },
+  {
+    questId: 27,
+    id: "onchain_summer",
+    name: "Onchain Summer",
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/onchain-summer.png",
+    type: "Task",
+    questPoints: 1,
+    description:
+      "Mint or Capture a premium Onchain Summer Tokiemon & take in some summer vibes!",
+    requirements: [
+      "Mint or Capture a Summer Kawaii, Dragon, or Degen Tokiemon",
+    ],
+    rewards: [
+      { itemId: "870", amount: 5 }, // 5 Summer Shards
+    ],
+    check:
+      "Player has minted or captured a Summer Kawaii, Dragon, or Degen Tokiemon",
+    verified: false,
+    isActive: false,
+    hint: "Go to the Mint or Capture tab and mint or capture a Summer Kawaii, Dragon, or Degen Tokiemon!",
+  },
+  {
     questId: 26,
     id: "farcaster_master",
     name: "Farcaster Master",
@@ -85,17 +91,21 @@ export const quests: Quest[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/farcaster-master.png",
     type: "Story",
     questPoints: 1,
-    description: "Mint or Capture a premium Farcaster Tokiemon & gain some of its magic prowess!",
-    requirements: ["Mint or Capture a Farcaster Kawaii, Dragon, or Degen Tokiemon"],
+    description:
+      "Mint or Capture a premium Farcaster Tokiemon & gain some of its magic prowess!",
+    requirements: [
+      "Mint or Capture a Farcaster Kawaii, Dragon, or Degen Tokiemon",
+    ],
     rewards: [
       { itemId: "844", amount: 1 }, // 1 Farcaster Wizard Skin
       { itemId: "845", amount: 1 }, // 1 Farcaster Witch Skin
     ],
-    check: "Player has minted or captured a Farcaster Kawaii, Dragon, or Degen Tokiemon",
+    check:
+      "Player has minted or captured a Farcaster Kawaii, Dragon, or Degen Tokiemon",
     verified: false,
     isActive: true,
     hint: "Go to the Mint or Capture tab and mint or capture a Farcaster Kawaii, Dragon, or Degen Tokiemon!",
-  }, 
+  },
   {
     questId: 0,
     id: "first_tokiemon",
