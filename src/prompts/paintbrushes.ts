@@ -145,4 +145,22 @@ export const paintbrushes: Paintbrush[] = [
     selectionType: "random",
     keywords: ["Genie Pokemon", "Djinn Pokemon"],
   },
+  {
+    itemId: "969",
+    name: "Angel",
+    selectionType: "always",
+    keywords: ["Angel Pokemon"],
+  },
+  {
+    itemId: "970",
+    name: "Gladiator",
+    selectionType: "always",
+    keywords: ["Gladiator Pokemon"],
+  },
+  {
+    itemId: "971",
+    name: "Plague Doctor",
+    selectionType: "always",
+    keywords: ["Plague Doctor Pokemon"],
+  },
 ];
