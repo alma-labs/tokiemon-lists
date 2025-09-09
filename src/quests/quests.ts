@@ -247,7 +247,8 @@ export const quests: Quest[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/GM-100-day.png",
     type: "Task",
     questPoints: 1,
-    description: "Achieve master status with a 100-day GM streak.",
+    description:
+      "Achieve master status with a 100-day GM streak & level 5 Hunter.",
     requirements: [],
     rewards: [
       { itemId: "128", amount: 3 }, // 3 degen passes
@@ -267,7 +268,8 @@ export const quests: Quest[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/GM-200-day.png",
     type: "Task",
     questPoints: 2,
-    description: "Achieve legendary status with a 200-day GM streak.",
+    description:
+      "Achieve legendary status with a 200-day GM streak & level 10 Hunter.",
     requirements: [],
     rewards: [
       { itemId: "3", amount: 50 }, // 50 degen keys
@@ -287,7 +289,8 @@ export const quests: Quest[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/GM-1-year.png",
     type: "Task",
     questPoints: 3,
-    description: "Achieve god tier status with a 365-day GM streak.",
+    description:
+      "Achieve god tier status with a 365-day GM streak & level 20 Hunter.",
     requirements: [],
     rewards: [
       { itemId: "3", amount: 100 }, // 100 degen keys
