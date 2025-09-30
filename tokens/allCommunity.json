@@ -65,6 +65,38 @@
     "inactive": true
   },
   {
+    "communityId": "BDAYCAKE",
+    "name": "Birthday Cake",
+    "symbol": "BDAYCAKE",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BDAYCAKE.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "TOWN",
+      "only": true,
+      "premium": true
+    }
+  },
+  {
+    "communityId": "BIRTHDAY",
+    "name": "Birthday",
+    "symbol": "BIRTHDAY",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BIRTHDAY.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "TOWN",
+      "only": true,
+      "premium": true
+    }
+  },
+  {
     "communityId": "GOOCH",
     "name": "Gooch",
     "symbol": "GOOCH",

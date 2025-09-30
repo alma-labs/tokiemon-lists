@@ -199,6 +199,16 @@ import {
   dragon as dragonQuickswap,
   degen as degenQuickswap,
 } from "./QUICKSWAP";
+import {
+  kawaii as kawaiiBirthday,
+  dragon as dragonBirthday,
+  degen as degenBirthday,
+} from "./BIRTHDAY";
+import {
+  kawaii as kawaiiBdaycake,
+  dragon as dragonBdaycake,
+  degen as degenBdaycake,
+} from "./BDAYCAKE";
 
 export const TOKIEMON_PROMPTS = { kawaii, dragon, degen };
 export const HOLIDAY_PROMPTS = {
@@ -400,4 +410,14 @@ export const QUICKSWAP_PROMPTS = {
   kawaii: kawaiiQuickswap,
   dragon: dragonQuickswap,
   degen: degenQuickswap,
+};
+export const BIRTHDAY_PROMPTS = {
+  kawaii: kawaiiBirthday,
+  dragon: dragonBirthday,
+  degen: degenBirthday,
+};
+export const BDAYCAKE_PROMPTS = {
+  kawaii: kawaiiBdaycake,
+  dragon: dragonBdaycake,
+  degen: degenBdaycake,
 };

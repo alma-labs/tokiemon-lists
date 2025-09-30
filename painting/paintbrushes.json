@@ -223,5 +223,55 @@
     "keywords": [
       "Plague Doctor Pokemon"
     ]
+  },
+  {
+    "itemId": "982",
+    "name": "Birthday",
+    "selectionType": "always",
+    "keywords": [
+      "Pokemon wearing a party hat birthday themed"
+    ]
+  },
+  {
+    "itemId": "989",
+    "name": "Meemawpeepaw",
+    "selectionType": "random",
+    "keywords": [
+      "Grandma Pokemon",
+      "Grandpa Pokemon"
+    ]
+  },
+  {
+    "itemId": "990",
+    "name": "Rainbow",
+    "selectionType": "always",
+    "keywords": [
+      "Shiny Rainbow color Pokemon"
+    ]
+  },
+  {
+    "itemId": "991",
+    "name": "Dino",
+    "selectionType": "random",
+    "keywords": [
+      "Triceratops Pokemon",
+      "Trex Pokemon"
+    ]
+  },
+  {
+    "itemId": "992",
+    "name": "Motorcycle",
+    "selectionType": "always",
+    "keywords": [
+      "Pokemon riding motorcycle"
+    ]
+  },
+  {
+    "itemId": "993",
+    "name": "Final Form",
+    "selectionType": "always",
+    "keywords": [
+      "Super Saiyan Pokemon"
+    ]
   }
 ]

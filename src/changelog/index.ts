@@ -1,6 +1,12 @@
 import { Changelog } from "../types";
 
 export const changelogs: Changelog[] = [
+  {
+    title: "Changelog Notes 9/30",
+    date: "September 30, 2025",
+    changes: ["Added all Birthday items to capture in Town area. Limited Birthday Breeds, skins, and paintbrushes added.",
+      ],
+  },
  {
     title: "Changelog Notes 9/2",
     date: "September 2, 2025",
