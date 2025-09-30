@@ -5,13 +5,7 @@
     "symbol": "TOKIEMON",
     "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/TOKIEMON.png",
     "extraPaymentTokens": [],
-    "tags": [],
-    "hunting": {
-      "capture": true,
-      "scene": "TOWN",
-      "only": false,
-      "premium": false
-    }
+    "tags": []
   },
   {
     "communityId": "SUMMER",
@@ -742,13 +736,7 @@
     "tags": [
       "BASE",
       "MEME"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "TOWN",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "AERO",
@@ -777,13 +765,7 @@
     ],
     "tags": [
       "BASE"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "TOWN",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "TOSHI",
@@ -850,13 +832,7 @@
     "tags": [
       "BASE",
       "MEME"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "TOWN",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "BASEDPEPE",
@@ -1006,13 +982,7 @@
       "PARTNER",
       "MEME",
       "BASE"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "TOWN",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "MIGGLES",
@@ -1245,13 +1215,7 @@
     "tags": [
       "PARTNER",
       "BASE"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "TOWN",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "GHOST",
