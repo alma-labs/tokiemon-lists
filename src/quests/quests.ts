@@ -4,7 +4,26 @@ const PLACEHOLDER_IMAGE =
   "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/placeholder.png";
 
 export const quests: Quest[] = [
-  // CURRENT HIGHEST QUEST ID = 30
+  // CURRENT HIGHEST QUEST ID = 31
+  {
+    questId: 31,
+    id: "tokiemon-1st-birthday",
+    name: "Tokiemon 1st Birthday",
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/tokiemon-1st-birthday.png",
+    type: "Story",
+    questPoints: 1,
+    description:
+      "Happy 1st Birthday to Tokiemon! Celebrate with a special birthday gift on us!",
+    requirements: ["Have a V Card."],
+    rewards: [
+      { itemId: "975", amount: 1 }, // 1 Birthday Present
+    ],
+    check: "Player has a V Card.",
+    verified: true,
+    isActive: true,
+    hint: "Get a V Card from the general store!",
+  },
   {
     questId: 30,
     id: "salt_life",

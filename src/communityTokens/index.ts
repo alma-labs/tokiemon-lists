@@ -45,6 +45,8 @@ import {
   SUMMER_PROMPTS,
   HYDREX_PROMPTS,
   QUICKSWAP_PROMPTS,
+  BIRTHDAY_PROMPTS,
+  BDAYCAKE_PROMPTS,
 } from "../prompts";
 
 export const communityTokens: CommunityToken[] = [
@@ -119,6 +121,36 @@ export const communityTokens: CommunityToken[] = [
   },
 
   // Premium Hunter Tokens
+  {
+    communityId: "BDAYCAKE",
+    name: "Birthday Cake",
+    symbol: "BDAYCAKE",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BDAYCAKE.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+    hunting: {
+      capture: true,
+      scene: "TOWN",
+      only: true,
+      premium: true,
+    },
+  },
+  {
+    communityId: "BIRTHDAY",
+    name: "Birthday",
+    symbol: "BIRTHDAY",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BIRTHDAY.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+    hunting: {
+      capture: true,
+      scene: "TOWN",
+      only: true,
+      premium: true,
+    },
+  },
   {
     communityId: "GOOCH",
     name: "Gooch",
