@@ -59,12 +59,6 @@ export const communityTokens: CommunityToken[] = [
     extraPaymentTokens: [],
     tags: [],
     prompts: TOKIEMON_PROMPTS,
-    hunting: {
-      capture: true,
-      scene: "TOWN",
-      only: false,
-      premium: false,
-    },
   },
   {
     communityId: "SUMMER",
@@ -773,12 +767,6 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BRETT.png",
     extraPaymentTokens: [],
     tags: ["BASE", "MEME"],
-    hunting: {
-      capture: true,
-      scene: "TOWN",
-      only: false,
-      premium: false,
-    },
   },
   {
     communityId: "AERO",
@@ -807,12 +795,6 @@ export const communityTokens: CommunityToken[] = [
       },
     ],
     tags: ["BASE"],
-    hunting: {
-      capture: true,
-      scene: "TOWN",
-      only: false,
-      premium: false,
-    },
   },
   {
     communityId: "TOSHI",
@@ -871,12 +853,6 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/KEYCAT.png",
     extraPaymentTokens: [],
     tags: ["BASE", "MEME"],
-    hunting: {
-      capture: true,
-      scene: "TOWN",
-      only: false,
-      premium: false,
-    },
   },
   {
     communityId: "BASEDPEPE",
@@ -1006,12 +982,6 @@ export const communityTokens: CommunityToken[] = [
       },
     ],
     tags: ["PARTNER", "MEME", "BASE"],
-    hunting: {
-      capture: true,
-      scene: "TOWN",
-      only: false,
-      premium: false,
-    },
   },
   {
     communityId: "MIGGLES",
@@ -1223,12 +1193,6 @@ export const communityTokens: CommunityToken[] = [
       },
     ],
     tags: ["PARTNER", "BASE"],
-    hunting: {
-      capture: true,
-      scene: "TOWN",
-      only: false,
-      premium: false,
-    },
   },
   {
     communityId: "GHOST",
