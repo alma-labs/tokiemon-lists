@@ -339,10 +339,74 @@
     }
   },
   {
-    "communityId": "BDAYCAKE",
-    "name": "Birthday Cake",
-    "symbol": "BDAYCAKE",
-    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BDAYCAKE.png",
+    "communityId": "RAY",
+    "name": "Ray",
+    "symbol": "RAY",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RAY.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": true,
+      "premium": true
+    }
+  },
+  {
+    "communityId": "SPOOKY",
+    "name": "Spooky",
+    "symbol": "SPOOKY",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SPOOKY.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "FARM",
+      "only": true,
+      "premium": true
+    }
+  },
+  {
+    "communityId": "TURKEY",
+    "name": "Turkey",
+    "symbol": "TURKEY",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/TURKEY.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "FARM",
+      "only": true,
+      "premium": true
+    }
+  },
+  {
+    "communityId": "BAT",
+    "name": "Bat",
+    "symbol": "BAT",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BAT.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "WOODS",
+      "only": true,
+      "premium": true
+    }
+  },
+  {
+    "communityId": "SWARM",
+    "name": "Swarm",
+    "symbol": "SWARM",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SWARM.png",
     "extraPaymentTokens": [],
     "tags": [
       "HUNTER"
@@ -355,10 +419,10 @@
     }
   },
   {
-    "communityId": "BIRTHDAY",
-    "name": "Birthday",
-    "symbol": "BIRTHDAY",
-    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BIRTHDAY.png",
+    "communityId": "ICE",
+    "name": "Ice",
+    "symbol": "ICE",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ICE.png",
     "extraPaymentTokens": [],
     "tags": [
       "HUNTER"
@@ -369,6 +433,26 @@
       "only": true,
       "premium": true
     }
+  },
+  {
+    "communityId": "BDAYCAKE",
+    "name": "Birthday Cake",
+    "symbol": "BDAYCAKE",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BDAYCAKE.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ]
+  },
+  {
+    "communityId": "BIRTHDAY",
+    "name": "Birthday",
+    "symbol": "BIRTHDAY",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BIRTHDAY.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ]
   },
   {
     "communityId": "GOOCH",
@@ -1688,13 +1772,7 @@
     "tags": [
       "BASE",
       "MEME"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "BEACH",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "COOKIE",
@@ -1739,12 +1817,6 @@
       "BASE",
       "MEME"
     ],
-    "hunting": {
-      "capture": true,
-      "scene": "FARM",
-      "only": false,
-      "premium": false
-    },
     "prompts": {
       "kawaii": [
         "royal blue baby yoda kawaii pokemon"
@@ -1934,13 +2006,7 @@
       "PARTNER",
       "MEME",
       "BASE"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "WOODS",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "UNLUCKY",

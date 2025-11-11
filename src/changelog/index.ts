@@ -2,6 +2,14 @@ import { Changelog } from "../types";
 
 export const changelogs: Changelog[] = [
   {
+    title: "Changelog Notes 11/11",
+    date: "November 11, 2025",
+    changes: ["Added new items to Kawaii, Dragon, & Degen capture to replace the birhtday items.",
+      "Added new ICE and SWARM breeds to TOWN. BAT breed to WOODS. TURKEY and SPOOKY breeds to FARM. RAY breed to BEACH.",
+      "Added new paintbrushes to the Painting Studio menu.",
+      ],
+  },
+  {
     title: "Changelog Notes 9/30",
     date: "September 30, 2025",
     changes: ["Added all Birthday items to capture in Town area. Limited Birthday Breeds, skins, and paintbrushes added.",

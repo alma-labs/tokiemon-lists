@@ -199,4 +199,22 @@ export const paintbrushes: Paintbrush[] = [
     selectionType: "always",
     keywords: ["Super Saiyan Pokemon"],
   },
+  {
+    itemId: "1001",
+    name: "Spooky",
+    selectionType: "always",
+    keywords: ["Halloween pokemon spooky"],
+  },
+  {
+    itemId: "1002",
+    name: "Cavalry",
+    selectionType: "always",
+    keywords: ["pokemon riding a horse"],
+  },
+  {
+    itemId: "1003",
+    name: "Reaper",
+    selectionType: "always",
+    keywords: ["grim reaper pokemon"],
+  },
 ];

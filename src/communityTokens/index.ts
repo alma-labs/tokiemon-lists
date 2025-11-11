@@ -47,6 +47,12 @@ import {
   QUICKSWAP_PROMPTS,
   BIRTHDAY_PROMPTS,
   BDAYCAKE_PROMPTS,
+  ICE_PROMPTS,
+  SWARM_PROMPTS,
+  BAT_PROMPTS,
+  TURKEY_PROMPTS,
+  SPOOKY_PROMPTS,
+  RAY_PROMPTS,
 } from "../prompts";
 
 export const communityTokens: CommunityToken[] = [
@@ -116,11 +122,71 @@ export const communityTokens: CommunityToken[] = [
 
   // Premium Hunter Tokens
   {
-    communityId: "BDAYCAKE",
-    name: "Birthday Cake",
-    symbol: "BDAYCAKE",
+    communityId: "RAY",
+    name: "Ray",
+    symbol: "RAY",
     logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BDAYCAKE.png",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/RAY.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+    hunting: {
+      capture: true,
+      scene: "BEACH",
+      only: true,
+      premium: true,
+    },
+  },
+  {
+    communityId: "SPOOKY",
+    name: "Spooky",
+    symbol: "SPOOKY",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SPOOKY.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+    hunting: {
+      capture: true,
+      scene: "FARM",
+      only: true,
+      premium: true,
+    },
+  },
+  {
+    communityId: "TURKEY",
+    name: "Turkey",
+    symbol: "TURKEY",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/TURKEY.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+    hunting: {
+      capture: true,
+      scene: "FARM",
+      only: true,
+      premium: true,
+    },
+  },
+  {
+    communityId: "BAT",
+    name: "Bat",
+    symbol: "BAT",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BAT.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+    hunting: {
+      capture: true,
+      scene: "WOODS",
+      only: true,
+      premium: true,
+    },
+  },
+  {
+    communityId: "SWARM",
+    name: "Swarm",
+    symbol: "SWARM",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SWARM.png",
     extraPaymentTokens: [],
     tags: ["HUNTER"],
     hunting: {
@@ -131,11 +197,11 @@ export const communityTokens: CommunityToken[] = [
     },
   },
   {
-    communityId: "BIRTHDAY",
-    name: "Birthday",
-    symbol: "BIRTHDAY",
+    communityId: "ICE",
+    name: "Ice",
+    symbol: "ICE",
     logoURI:
-      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BIRTHDAY.png",
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ICE.png",
     extraPaymentTokens: [],
     tags: ["HUNTER"],
     hunting: {
@@ -144,6 +210,24 @@ export const communityTokens: CommunityToken[] = [
       only: true,
       premium: true,
     },
+  },
+  {
+    communityId: "BDAYCAKE",
+    name: "Birthday Cake",
+    symbol: "BDAYCAKE",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BDAYCAKE.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
+  },
+  {
+    communityId: "BIRTHDAY",
+    name: "Birthday",
+    symbol: "BIRTHDAY",
+    logoURI:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BIRTHDAY.png",
+    extraPaymentTokens: [],
+    tags: ["HUNTER"],
   },
   {
     communityId: "GOOCH",
@@ -829,12 +913,6 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SECRET.png",
     extraPaymentTokens: [],
     tags: ["BASE", "MEME"],
-    hunting: {
-      capture: true,
-      scene: "BEACH",
-      only: false,
-      premium: false,
-    },
   },
   {
     communityId: "COOKIE",
@@ -871,12 +949,6 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/BODA.png",
     extraPaymentTokens: [],
     tags: ["BASE", "MEME"],
-    hunting: {
-      capture: true,
-      scene: "FARM",
-      only: false,
-      premium: false,
-    },
     prompts: BODA_PROMPTS,
   },
   {
@@ -1016,12 +1088,6 @@ export const communityTokens: CommunityToken[] = [
       "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/TIMI.png",
     extraPaymentTokens: [],
     tags: ["PARTNER", "MEME", "BASE"],
-    hunting: {
-      capture: true,
-      scene: "WOODS",
-      only: false,
-      premium: false,
-    },
   },
   {
     communityId: "UNLUCKY",
