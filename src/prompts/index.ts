@@ -209,6 +209,36 @@ import {
   dragon as dragonBdaycake,
   degen as degenBdaycake,
 } from "./BDAYCAKE";
+  import {
+    kawaii as kawaiiIce,
+    dragon as dragonIce,
+    degen as degenIce,
+  } from "./ICE";
+  import {
+    kawaii as kawaiiSwarm,
+    dragon as dragonSwarm,
+    degen as degenSwarm,
+  } from "./SWARM";
+  import {
+    kawaii as kawaiiBat,
+    dragon as dragonBat,
+    degen as degenBat,
+  } from "./BAT";
+  import {
+  kawaii as kawaiiTurkey,
+  dragon as dragonTurkey,
+  degen as degenTurkey,
+} from "./TURKEY";
+import {
+  kawaii as kawaiiSpooky,
+  dragon as dragonSpooky,
+  degen as degenSpooky,
+} from "./SPOOKY";
+import {
+  kawaii as kawaiiRay,
+  dragon as dragonRay,
+  degen as degenRay,
+} from "./RAY";
 
 export const TOKIEMON_PROMPTS = { kawaii, dragon, degen };
 export const HOLIDAY_PROMPTS = {
@@ -420,4 +450,34 @@ export const BDAYCAKE_PROMPTS = {
   kawaii: kawaiiBdaycake,
   dragon: dragonBdaycake,
   degen: degenBdaycake,
+};
+export const ICE_PROMPTS = {
+  kawaii: kawaiiIce,
+  dragon: dragonIce,
+  degen: degenIce,
+};
+export const SWARM_PROMPTS = {
+  kawaii: kawaiiSwarm,
+  dragon: dragonSwarm,
+  degen: degenSwarm,
+};
+export const BAT_PROMPTS = {
+  kawaii: kawaiiBat,
+  dragon: dragonBat,
+  degen: degenBat,
+};
+export const TURKEY_PROMPTS = {
+  kawaii: kawaiiTurkey,
+  dragon: dragonTurkey,
+  degen: degenTurkey,
+};
+export const SPOOKY_PROMPTS = {
+  kawaii: kawaiiSpooky,
+  dragon: dragonSpooky,
+  degen: degenSpooky,
+};
+export const RAY_PROMPTS = {
+  kawaii: kawaiiRay,
+  dragon: dragonRay,
+  degen: degenRay,
 };
