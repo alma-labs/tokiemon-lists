@@ -6,6 +6,48 @@ const PLACEHOLDER_IMAGE =
 export const quests: Quest[] = [
   // CURRENT HIGHEST QUEST ID = 31
   {
+    questId: 33,
+    id: "hunter-xmas",
+    name: "Hunter Xmas",
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/hunter-xmas.png",
+    type: "Story",
+    questPoints: 1,
+    description:
+      "Show you are a top Xmas Tokiemon Hunter by capturing the rarest Hunter Tokiemon!",
+    requirements: ["Capture a SWAPO Tokiemon."],
+    rewards: [
+      { itemId: "1014", amount: 6 }, // 6 Coal
+      { itemId: "126", amount: 3 }, // 3 Kawaii Passes
+      { itemId: "127", amount: 2 }, // 2 Dragon Passes
+      { itemId: "128", amount: 1 }, // 1 Degen Pass
+    ],
+    check: "Player has captured a SWAPO Tokiemon.",
+    verified: true,
+    isActive: true,
+    hint: "Go find a SWAPO Tokiemon and capture it!",
+  },
+  {
+    questId: 32,
+    id: "tokiemon-xmas",
+    name: "Tokiemon Xmas",
+    image:
+      "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/refs/heads/main/assets/quests/tokiemon-xmas.png",
+    type: "Story",
+    questPoints: 1,
+    description:
+      "Merry Christmas and Happy Holidays to all Tokiemon Trainers!",
+    requirements: ["Have a V Card."],
+    rewards: [
+      { itemId: "1019", amount: 1 }, // 1 Uncommon Xmas Present
+      { itemId: "1020", amount: 1 }, // 1 Rare Xmas Present
+    ],
+    check: "Player has a V Card.",
+    verified: true,
+    isActive: true,
+    hint: "Get a V Card from the general store!",
+  },
+  {
     questId: 31,
     id: "tokiemon-1st-birthday",
     name: "Tokiemon 1st Birthday",

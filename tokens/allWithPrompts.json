@@ -339,6 +339,286 @@
     }
   },
   {
+    "communityId": "SWAPO",
+    "name": "Swapo",
+    "symbol": "SWAPO",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SWAPO.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "FARM",
+      "only": true,
+      "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "blue frog humanoid kawaii pokemon wearing santa outfit",
+        "blue frog kawaii pokemon wearing santa outfit",
+        "blue pepe frog humanoid kawaii pokemon wearing santa outfit"
+      ],
+      "dragon": [
+        "blue frog dragon pokemon wearing santa outfit and holding gifts with wings",
+        "blue frog humanoid dragon pokemon wearing santa outfit",
+        "blue frog dragon pokemon wearing santa outfit"
+      ],
+      "degen": [
+        "blue frog humanoid pokemon wearing santa outfit",
+        "blue pepe frog humanoid pokemon wearing santa outfit",
+        "blue frog humanoid pokemon wearing santa outfit and holding gifts",
+        "blue monster frog humanoid pokemon wearing santa outfit and holding gifts",
+        "blue frog legendary evolved pokemon wearing santa outfit and holding gifts"
+      ]
+    }
+  },
+  {
+    "communityId": "SNOWCAT",
+    "name": "Snowcat",
+    "symbol": "SNOWCAT",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SNOWCAT.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "FARM",
+      "only": true,
+      "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "snow leopard kawaii pokemon",
+        "snow leopard kawaii pokemon wearing winter clothes",
+        "snow leopard kawaii pokemon surrounded by snow"
+      ],
+      "dragon": [
+        "snow leopard dragon pokemon with wings",
+        "snow leopard dragon monster pokemon with wings and claws",
+        "snow leopard dragon pokemon with wings and winter clothes"
+      ],
+      "degen": [
+        "monster snowy cat pokemon",
+        "monster snow leopard pokemon",
+        "evolved snow leopard pokemon surrounded by snow",
+        "legendary snow leopard pokemon wearing scarf",
+        "vicious monster snow leopard pokemon"
+      ]
+    }
+  },
+  {
+    "communityId": "YETI",
+    "name": "Yeti",
+    "symbol": "YETI",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/YETI.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "WOODS",
+      "only": true,
+      "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "snow yeti kawaii pokemon",
+        "kawaii yeti pokemon",
+        "kawaii yeti pokemon holding club"
+      ],
+      "dragon": [
+        "snow yeti dragon pokemon with wings",
+        "yeti pokemon with dragon wings, claws, and holding club",
+        "dragon yeti pokemon with wings"
+      ],
+      "degen": [
+        "monster christmas yeti pokemon",
+        "monster yeti pokemon",
+        "evolved snow yeti pokemon",
+        "legendary yeti pokemon",
+        "vicious monster yeti pokemon with club and claws"
+      ]
+    }
+  },
+  {
+    "communityId": "ELF",
+    "name": "Elf",
+    "symbol": "ELF",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ELF.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "WOODS",
+      "only": true,
+      "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "purple kawaii christmas elf pokemon",
+        "kawaii christmas elf fairy pokemon",
+        "christmas elf fariy queen kawaii pokemon",
+        "kawaii christmas elf king pokemon with staff"
+      ],
+      "dragon": [
+        "magic chirstmas elf dragon pokemon with sword and wings",
+        "purple magic christmas elf dragon pokemon with wings",
+        "Dragon christmas fairy queen elf pokemon with wings"
+      ],
+      "degen": [
+        "monster christmas elf pokemon",
+        "monster vicious christmas elf pokemon",
+        "christmas elf magic knight pokemon with sword",
+        "purple christmas elf pokemon evolved",
+        "christmas fairy queen elf pokemon"
+      ]
+    }
+  },
+  {
+    "communityId": "KRAMPUS",
+    "name": "Krampus",
+    "symbol": "KRAMPUS",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/KRAMPUS.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "TOWN",
+      "only": true,
+      "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "krampus kawaii pokemon demon",
+        "krampus kawaii pokemon demon wearing black santa suit",
+        "krampus kawaii pokemon demon wearing black santa suit and holding presents"
+      ],
+      "dragon": [
+        "krampus dragon pokemon demon with wings",
+        "krampus monster dragon pokemon demon",
+        "krampus monster dragon pokemon demon with wings wearing black santa outfit"
+      ],
+      "degen": [
+        "krampus monster pokemon demon",
+        "krampus monster vicious pokemon demon",
+        "krampus monster pokemon",
+        "krampus monster pokemon demon wearing black santa outfit",
+        "krampus monster pokemon demon wearing black santa outfit holding presents"
+      ]
+    }
+  },
+  {
+    "communityId": "HOLIDAYS",
+    "name": "Holidays",
+    "symbol": "HOLIDAYS",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/HOLIDAYS.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "TOWN",
+      "only": true,
+      "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "Christmas kawaii pokemon wearing santa hat",
+        "Gingerbread man kawaii pokemon wearing santa hat",
+        "Christmas kawaii santa pokemon",
+        "kawaii christmas tree pokemon wearing santa hat"
+      ],
+      "dragon": [
+        "Dragon christmas pokemon wearing santa hat",
+        "Dragon christmas gingerbread man pokemon wearing santa hat",
+        "Dragon christmas snowman pokemon wearing santa hat with fangs and claws"
+      ],
+      "degen": [
+        "monster christmas pokemon wearning santa hat",
+        "monster vicious christmas pokemon wearning santa hat",
+        "monster vicious snowman pokemon wearning santa hat",
+        "feral gingerbread monster pokemon wearing santa hat",
+        "monster santa themed christmas pokemon with claws and fangs"
+      ]
+    }
+  },
+  {
+    "communityId": "POLAR",
+    "name": "Polar",
+    "symbol": "POLAR",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/POLAR.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": true,
+      "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "polar bear kawaii pokemon wearing red scarf",
+        "kawaii polar bear pokemon with winter cloths on",
+        "kawaii polar bear pokemon with scarf and hat"
+      ],
+      "dragon": [
+        "polar bear dragon pokemon with wings wearing scarf",
+        "polar bear dragon monster pokemon with red scarf",
+        "dragon polar bear pokemon with wings, wearing scarf and hat"
+      ],
+      "degen": [
+        "monster polar bear pokemon wearing scarf",
+        "monster polar bear pokemon wearing scarf with claws",
+        "evolved polar bear pokemon wearing scarf",
+        "legendary polar bear pokemon wearing scarf",
+        "vicious monster polar bearpokemon with club and claws wearing red scarf"
+      ]
+    }
+  },
+  {
+    "communityId": "PENGU",
+    "name": "Pengu",
+    "symbol": "PENGU",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/PENGU.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": true,
+      "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "pudgy penguin kawaii pokemon wearing winter clothes",
+        "penguin kawaii pokemon wearing winter clothes"
+      ],
+      "dragon": [
+        "pudgy penguin dragon pokemon with wings and winter clothes",
+        "penguin dragon pokemon with wings and winter clothes"
+      ],
+      "degen": [
+        "monster pudgy penguin pokemon wearing winter clothes",
+        "monster penguin pokemon wearing winter clothes",
+        "evolved pudgy penguin pokemon wearing winter clothes",
+        "legendary pudgy penguin pokemon wearing winter clothes",
+        "monster penguin pokemon"
+      ]
+    }
+  },
+  {
     "communityId": "RAY",
     "name": "Ray",
     "symbol": "RAY",
@@ -352,6 +632,19 @@
       "scene": "BEACH",
       "only": true,
       "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "pink sting ray kawaii pokemon"
+      ],
+      "dragon": [
+        "pink sting ray dragon pokemon",
+        "pink sting ray dragon pokemon with wings and claws"
+      ],
+      "degen": [
+        "pink sting ray monster humanoid pokemon",
+        "Pink sting ray monster pokemon"
+      ]
     }
   },
   {
@@ -363,11 +656,26 @@
     "tags": [
       "HUNTER"
     ],
-    "hunting": {
-      "capture": true,
-      "scene": "FARM",
-      "only": true,
-      "premium": true
+    "prompts": {
+      "kawaii": [
+        "halloween pumpkin headed kawaii pokemon spooky",
+        "halloween pumpkin kawaii pokemon spooky",
+        "halloween pokemon spooky",
+        "halloween ghost kawaii pokemon spooky",
+        "halloween kawaii pokemon spooky"
+      ],
+      "dragon": [
+        "halloween pumpkin headed dragon pokemon spooky",
+        "halloween dragon pokemon spooky",
+        "halloween pumpkin headed dragon ghost pokemon spooky",
+        "halloween ghost dragon pokemon spooky"
+      ],
+      "degen": [
+        "halloween jack skellington pokemon spooky",
+        "halloween ghost monster pokemon spooky",
+        "halloween pumpkin headed kawaii pokemon spooky",
+        "halloween monster pokemon spooky"
+      ]
     }
   },
   {
@@ -379,11 +687,19 @@
     "tags": [
       "HUNTER"
     ],
-    "hunting": {
-      "capture": true,
-      "scene": "FARM",
-      "only": true,
-      "premium": true
+    "prompts": {
+      "kawaii": [
+        "Colorful turkey kawaii pokemon with brown feathers",
+        "brown turkey kawaii pokemon with colorful feathers"
+      ],
+      "dragon": [
+        "Colorful turkey dragon pokemon with brown feathers",
+        "brown turkey dragon pokemon with colorful feathers"
+      ],
+      "degen": [
+        "Colorful turkey monster pokemon with brown feathers",
+        "brown turkey monster pokemon with colorful feathers"
+      ]
     }
   },
   {
@@ -400,6 +716,21 @@
       "scene": "WOODS",
       "only": true,
       "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "white and black kawaii bat pokemon",
+        "White kawaii bat pokemon with fangs",
+        "white and black kawaii vampire bat pokemon"
+      ],
+      "dragon": [
+        "white and black dragon vampire bat pokemon",
+        "white and black dragon bat pokemon"
+      ],
+      "degen": [
+        "white and black monster vampire bat humanoid pokemon",
+        "white and black monster vampire bat pokemon"
+      ]
     }
   },
   {
@@ -416,6 +747,17 @@
       "scene": "TOWN",
       "only": true,
       "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "multiple swarming red spiky kawaii pokemon with many heads"
+      ],
+      "dragon": [
+        "multiple swarming red spiky dragon pokemon with many heads"
+      ],
+      "degen": [
+        "multiple swarming red spiky monster pokemon with many heads"
+      ]
     }
   },
   {
@@ -432,6 +774,20 @@
       "scene": "TOWN",
       "only": true,
       "premium": true
+    },
+    "prompts": {
+      "kawaii": [
+        "purple kawaii frog pokemon covered in ice",
+        "purple kawaii frog pokemon covered in ice, shooting icicles"
+      ],
+      "dragon": [
+        "purple frog dragon pokemon covered in ice, with wings and scales",
+        "purple frog dragon pokemon covered in ice"
+      ],
+      "degen": [
+        "purple frog monster vicious pokemon covered in ice with fangs and claws",
+        "purple frog monster vicious humanoid pokemon covered in ice with fangs and claws"
+      ]
     }
   },
   {
@@ -1230,12 +1586,6 @@
       "BASE",
       "PARTNER"
     ],
-    "hunting": {
-      "capture": true,
-      "scene": "FARM",
-      "only": false,
-      "premium": false
-    },
     "prompts": {
       "kawaii": [
         "small white llama kawaii pokemon with bright blue fur"
@@ -1715,13 +2065,7 @@
     "tags": [
       "BASE",
       "MEME"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "TOWN",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "AVI",
@@ -2066,13 +2410,7 @@
     "tags": [
       "BASE",
       "MEME"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "GOOCH",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "TOBY",
@@ -2083,13 +2421,7 @@
     "tags": [
       "BASE",
       "MEME"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "WOODS",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "RGOAT",
@@ -2147,13 +2479,7 @@
     "tags": [
       "BASE",
       "MEME"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "WOODS",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "GMR",
@@ -2215,13 +2541,7 @@
     "tags": [
       "PARTNER",
       "BASE"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "BEACH",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "ABOND",
@@ -2351,13 +2671,7 @@
     "extraPaymentTokens": [],
     "tags": [
       "DEFI"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "BEACH",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "COMP",

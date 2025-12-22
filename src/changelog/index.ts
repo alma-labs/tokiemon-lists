@@ -2,6 +2,14 @@ import { Changelog } from "../types";
 
 export const changelogs: Changelog[] = [
   {
+    title: "Changelog Notes 12/22",
+    date: "December 22, 2025",
+    changes: ["Added new items to Kawaii, Dragon, & Degen capture.",
+      "Added all new Hunter breeds in",
+      "Added new paintbrushes to the Painting Studio menu.",
+      ],
+  },
+  {
     title: "Changelog Notes 11/11",
     date: "November 11, 2025",
     changes: ["Added new items to Kawaii, Dragon, & Degen capture to replace the birhtday items.",
