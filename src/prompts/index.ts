@@ -239,6 +239,46 @@ import {
   dragon as dragonRay,
   degen as degenRay,
 } from "./RAY";
+import {
+  kawaii as kawaiiHolidays,
+  dragon as dragonHolidays,
+  degen as degenHolidays,
+} from "./HOLIDAYS";
+import {
+  kawaii as kawaiiElf,
+  dragon as dragonElf,
+  degen as degenElf,
+} from "./ELF";
+import {
+  kawaii as kawaiiYeti,
+  dragon as dragonYeti,
+  degen as degenYeti,
+} from "./YETI";
+import {
+  kawaii as kawaiiPolar,
+  dragon as dragonPolar,
+  degen as degenPolar,
+} from "./POLAR";
+import {
+  kawaii as kawaiiSnowcat,
+  dragon as dragonSnowcat,
+  degen as degenSnowcat,
+} from "./SNOWCAT";
+import {
+  kawaii as kawaiiPengu,
+  dragon as dragonPengu,
+  degen as degenPengu,
+} from "./PENGU";
+import {
+  kawaii as kawaiiSwapo,
+  dragon as dragonSwapo,
+  degen as degenSwapo,
+} from "./SWAPO";
+import {
+  kawaii as kawaiiKrampus,
+  dragon as dragonKrampus,
+  degen as degenKrampus,
+} from "./KRAMPUS";
 
 export const TOKIEMON_PROMPTS = { kawaii, dragon, degen };
 export const HOLIDAY_PROMPTS = {
@@ -480,4 +520,44 @@ export const RAY_PROMPTS = {
   kawaii: kawaiiRay,
   dragon: dragonRay,
   degen: degenRay,
+};
+export const HOLIDAYS_PROMPTS = {
+  kawaii: kawaiiHolidays,
+  dragon: dragonHolidays,
+  degen: degenHolidays,
+};
+export const ELF_PROMPTS = {
+  kawaii: kawaiiElf,
+  dragon: dragonElf,
+  degen: degenElf,
+};
+export const YETI_PROMPTS = {
+  kawaii: kawaiiYeti,
+  dragon: dragonYeti,
+  degen: degenYeti,
+};
+export const POLAR_PROMPTS = {
+  kawaii: kawaiiPolar,
+  dragon: dragonPolar,
+  degen: degenPolar,
+};
+export const SNOWCAT_PROMPTS = {
+  kawaii: kawaiiSnowcat,
+  dragon: dragonSnowcat,
+  degen: degenSnowcat,
+};
+export const PENGU_PROMPTS = {
+  kawaii: kawaiiPengu,
+  dragon: dragonPengu,
+  degen: degenPengu,
+};
+export const SWAPO_PROMPTS = {
+  kawaii: kawaiiSwapo,
+  dragon: dragonSwapo,
+  degen: degenSwapo,
+};
+export const KRAMPUS_PROMPTS = {
+  kawaii: kawaiiKrampus,
+  dragon: dragonKrampus,
+  degen: degenKrampus,
 };

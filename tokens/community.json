@@ -8,6 +8,134 @@
     "tags": []
   },
   {
+    "communityId": "SWAPO",
+    "name": "Swapo",
+    "symbol": "SWAPO",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SWAPO.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "FARM",
+      "only": true,
+      "premium": true
+    }
+  },
+  {
+    "communityId": "SNOWCAT",
+    "name": "Snowcat",
+    "symbol": "SNOWCAT",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/SNOWCAT.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "FARM",
+      "only": true,
+      "premium": true
+    }
+  },
+  {
+    "communityId": "YETI",
+    "name": "Yeti",
+    "symbol": "YETI",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/YETI.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "WOODS",
+      "only": true,
+      "premium": true
+    }
+  },
+  {
+    "communityId": "ELF",
+    "name": "Elf",
+    "symbol": "ELF",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/ELF.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "WOODS",
+      "only": true,
+      "premium": true
+    }
+  },
+  {
+    "communityId": "KRAMPUS",
+    "name": "Krampus",
+    "symbol": "KRAMPUS",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/KRAMPUS.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "TOWN",
+      "only": true,
+      "premium": true
+    }
+  },
+  {
+    "communityId": "HOLIDAYS",
+    "name": "Holidays",
+    "symbol": "HOLIDAYS",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/HOLIDAYS.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "TOWN",
+      "only": true,
+      "premium": true
+    }
+  },
+  {
+    "communityId": "POLAR",
+    "name": "Polar",
+    "symbol": "POLAR",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/POLAR.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": true,
+      "premium": true
+    }
+  },
+  {
+    "communityId": "PENGU",
+    "name": "Pengu",
+    "symbol": "PENGU",
+    "logoURI": "https://raw.githubusercontent.com/alma-labs/tokiemon-lists/main/assets/tokens/PENGU.png",
+    "extraPaymentTokens": [],
+    "tags": [
+      "HUNTER"
+    ],
+    "hunting": {
+      "capture": true,
+      "scene": "BEACH",
+      "only": true,
+      "premium": true
+    }
+  },
+  {
     "communityId": "RAY",
     "name": "Ray",
     "symbol": "RAY",
@@ -31,13 +159,7 @@
     "extraPaymentTokens": [],
     "tags": [
       "HUNTER"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "FARM",
-      "only": true,
-      "premium": true
-    }
+    ]
   },
   {
     "communityId": "TURKEY",
@@ -47,13 +169,7 @@
     "extraPaymentTokens": [],
     "tags": [
       "HUNTER"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "FARM",
-      "only": true,
-      "premium": true
-    }
+    ]
   },
   {
     "communityId": "BAT",
@@ -551,13 +667,7 @@
     "tags": [
       "BASE",
       "PARTNER"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "FARM",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "TOPI",
@@ -797,13 +907,7 @@
     "tags": [
       "BASE",
       "MEME"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "TOWN",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "AVI",
@@ -1090,13 +1194,7 @@
     "tags": [
       "BASE",
       "MEME"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "GOOCH",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "TOBY",
@@ -1107,13 +1205,7 @@
     "tags": [
       "BASE",
       "MEME"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "WOODS",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "RGOAT",
@@ -1171,13 +1263,7 @@
     "tags": [
       "BASE",
       "MEME"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "WOODS",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "GMR",
@@ -1239,13 +1325,7 @@
     "tags": [
       "PARTNER",
       "BASE"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "BEACH",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "ABOND",
@@ -1375,13 +1455,7 @@
     "extraPaymentTokens": [],
     "tags": [
       "DEFI"
-    ],
-    "hunting": {
-      "capture": true,
-      "scene": "BEACH",
-      "only": false,
-      "premium": false
-    }
+    ]
   },
   {
     "communityId": "COMP",

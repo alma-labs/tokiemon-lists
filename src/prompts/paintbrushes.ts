@@ -217,4 +217,28 @@ export const paintbrushes: Paintbrush[] = [
     selectionType: "always",
     keywords: ["grim reaper pokemon"],
   },
+  {
+    itemId: "1004",
+    name: "Holiday",
+    selectionType: "random",
+    keywords: ["christmas pokemon wearing santa hat", "christmas gingerbread pokemon", "christmas holiday pokemon"],
+  },
+  {
+    itemId: "1005",
+    name: "Yeti",
+    selectionType: "always",
+    keywords: ["snow yeti pokemon"],
+  },
+  {
+    itemId: "1006",
+    name: "Krampus",
+    selectionType: "always",
+    keywords: ["krampus demon pokemon"],
+  },
+  {
+    itemId: "1007",
+    name: "Sleigh",
+    selectionType: "always",
+    keywords: ["pokemon riding sleigh"],
+  },
 ];
